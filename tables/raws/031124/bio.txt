@@ -1,0 +1,555 @@
+PLAYER TEAM AGE HEIGHT WEIGHT COLLEGE COUNTRY DRAFT YEAR DRAFT ROUND DRAFT NUMBER GP PTS REB AST NETRTG OREB% DREB% USG% TS% AST%
+A.J. Lawson DAL 23 6-6 179 South Carolina Canada Undrafted Undrafted Undrafted 30.0 3.6 1.1 0.4 4.5 4.4 8.1 17.1 57.2 7.5
+AJ Green MIL 24 6-4 190 Northern Iowa USA Undrafted Undrafted Undrafted 42.0 4.3 1.1 0.6 0.5 1.6 9.6 16.3 62.4 9.2
+AJ Griffin ATL 20 6-6 220 Duke USA 2022 1 16 18.0 2.1 0.8 0.2 -9.8 1.4 10.1 15.6 40.3 4.2
+Aaron Gordon DEN 28 6-8 235 Arizona USA 2014 1 4 58.0 13.8 6.5 3.2 8.0 7.7 13.0 17.4 60.2 13.5
+Aaron Holiday HOU 27 6-0 185 UCLA USA 2018 1 23 61.0 6.6 1.7 1.8 2.5 1.4 8.1 15.6 58.3 15.5
+Aaron Nesmith IND 24 6-6 215 Vanderbilt USA 2020 1 14 56.0 12.3 3.8 1.4 2.8 3.2 10.7 16.1 64.3 6.7
+Aaron Wiggins OKC 25 6-5 190 Maryland USA 2021 2 55 61.0 6.2 2.3 0.9 5.2 5.6 9.9 15.4 68.0 8.6
+Adam Flagler OKC 24 6-3 180 Baylor USA Undrafted Undrafted Undrafted 1.0 0.0 0.0 1.0 0.0 0.0 0.0 21.4 0.0 25.0
+Adama Sanogo CHI 22 6-9 245 Connecticut Mali Undrafted Undrafted Undrafted 3.0 2.7 2.0 0.0 70.1 15.4 33.3 17.9 92.6 0.0
+Admiral Schofield ORL 26 6-5 241 Tennessee United Kingdom 2019 2 42 16.0 0.9 0.6 0.3 9.8 3.5 12.5 17.1 41.9 16.1
+Al Horford BOS 37 6-9 240 Florida Dominican Republic 2007 1 3 53.0 7.8 6.6 2.6 10.7 4.9 18.6 11.3 61.7 12.7
+Alec Burks NYK 32 6-5 214 Colorado USA 2011 1 12 55.0 11.5 2.3 1.4 -11.3 1.8 10.0 23.2 55.0 11.2
+Aleksej Pokusevski CHA 22 7-0 210 None Serbia 2020 1 17 11.0 1.7 1.1 0.5 -22.2 2.9 15.9 15.4 46.0 10.6
+Alex Caruso CHI 30 6-5 186 Texas A&M USA Undrafted Undrafted Undrafted 55.0 9.6 3.7 2.9 1.3 3.2 10.0 14.5 60.4 15.1
+Alex Fudge DAL 20 6-8 200 Florida USA Undrafted Undrafted Undrafted 4.0 1.0 0.5 0.0 -77.3 13.3 0.0 21.1 29.1 0.0
+Alex Len SAC 30 7-0 250 Maryland Ukraine 2013 1 5 29.0 2.5 2.9 0.9 15.3 12.0 20.3 12.9 57.5 12.9
+Alondes Williams MIA 24 6-4 210 Wake Forest USA Undrafted Undrafted Undrafted 2.0 0.0 0.5 0.0 -43.1 0.0 11.1 16.7 0.0 0.0
+Alperen Sengun HOU 21 6-11 243 None Turkey 2021 1 16 63.0 21.1 9.3 5.0 0.8 8.6 19.3 27.0 58.5 24.8
+Amari Bailey CHA 20 6-3 185 UCLA USA 2023 2 41 3.0 1.7 0.7 0.3 -3.6 14.3 0.0 25.0 31.7 8.3
+Amen Thompson HOU 21 6-7 200 None USA 2023 1 4 45.0 7.9 5.6 2.3 -2.0 7.9 19.0 17.3 54.8 16.4
+Amir Coffey LAC 26 6-7 210 Minnesota USA Undrafted Undrafted Undrafted 51.0 6.1 1.9 1.0 -1.9 2.0 7.7 11.1 65.5 6.5
+Andre Drummond CHI 30 6-11 279 Connecticut USA 2012 1 9 64.0 8.2 8.8 0.5 0.3 18.8 32.1 20.3 56.5 4.1
+Andre Jackson Jr. MIL 22 6-6 209 Connecticut USA 2023 2 36 48.0 2.4 2.0 0.9 -5.2 7.2 11.7 9.5 61.9 11.1
+Andrew Nembhard IND 24 6-4 191 Gonzaga Canada 2022 2 31 51.0 8.9 2.0 4.2 0.7 2.5 5.9 17.0 56.1 22.8
+Andrew Wiggins GSW 29 6-7 197 Kansas Canada 2014 1 1 54.0 12.4 4.2 1.7 -3.3 5.4 9.6 19.8 53.6 9.1
+Anfernee Simons POR 24 6-3 193 None USA 2018 1 24 40.0 22.9 3.6 5.5 -11.1 1.4 9.7 27.9 56.7 26.8
+Anthony Black ORL 20 6-7 200 Arkansas USA 2023 1 6 59.0 4.9 2.3 1.5 -0.2 2.9 9.7 12.1 55.9 10.8
+Anthony Davis LAL 31 6-10 253 Kentucky USA 2012 1 1 62.0 24.8 12.5 3.6 0.7 9.0 24.9 26.0 61.8 15.5
+Anthony Edwards MIN 22 6-4 225 Georgia USA 2020 1 1 62.0 26.3 5.2 5.0 8.7 1.7 12.6 31.6 57.8 23.4
+Anthony Gill WAS 31 6-8 230 Virginia USA Undrafted Undrafted Undrafted 34.0 1.9 1.1 0.4 20.5 8.2 13.2 17.0 55.2 9.3
+Armoni Brooks BKN 25 6-3 195 Houston USA 2019 10.0 4.2 1.8 0.5 13.7 6.1 9.8 18.8 44.8 6.0
+Ashton Hagans POR 24 6-3 190 Kentucky USA Undrafted Undrafted Undrafted 12.0 3.8 2.2 2.7 -2.3 3.6 10.7 14.4 48.0 23.5
+Ausar Thompson DET 21 6-6 205 None USA 2023 1 5 63.0 8.8 6.4 1.9 -5.3 7.7 17.3 16.1 52.2 10.8
+Austin Reaves LAL 25 6-5 197 Oklahoma USA Undrafted Undrafted Undrafted 66.0 15.8 4.1 5.5 -2.0 2.1 10.5 19.7 62.2 24.3
+Ayo Dosunmu CHI 24 6-5 200 Illinois USA 2021 2 38 62.0 10.8 2.7 2.9 -2.9 2.4 7.3 16.0 59.5 15.0
+Bam Adebayo MIA 26 6-9 255 Kentucky USA 2017 1 14 54.0 19.9 10.4 4.0 -0.4 6.7 23.6 25.4 56.3 19.3
+Ben Sheppard IND 22 6-6 190 Belmont USA 2023 1 26 40.0 4.1 1.5 0.7 1.2 1.6 10.6 12.5 56.9 6.9
+Ben Simmons BKN 27 6-10 240 Louisiana State Australia 2016 1 1 15.0 6.1 7.9 5.7 -3.4 8.0 24.1 12.6 57.1 30.6
+Bennedict Mathurin IND 21 6-5 210 Arizona Canada 2022 1 6 59.0 14.5 4.0 2.0 -2.9 3.8 11.3 22.6 56.2 10.5
+Bilal Coulibaly WAS 19 6-8 195 None France 2023 1 7 60.0 8.3 4.0 1.7 -10.6 3.0 11.5 13.7 54.7 8.2
+Bismack Biyombo OKC 31 6-8 255 None DRC 2011 1 7 35.0 4.6 5.6 1.5 -3.6 7.8 17.8 10.4 55.5 9.1
+Blake Wesley SAS 20 6-3 185 Notre Dame USA 2022 1 25 43.0 4.1 1.3 2.7 -9.1 1.8 7.5 13.8 55.4 27.8
+Boban Marjanovic HOU 35 7-4 290 None Serbia Undrafted Undrafted Undrafted 9.0 2.6 2.4 0.4 -20.6 13.0 32.7 20.7 48.6 11.8
+Bobby Portis MIL 29 6-10 250 Arkansas USA 2015 1 22 65.0 13.2 7.1 1.2 -0.3 6.8 22.5 21.9 57.4 7.1
+Bogdan Bogdanovic ATL 31 6-5 225 None Serbia 2014 1 27 62.0 16.8 3.3 2.9 2.9 1.9 9.1 21.9 56.7 14.1
+Bojan Bogdanovic NYK 34 6-7 226 None Croatia 2011 2 31 39.0 18.3 3.2 2.1 -13.8 1.5 9.4 24.3 59.0 10.7
+Bol Bol PHX 24 7-3 220 Oregon Sudan 2019 2 44 26.0 5.7 3.5 0.4 2.9 8.5 19.2 16.4 67.8 5.9
+Bones Hyland LAC 23 6-2 169 Virginia Commonwealth USA 2021 1 26 25.0 6.1 0.9 2.0 -3.9 0.9 5.6 23.4 47.5 22.3
+Bradley Beal PHX 30 6-4 207 Florida USA 2012 1 3 35.0 18.4 4.1 4.6 2.5 2.8 9.6 23.9 58.3 20.2
+Brandin Podziemski GSW 21 6-4 205 Santa Clara USA 2023 1 19 55.0 9.6 5.8 3.9 6.3 5.6 15.0 15.4 53.5 18.6
+Brandon Boston Jr. LAC 22 6-6 188 Kentucky USA 2021 2 51 20.0 3.9 1.0 0.3 -23.4 5.3 7.1 23.6 48.6 6.5
+Brandon Ingram NOP 26 6-8 190 Duke USA 2016 1 2 58.0 21.4 5.1 5.9 4.9 2.2 13.1 27.2 58.1 26.4
+Brandon Miller CHA 21 6-7 200 Alabama USA 2023 1 2 57.0 16.9 4.2 2.3 -9.1 2.6 10.9 23.1 54.7 11.1
+Brandon Williams DAL 24 6-1 190 Arizona USA Undrafted Undrafted Undrafted 12.0 2.0 0.6 1.0 -20.9 4.2 6.3 20.0 44.7 32.4
+Braxton Key DEN 27 6-8 225 Virginia USA Undrafted Undrafted Undrafted 17.0 1.0 0.8 0.5 -5.1 5.5 20.0 15.2 45.6 22.2
+Brice Sensabaugh UTA 20 6-5 235 Ohio State USA 2023 1 28 14.0 5.1 1.8 0.7 -6.8 2.7 13.3 18.0 58.1 7.8
+Brook Lopez MIL 35 7-1 282 Stanford USA 2008 1 10 62.0 12.5 5.3 1.6 7.4 4.7 11.2 15.1 59.6 7.0
+Bruce Brown TOR 27 6-4 202 Miami USA 2018 2 42 52.0 10.8 4.4 2.7 -1.5 3.0 12.9 15.8 55.4 11.9
+Bruno Fernando ATL 25 6-9 240 Maryland Angola 2019 2 34 27.0 4.8 3.9 0.7 -3.7 9.9 20.6 16.6 57.9 7.9
+Bryce McGowens CHA 21 6-6 175 Nebraska USA 2022 2 40 50.0 5.2 1.8 0.9 -12.0 2.0 9.8 13.8 57.5 8.4
+Buddy Hield PHI 31 6-4 220 Oklahoma Bahamas 2016 1 6 66.0 12.6 3.3 3.1 1.0 2.4 10.1 18.3 58.3 14.7
+CJ McCollum NOP 32 6-3 190 Lehigh USA 2013 1 10 48.0 18.5 4.3 4.4 4.0 1.8 11.9 23.4 58.8 20.0
+Cade Cunningham DET 22 6-6 220 Oklahoma State USA 2021 1 1 53.0 22.6 4.2 7.5 -8.2 1.5 11.2 29.1 55.4 35.1
+Caleb Houstan ORL 21 6-8 205 Michigan Canada 2022 2 32 48.0 4.5 1.6 0.6 -2.3 3.4 7.4 12.2 58.5 5.5
+Caleb Martin MIA 28 6-5 205 Nevada USA Undrafted Undrafted Undrafted 47.0 10.4 4.6 2.1 1.9 4.5 12.6 16.7 55.7 10.9
+Cam Reddish LAL 24 6-7 217 Duke USA 2019 1 10 40.0 6.2 2.3 1.2 -0.8 2.5 7.6 12.8 52.1 6.6
+Cam Thomas BKN 22 6-3 210 Louisiana State Japan 2021 1 27 50.0 21.3 2.9 2.7 -4.5 1.3 8.5 29.6 54.7 14.5
+Cam Whitmore HOU 19 6-7 230 Villanova USA 2023 1 20 38.0 12.1 3.9 0.5 -1.6 4.3 16.0 25.8 56.8 4.3
+Cameron Johnson BKN 28 6-8 210 North Carolina USA 2019 1 11 49.0 13.8 4.4 2.5 -2.5 3.3 12.5 19.2 58.5 13.3
+Cameron Payne PHI 29 6-3 183 Murray State USA 2015 1 14 60.0 7.2 1.4 2.6 0.0 1.2 7.1 17.8 57.2 21.4
+Caris LeVert CLE 29 6-6 205 Michigan USA 2016 1 20 52.0 13.8 3.8 4.8 3.2 1.8 11.4 22.8 51.3 25.0
+Cason Wallace OKC 20 6-3 195 Kentucky USA 2023 1 10 64.0 6.8 2.2 1.4 3.9 3.3 7.5 12.4 62.8 8.7
+Cedi Osman SAS 28 6-7 230 None Turkey 2015 2 31 63.0 6.7 2.5 1.7 -13.8 1.9 12.1 14.7 59.3 13.4
+Charles Bassey SAS 23 6-10 230 Western Kentucky Nigeria 2021 2 53 19.0 3.3 4.0 1.1 -11.6 10.2 26.5 11.0 73.9 13.6
+Charlie Brown Jr. NYK 27 6-6 199 St. Joseph's (PA) USA Undrafted Undrafted Undrafted 8.0 0.8 0.3 0.0 -1.0 2.5 2.7 14.5 30.0 0.0
+Chet Holmgren OKC 21 7-1 208 Gonzaga USA 2022 1 2 64.0 16.9 7.8 2.7 9.2 5.6 18.7 20.8 63.9 12.2
+Chimezie Metu PHX 26 6-10 225 USC USA 2018 2 49 37.0 5.0 3.0 0.5 -5.0 6.0 18.8 17.0 62.1 6.2
+Chris Boucher TOR 31 6-9 200 Oregon Saint Lucia Undrafted Undrafted Undrafted 50.0 6.4 4.1 0.5 2.4 8.4 20.2 16.7 62.5 4.4
+Chris Duarte SAC 26 6-5 190 Oregon Dominican Republic 2021 1 13 43.0 4.0 1.9 0.8 -1.8 3.1 11.5 13.8 51.5 7.9
+Chris Livingston MIL 20 6-6 220 Kentucky USA 2023 2 58 16.0 1.1 0.9 0.3 -10.3 3.4 20.0 13.0 50.4 8.9
+Chris Paul GSW 38 6-0 175 Wake Forest USA 2005 1 4 39.0 9.0 3.7 7.1 2.4 1.1 12.1 14.3 55.3 35.2
+Christian Braun DEN 22 6-6 220 Kansas USA 2022 1 21 64.0 6.9 3.6 1.4 -1.6 4.3 13.1 15.3 54.2 9.7
+Christian Wood LAL 28 6-8 214 UNLV USA Undrafted Undrafted Undrafted 50.0 6.9 5.1 1.0 0.0 4.8 22.6 17.3 56.8 7.9
+Chuma Okeke ORL 25 6-7 229 Auburn USA 2019 1 16 38.0 2.7 1.9 0.5 -5.4 4.2 14.3 12.8 48.5 7.4
+Clint Capela ATL 29 6-10 256 None Switzerland 2014 1 25 56.0 11.2 10.4 1.1 -2.1 16.0 22.4 16.5 58.6 5.7
+Coby White CHI 24 6-5 195 North Carolina USA 2019 1 7 64.0 19.7 4.8 5.3 -0.2 1.5 11.5 22.3 58.6 21.2
+Cody Martin CHA 28 6-6 205 Nevada USA 2019 2 36 28.0 7.5 3.9 3.7 -10.5 2.4 12.4 15.7 46.0 19.2
+Cody Zeller NOP 31 6-11 240 Indiana USA 2013 1 4 39.0 1.9 2.7 0.9 8.5 13.5 18.5 11.8 48.1 14.6
+Colby Jones SAC 21 6-6 207 Xavier USA 2023 2 34 17.0 2.2 1.5 0.6 -1.7 7.3 12.8 17.8 38.4 12.3
+Cole Anthony ORL 23 6-2 185 North Carolina USA 2020 1 15 64.0 11.7 4.0 3.1 1.0 3.6 13.9 23.2 53.9 20.6
+Cole Swider MIA 24 6-8 220 Syracuse USA Undrafted Undrafted Undrafted 11.0 2.3 0.4 0.4 0.0 1.6 5.7 23.5 48.3 11.8
+Colin Castleton LAL 23 6-10 250 Florida USA Undrafted Undrafted Undrafted 7.0 2.6 1.3 0.4 -28.4 12.1 15.2 15.9 76.5 16.7
+Collin Gillespie DEN 24 6-1 195 Villanova USA Undrafted Undrafted Undrafted 19.0 3.3 0.6 0.8 -0.9 0.6 6.9 15.4 63.9 13.8
+Collin Sexton UTA 25 6-3 190 Alabama USA 2018 1 8 64.0 18.2 2.5 4.7 -0.5 3.1 6.5 26.4 61.1 27.6
+Corey Kispert WAS 25 6-6 224 Gonzaga USA 2021 1 15 62.0 12.3 2.6 1.8 -11.2 1.4 9.3 19.8 61.3 11.6
+Cory Joseph GSW 32 6-2 200 Texas Canada 2011 1 29 26.0 2.4 1.2 1.6 -3.0 1.9 8.3 10.8 47.0 17.4
+Craig Porter Jr. CLE 24 6-1 180 Wichita State USA Undrafted Undrafted Undrafted 40.0 6.1 2.3 2.6 -0.6 3.5 13.9 20.5 55.8 26.8
+D'Angelo Russell LAL 28 6-3 193 Ohio State USA 2015 1 2 61.0 18.0 3.0 6.2 1.6 1.3 7.6 22.4 59.6 26.5
+D'Moi Hodge LAL 25 6-3 188 Missouri British Virgin Islands Undrafted Undrafted Undrafted 7.0 2.0 0.0 0.7 -44.2 0.0 0.0 17.2 44.1 22.7
+D.J. Carton TOR 23 6-3 200 Marquette USA Undrafted Undrafted Undrafted 4.0 2.8 1.0 0.8 -41.3 5.1 4.3 12.5 53.9 15.0
+DaQuan Jeffries NYK 26 6-5 222 Tulsa USA Undrafted Undrafted Undrafted 13.0 0.8 0.4 0.2 -8.7 0.0 12.5 20.5 37.0 10.0
+Daishen Nix MIN 22 6-3 226 None USA Undrafted Undrafted Undrafted 11.0 2.0 0.1 0.2 20.0 0.0 2.9 24.2 53.0 6.9
+Dalano Banton POR 24 6-8 204 Nebraska Canada 2021 2 46 36.0 6.2 2.5 1.4 -1.1 5.8 13.5 22.3 50.9 16.9
+Dalen Terry CHI 21 6-7 195 Arizona USA 2022 1 18 41.0 2.3 1.6 1.2 2.5 3.6 13.2 12.0 49.3 15.2
+Damian Jones CLE 28 6-10 245 Vanderbilt USA 2016 1 30 28.0 2.0 1.4 0.4 -21.9 6.3 15.9 12.9 61.4 11.0
+Damian Lillard MIL 33 6-2 195 Weber State USA 2012 1 6 60.0 24.7 4.4 6.9 8.2 1.5 10.1 27.5 59.6 27.7
+Daniel Gafford DAL 25 6-10 234 Arkansas USA 2019 2 38 57.0 10.7 7.8 1.4 -6.2 10.8 18.7 14.2 71.3 7.2
+Daniel Theis LAC 31 6-8 245 None Germany Undrafted Undrafted Undrafted 48.0 6.3 4.0 1.0 2.3 8.5 14.3 14.9 58.8 7.7
+Danilo Gallinari MIL 35 6-10 236 None Italy 2008 1 6 41.0 6.1 2.4 1.2 -8.0 3.3 15.2 16.9 59.9 12.8
+Danny Green PHI 36 6-6 215 North Carolina USA 2009 2 46 2.0 0.0 1.0 0.5 -5.9 0.0 11.1 4.3 0.0 5.6
+Dante Exum DAL 28 6-5 214 None Australia 2014 1 5 38.0 8.5 2.7 2.9 9.0 2.6 10.9 15.9 66.2 18.9
+Danuel House Jr. PHI 30 6-6 220 Texas A&M USA Undrafted Undrafted Undrafted 34.0 4.2 1.7 0.8 2.3 3.0 8.1 11.6 57.5 7.5
+Dario Saric GSW 29 6-10 225 None Croatia 2014 1 12 60.0 8.4 4.6 2.4 -1.2 6.3 19.2 19.0 60.0 18.8
+Dariq Whitehead BKN 19 6-6 220 Duke USA 2023 1 22 2.0 1.5 2.0 1.5 -42.8 0.0 19.0 9.4 25.5 14.3
+Darius Bazley PHI 23 6-9 216 None USA 2019 1 23 3.0 0.0 0.3 0.7 -5.3 0.0 14.3 9.5 0.0 22.2
+Darius Garland CLE 24 6-1 192 Vanderbilt USA 2019 1 5 40.0 18.5 2.4 6.3 3.6 1.5 5.5 25.3 56.9 28.3
+David Roddy PHX 22 6-4 255 Colorado State USA 2022 1 23 55.0 7.5 3.7 1.4 -9.6 4.2 13.3 17.7 48.5 10.1
+Davion Mitchell SAC 25 6-0 202 Baylor USA 2021 1 9 53.0 4.5 1.1 1.7 -9.0 1.2 6.7 14.0 56.2 17.3
+Davis Bertans CHA 31 6-10 225 None Latvia 2011 2 42 26.0 5.8 1.2 0.8 7.0 2.0 9.0 17.6 63.4 9.9
+Day'Ron Sharpe BKN 22 6-9 265 North Carolina USA 2021 1 29 48.0 7.1 6.6 1.5 6.5 16.0 23.8 18.1 60.9 14.0
+De'Aaron Fox SAC 26 6-3 185 Kentucky USA 2017 1 5 55.0 27.0 4.3 5.6 2.7 2.4 9.7 30.3 56.8 23.6
+De'Andre Hunter ATL 26 6-8 221 Virginia USA 2019 1 4 40.0 15.3 3.8 1.3 -1.4 1.9 11.6 19.6 61.9 6.4
+De'Anthony Melton PHI 25 6-3 200 Southern California USA 2018 2 46 36.0 11.5 3.8 3.1 10.0 2.7 11.0 17.6 54.0 14.2
+DeAndre Jordan DEN 35 6-11 265 Texas A&M USA 2008 2 35 29.0 4.1 4.6 0.7 -10.1 13.4 23.5 14.9 60.5 9.0
+DeJon Jarreau MEM 26 6-5 185 Houston USA Undrafted Undrafted Undrafted 1.0 7.0 10.0 5.0 -10.2 0.0 40.0 17.5 38.9 29.4
+DeMar DeRozan CHI 34 6-6 220 Southern California USA 2009 1 9 62.0 23.2 4.3 5.4 -2.0 1.5 9.8 24.2 58.0 22.2
+Dean Wade CLE 27 6-9 228 Kansas State USA Undrafted Undrafted Undrafted 54.0 5.4 4.0 0.8 8.3 3.3 15.4 10.1 59.8 5.2
+Deandre Ayton POR 25 7-0 247 Arizona Bahamas 2018 1 1 41.0 14.7 10.8 1.7 -7.4 9.5 25.2 19.2 58.6 8.7
+Dejounte Murray ATL 27 6-5 180 Washington USA 2016 1 29 61.0 21.8 5.2 5.8 -2.7 1.9 12.9 24.9 56.0 24.7
+Delon Wright MIA 31 6-5 185 Utah USA 2015 1 20 36.0 4.1 1.8 2.5 -3.8 2.6 9.2 12.9 50.9 23.8
+Deni Avdija WAS 23 6-9 210 None Israel 2020 1 9 61.0 13.8 6.9 3.7 -7.4 3.8 19.0 19.2 59.6 17.4
+Dennis Schroder BKN 30 6-1 175 None Germany 2013 1 17 65.0 13.9 2.8 6.1 -2.1 1.3 7.8 19.7 56.2 27.8
+Dennis Smith Jr. BKN 26 6-3 205 North Carolina State USA 2017 1 9 49.0 6.8 3.2 3.8 0.7 4.7 11.3 17.5 49.9 27.5
+Dereck Lively II DAL 20 7-1 230 Duke USA 2023 1 12 45.0 8.6 7.0 1.2 4.9 10.9 17.1 11.8 72.6 5.9
+Dereon Seabron NOP 23 6-5 180 North Carolina State USA Undrafted Undrafted Undrafted 6.0 2.3 1.2 0.8 26.3 2.1 8.2 12.2 44.8 11.6
+Derrick Jones Jr. DAL 27 6-6 210 UNLV USA Undrafted Undrafted Undrafted 59.0 8.9 3.5 1.0 -1.6 4.4 9.6 14.6 60.3 5.4
+Derrick Rose MEM 35 6-3 200 Memphis USA 2008 1 1 24.0 8.0 1.9 3.3 -3.8 1.7 8.9 22.2 54.0 31.0
+Derrick White BOS 29 6-4 190 Colorado USA 2017 1 29 59.0 15.1 4.0 5.0 13.5 2.2 9.3 18.2 61.8 20.3
+Desmond Bane MEM 25 6-5 215 TCU USA 2020 1 30 37.0 24.4 4.6 5.3 -6.2 2.5 10.4 27.6 59.7 26.5
+Devin Booker PHX 27 6-6 206 Kentucky USA 2015 1 13 50.0 27.5 4.6 6.8 6.1 2.1 10.1 29.3 61.2 29.7
+Devin Vassell SAS 23 6-5 200 Florida State USA 2020 1 11 58.0 19.5 3.9 4.0 -6.1 1.4 10.4 23.1 58.1 18.9
+Devonte' Graham SAS 29 6-1 195 Kansas USA 2018 2 34 13.0 3.3 1.4 1.5 13.6 1.7 14.5 14.6 57.3 21.6
+Dexter Dennis DAL 25 6-5 210 Texas A&M USA Undrafted Undrafted Undrafted 4.0 5.5 2.3 1.0 -11.0 2.5 21.1 27.8 54.1 36.4
+Dillon Brooks HOU 28 6-6 225 Oregon Canada 2017 2 45 55.0 12.9 3.5 1.7 -1.2 2.4 8.3 17.5 55.6 7.5
+Dmytro Skapintsev NYK 25 7-1 215 Ukraine Undrafted Undrafted Undrafted 2.0 0.0 0.0 0.0 15.0 0.0 0.0 25.0 0.0 0.0
+Domantas Sabonis SAC 27 6-10 240 Gonzaga Lithuania 2016 1 11 63.0 20.1 13.5 8.4 -0.3 9.6 29.7 21.9 65.3 33.7
+Dominick Barlow SAS 20 6-9 215 None USA Undrafted Undrafted Undrafted 26.0 4.9 3.6 1.2 -4.8 9.8 16.3 14.1 55.8 11.4
+Donovan Mitchell CLE 27 6-3 215 Louisville USA 2017 1 13 47.0 28.0 5.4 6.2 9.7 2.5 12.0 30.7 60.4 27.3
+Donte DiVincenzo NYK 27 6-4 203 Villanova USA 2018 1 17 63.0 14.3 3.5 2.6 2.3 2.9 10.3 21.2 59.0 14.4
+Dorian Finney-Smith BKN 30 6-7 220 Florida USA Undrafted Undrafted Undrafted 56.0 8.9 4.7 1.6 -0.3 5.6 10.5 13.5 55.7 7.7
+Doug McDermott IND 32 6-6 225 Creighton USA 2014 1 11 52.0 5.7 1.0 1.2 -11.5 1.1 5.4 14.6 59.6 10.4
+Draymond Green GSW 34 6-6 230 Michigan State USA 2012 2 35 39.0 9.1 7.0 5.9 3.1 4.6 20.1 15.3 60.1 28.2
+Drew Eubanks PHX 27 6-10 245 Oregon State USA Undrafted Undrafted Undrafted 58.0 5.4 4.3 0.9 -5.2 8.5 17.0 13.4 66.6 8.4
+Drew Peterson BOS 24 6-9 205 Southern California USA Undrafted Undrafted Undrafted 1.0 3.0 0.0 1.0 60.0 0.0 0.0 20.0 150.0 50.0
+Dru Smith MIA 26 6-2 203 Missouri USA Undrafted Undrafted Undrafted 9.0 4.3 1.6 1.6 -15.0 4.1 5.8 12.8 57.6 18.7
+Duncan Robinson MIA 29 6-7 215 Michigan USA Undrafted Undrafted Undrafted 59.0 13.4 2.5 2.9 1.5 0.8 8.0 18.6 61.8 15.5
+Duop Reath POR 27 6-9 245 Louisiana State South Sudan Undrafted Undrafted Undrafted 49.0 9.5 3.8 1.1 -3.7 7.7 13.7 20.2 58.9 9.3
+Dwight Powell DAL 32 6-10 240 Stanford Canada 2014 2 45 52.0 3.8 3.5 1.5 3.8 10.6 13.5 9.0 73.9 12.7
+Dylan Windler ATL 27 6-7 196 Belmont USA 2019 1 26 11.0 1.4 0.4 0.6 13.2 0.0 8.5 13.9 68.2 26.9
+Dyson Daniels NOP 20 6-7 199 None Australia 2022 1 8 52.0 5.5 3.7 2.6 5.1 4.5 12.0 12.3 51.8 15.2
+E.J. Liddell NOP 23 6-6 240 Ohio State USA 2022 2 41 8.0 0.5 0.6 0.1 -11.7 0.0 21.7 14.8 29.1 6.7
+Emoni Bates CLE 20 6-8 170 Eastern Michigan USA 2023 2 49 11.0 2.3 1.0 0.5 -33.0 1.1 11.9 17.9 37.0 10.9
+Eric Gordon PHX 35 6-3 215 Indiana USA 2008 1 7 53.0 12.0 2.0 2.2 2.3 1.0 5.5 16.6 58.2 10.2
+Eugene Omoruyi WAS 27 6-6 235 Oregon Nigeria Undrafted Undrafted Undrafted 32.0 4.3 2.0 0.7 -12.3 9.7 15.9 22.9 55.4 16.4
+Evan Fournier DET 31 6-6 205 None France 2012 1 20 14.0 6.7 2.0 1.1 -11.2 1.1 11.1 18.2 49.2 10.7
+Evan Mobley CLE 22 6-11 215 Southern California USA 2021 1 3 38.0 15.6 10.2 3.1 1.5 7.8 22.7 20.0 61.4 14.9
+Filip Petrusev SAC 23 6-11 225 Gonzaga Serbia 2021 2 50 3.0 1.0 0.3 0.0 30.0 0.0 8.3 15.0 52.1 0.0
+Frank Ntilikina CHA 25 6-4 200 None France 2017 1 8 5.0 1.0 1.2 0.8 0.2 2.1 11.1 11.1 25.3 10.8
+Franz Wagner ORL 22 6-10 220 Michigan Germany 2021 1 8 57.0 20.1 5.5 3.9 3.2 3.0 13.9 25.3 56.9 18.8
+Fred VanVleet HOU 30 6-0 197 Wichita State USA Undrafted Undrafted Undrafted 57.0 16.7 3.7 8.0 2.9 1.0 8.6 18.7 56.5 31.1
+Furkan Korkmaz PHI 26 6-7 202 None Turkey 2016 1 26 35.0 2.5 0.9 0.7 6.4 1.3 8.7 12.6 51.9 10.8
+GG Jackson MEM 19 6-9 210 South Carolina USA 2023 2 45 31.0 11.7 3.6 0.8 -4.7 4.9 11.3 23.3 55.2 6.7
+Gabe Vincent LAL 27 6-2 200 California-Santa Barbara USA Undrafted Undrafted Undrafted 5.0 5.4 1.0 3.0 -1.5 1.5 2.3 11.5 41.1 17.2
+Garrett Temple TOR 37 6-5 195 Louisiana State USA Undrafted Undrafted Undrafted 16.0 1.4 0.7 0.4 -7.2 6.5 9.0 16.3 48.6 12.5
+Garrison Mathews ATL 27 6-6 215 Lipscomb USA Undrafted Undrafted Undrafted 48.0 3.5 1.3 0.4 -4.4 2.1 7.9 9.6 63.4 4.2
+Gary Harris ORL 29 6-4 210 Michigan State USA 2014 1 19 41.0 7.1 1.6 1.7 2.1 2.0 5.4 11.8 60.8 10.1
+Gary Payton II GSW 31 6-2 195 Oregon State USA Undrafted Undrafted Undrafted 28.0 5.7 3.0 1.0 5.8 7.1 11.0 13.4 59.7 8.6
+Gary Trent Jr. TOR 25 6-5 204 Duke USA 2018 2 37 59.0 12.3 2.4 1.5 -3.0 1.1 7.7 18.3 54.3 7.4
+Georges Niang CLE 30 6-7 230 Iowa State USA 2016 2 50 64.0 8.9 3.5 1.3 1.9 1.5 14.3 17.1 57.3 8.0
+Giannis Antetokounmpo MIL 29 6-11 243 None Greece 2013 1 15 62.0 30.8 11.2 6.5 7.7 7.2 23.4 32.1 65.5 30.9
+Goga Bitadze ORL 24 6-10 250 None Georgia 2019 1 18 52.0 5.5 5.2 1.4 4.2 11.0 18.7 12.5 63.2 11.5
+Gordon Hayward OKC 33 6-7 225 Butler USA 2010 1 9 35.0 11.3 4.2 3.8 -8.2 3.2 12.2 18.8 53.2 18.9
+Gradey Dick TOR 20 6-6 200 Kansas USA 2023 1 13 43.0 6.5 2.0 1.1 -11.0 2.6 8.4 15.0 56.0 9.0
+Grant Williams CHA 25 6-6 236 Tennessee USA 2019 1 22 60.0 9.1 4.0 1.9 -3.3 3.9 10.4 14.4 57.3 9.3
+Grayson Allen PHX 28 6-4 198 Duke USA 2018 1 21 58.0 13.0 3.9 3.1 3.9 2.0 9.3 13.7 68.0 11.8
+Greg Brown III DAL 22 6-7 206 Texas USA 2021 2 43 6.0 2.5 1.5 0.7 -9.6 6.4 12.2 17.8 50.1 13.8
+Gui Santos GSW 21 6-6 185 None Brazil 2022 2 55 17.0 3.5 2.6 0.6 6.6 9.0 17.9 14.0 64.7 9.6
+Hamidou Diallo WAS 25 6-5 202 Kentucky USA 2018 2 45 2.0 1.0 1.0 0.5 31.8 18.2 0.0 18.8 50.0 33.3
+Harrison Barnes SAC 31 6-8 225 North Carolina USA 2012 1 7 63.0 12.1 2.8 1.1 -3.4 2.6 7.3 14.7 62.8 5.0
+Harry Giles III LAL 25 6-10 240 Duke USA 2017 1 20 19.0 2.8 1.4 0.3 -6.8 11.8 16.1 24.7 52.2 10.0
+Haywood Highsmith MIA 27 6-5 220 Wheeling Jesuit USA 2018 48.0 5.6 2.7 1.0 0.0 4.2 9.6 12.1 56.0 6.9
+Herbert Jones NOP 25 6-7 206 Alabama USA 2021 2 35 59.0 11.3 3.6 2.5 6.3 3.7 8.3 14.4 64.8 10.8
+Hunter Tyson DEN 23 6-8 215 Clemson USA 2023 2 37 11.0 0.7 0.8 0.1 -0.1 3.2 25.8 17.6 36.4 4.2
+Ibou Badji POR 21 7-0 240 None Senegal Undrafted Undrafted Undrafted 18.0 1.6 2.7 0.7 -16.3 8.6 14.6 7.9 62.0 9.8
+Immanuel Quickley TOR 24 6-2 190 Kentucky USA 2020 1 25 59.0 16.4 3.6 4.5 0.4 0.8 11.4 22.9 57.6 22.6
+Isaac Okoro CLE 23 6-5 225 Auburn USA 2020 1 5 55.0 9.7 3.1 2.0 4.1 3.8 7.4 13.8 61.5 10.2
+Isaiah Hartenstein NYK 25 7-0 250 None Germany 2017 2 43 58.0 6.8 8.4 2.2 7.2 13.0 20.0 10.7 64.2 11.2
+Isaiah Jackson IND 22 6-9 205 Kentucky USA 2021 1 22 48.0 7.0 4.1 0.8 0.1 11.3 18.9 17.1 68.9 8.4
+Isaiah Joe OKC 24 6-3 165 Arkansas USA 2020 2 49 60.0 8.1 2.3 1.1 10.7 2.2 9.7 15.6 63.0 7.9
+Isaiah Livers WAS 25 6-6 232 Michigan USA 2021 2 42 23.0 5.0 2.1 1.1 -19.3 3.0 7.3 12.2 46.0 7.1
+Isaiah Mobley CLE 24 6-8 238 Southern California USA 2022 2 49 4.0 1.8 1.5 1.3 -19.7 0.0 25.0 11.1 50.0 23.8
+Isaiah Stewart DET 22 6-8 250 Washington USA 2020 1 16 41.0 11.0 6.8 1.7 -3.7 5.6 16.5 14.8 58.5 7.2
+Ish Smith CHA 35 6-0 175 Wake Forest USA Undrafted Undrafted Undrafted 43.0 3.2 1.8 3.4 -17.5 1.4 9.4 11.9 43.5 26.8
+Ish Wainright PHX 29 6-5 250 Baylor USA Undrafted Undrafted Undrafted 7.0 2.9 1.3 0.0 -0.7 0.0 17.6 17.1 53.0 0.0
+Ivica Zubac LAC 26 7-0 240 None Croatia 2016 2 32 51.0 11.7 9.2 1.4 6.5 12.0 23.0 16.4 66.9 7.4
+Izaiah Brockington NOP 24 6-4 196 Iowa State USA Undrafted Undrafted Undrafted 1.0 4.0 2.0 0.0 50.0 12.5 16.7 38.5 40.0 0.0
+JD Davison BOS 21 6-1 195 Alabama USA 2022 2 53 3.0 0.7 0.7 0.0 5.2 16.7 10.0 12.5 53.2 0.0
+JT Thor CHA 21 6-9 203 Auburn USA 2021 2 37 49.0 2.9 2.4 0.4 -4.6 5.8 12.4 11.2 46.2 4.3
+Ja Morant MEM 24 6-2 174 Murray State USA 2019 1 2 9.0 25.1 5.6 8.1 -0.2 1.9 13.4 29.6 57.0 38.4
+JaVale McGee SAC 36 7-0 270 Nevada USA 2008 1 18 39.0 4.4 2.9 0.4 -3.5 11.2 23.0 20.9 63.4 6.9
+Jabari Smith Jr. HOU 20 6-11 220 Auburn USA 2022 1 3 59.0 13.3 8.6 1.5 -1.8 5.7 19.5 17.1 56.2 6.7
+Jabari Walker POR 21 6-7 227 Colorado USA 2022 2 57 57.0 8.5 6.5 0.9 -8.1 8.5 21.3 16.1 55.1 5.9
+Jacob Gilyard BKN 25 5-8 160 Richmond USA Undrafted Undrafted Undrafted 37.0 4.7 1.2 3.5 -12.1 1.1 5.7 11.5 59.7 29.8
+Jacob Toppin NYK 23 6-8 200 Kentucky USA Undrafted Undrafted Undrafted 9.0 1.4 0.8 0.3 -19.8 7.7 14.8 13.3 65.8 14.3
+Jaden Hardy DAL 21 6-3 198 None USA 2022 2 37 56.0 7.7 1.8 1.6 -5.0 1.8 10.6 23.4 51.7 16.7
+Jaden Ivey DET 22 6-4 195 Purdue USA 2022 1 5 59.0 15.4 3.5 3.6 -7.0 4.4 8.1 24.0 55.1 18.3
+Jaden McDaniels MIN 23 6-9 185 Washington USA 2020 1 28 55.0 10.5 2.9 1.4 4.7 2.9 7.2 15.4 58.1 6.8
+Jaden Springer BOS 21 6-4 202 Tennessee USA 2021 1 28 38.0 3.5 1.6 0.9 -6.4 6.7 8.9 17.7 46.8 13.5
+Jae Crowder MIL 33 6-6 235 Marquette USA 2012 2 34 34.0 6.2 3.6 1.4 -2.2 2.2 12.4 10.7 54.5 7.8
+Jae'Sean Tate HOU 28 6-4 230 Ohio State USA Undrafted Undrafted Undrafted 54.0 4.2 3.2 1.1 5.1 5.4 13.1 11.0 54.0 8.5
+Jahmi'us Ramsey TOR 22 6-3 190 Texas Tech USA 2020 2 43 1.0 2.0 2.0 1.0 -58.3 11.1 7.7 18.8 33.3 33.3
+Jaime Jaquez Jr. MIA 23 6-6 225 UCLA USA 2023 1 18 58.0 12.8 4.0 2.6 1.1 4.3 9.4 18.4 58.2 13.2
+Jake LaRavia MEM 22 6-7 235 Wake Forest USA 2022 1 19 20.0 7.3 3.1 1.2 -12.3 6.4 10.3 20.0 49.5 13.0
+Jakob Poeltl TOR 28 7-0 260 Utah Austria 2016 1 9 50.0 11.1 8.6 2.5 -0.6 11.0 21.4 16.0 65.3 13.1
+Jalen Brunson NYK 27 6-2 190 Villanova USA 2018 2 33 59.0 27.1 3.7 6.5 6.4 1.6 8.9 29.6 58.9 30.2
+Jalen Crutcher NOP 24 6-1 175 Dayton USA Undrafted Undrafted Undrafted 1.0 0.0 0.0 0.0 20.0 0.0 0.0 16.7 0.0 0.0
+Jalen Duren DET 20 6-10 250 Memphis USA 2022 1 13 48.0 13.7 11.7 2.6 -7.5 10.6 27.8 17.3 65.4 12.7
+Jalen Green HOU 22 6-4 186 None USA 2021 1 2 64.0 18.4 4.8 3.3 -1.7 1.3 13.5 26.7 52.8 16.6
+Jalen Hood-Schifino LAL 20 6-5 215 Indiana USA 2023 1 17 21.0 1.6 0.6 0.4 -23.0 1.7 9.6 24.2 31.6 12.9
+Jalen Johnson ATL 22 6-8 219 Duke USA 2021 1 20 48.0 15.7 8.6 3.4 -1.7 3.6 20.8 17.6 59.2 14.4
+Jalen McDaniels TOR 26 6-9 190 San Diego State USA 2019 2 52 36.0 2.8 1.4 0.6 -9.5 2.9 12.5 17.3 41.7 9.3
+Jalen Pickett DEN 24 6-2 202 Penn State USA 2023 2 32 21.0 1.6 0.5 0.7 -4.6 1.0 8.9 16.3 53.5 20.5
+Jalen Slawson SAC 24 6-7 215 Furman USA 2023 2 54 5.0 0.8 0.8 0.4 -36.8 0.0 20.0 11.6 66.7 16.7
+Jalen Smith IND 23 6-9 215 Maryland USA 2020 1 10 45.0 10.4 5.5 1.1 -0.4 9.0 21.9 18.6 70.7 8.2
+Jalen Suggs ORL 22 6-5 205 Gonzaga USA 2021 1 5 58.0 12.2 3.3 2.6 -0.2 2.6 10.1 19.5 59.1 13.9
+Jalen Williams OKC 22 6-5 211 Santa Clara USA 2022 1 12 58.0 19.0 4.0 4.5 8.6 1.7 10.3 22.8 62.5 19.7
+Jalen Wilson BKN 23 6-6 220 Kansas USA 2023 2 51 27.0 4.6 2.7 1.1 -6.7 7.5 11.4 13.1 54.8 10.2
+Jamal Cain MIA 24 6-6 191 Oakland USA Undrafted Undrafted Undrafted 16.0 5.3 2.0 0.3 -4.2 5.7 8.8 15.9 53.1 2.6
+Jamal Murray DEN 27 6-4 215 Kentucky Canada 2016 1 7 48.0 21.1 4.0 6.5 7.0 2.2 10.1 26.9 58.5 29.6
+Jamaree Bouyea SAS 24 6-2 180 San Francisco USA Undrafted Undrafted Undrafted 6.0 1.7 1.7 1.3 -19.7 2.7 15.7 20.0 23.8 25.8
+James Bouknight CHA 23 6-4 190 Connecticut USA 2021 1 11 14.0 3.6 0.6 0.4 -7.3 1.2 11.8 24.0 59.7 12.5
+James Harden LAC 34 6-5 220 Arizona State USA 2009 1 3 58.0 17.5 5.2 8.3 7.4 1.5 13.3 20.3 63.3 32.4
+James Johnson IND 37 6-7 240 Wake Forest USA 2009 1 16 6.0 1.0 0.7 1.0 11.3 3.2 12.5 11.1 43.6 18.8
+James Wiseman DET 22 6-11 240 Memphis USA 2020 1 2 44.0 6.2 4.3 0.7 -12.9 10.0 19.2 14.9 67.3 7.4
+Jarace Walker IND 20 6-7 235 Houston USA 2023 1 8 23.0 3.7 1.9 1.2 -1.1 3.9 16.0 16.8 50.0 14.7
+Jared Butler WAS 23 6-3 193 Baylor USA 2021 2 40 22.0 4.3 0.7 2.0 -5.2 1.1 7.3 19.8 65.8 35.8
+Jared Rhoden DET 24 6-5 210 Seton Hall USA Undrafted Undrafted Undrafted 6.0 2.5 0.8 0.7 18.2 3.6 10.0 15.3 63.1 11.8
+Jaren Jackson Jr. MEM 24 6-10 242 Michigan State USA 2018 1 4 57.0 22.4 5.6 2.1 -6.0 3.6 13.7 30.1 55.7 12.2
+Jarred Vanderbilt LAL 24 6-8 214 Kentucky USA 2018 2 41 29.0 5.2 4.8 1.2 4.2 7.3 16.4 11.1 57.8 7.7
+Jarrett Allen CLE 25 6-9 243 Texas USA 2017 1 22 59.0 16.2 10.7 2.7 7.0 10.9 22.5 19.0 65.6 12.7
+Jason Preston UTA 24 6-3 181 Ohio USA 2021 2 33 1.0 0.0 1.0 0.0 0.0 50.0 0.0 25.0 0.0 0.0
+Javon Freeman-Liberty TOR 24 6-3 190 DePaul USA Undrafted Undrafted Undrafted 6.0 4.3 1.8 0.8 -13.6 3.1 14.1 17.1 62.0 12.2
+Javonte Smart PHI 24 6-4 205 Louisiana State USA Undrafted Undrafted Undrafted 1.0 0.0 0.0 0.0 -150.0 0.0 0.0 0.0 0.0 0.0
+Jaxson Hayes LAL 23 7-0 220 Texas USA 2019 1 8 55.0 3.9 2.6 0.4 -3.9 8.0 13.5 12.0 69.9 5.2
+Jay Huff DEN 26 7-1 240 Virginia USA Undrafted Undrafted Undrafted 13.0 1.5 0.8 0.1 -15.4 2.9 24.3 16.7 73.8 6.3
+Jaylen Brown BOS 27 6-6 223 California USA 2016 1 3 58.0 22.8 5.6 3.7 9.6 3.6 11.9 27.9 58.3 17.0
+Jaylen Nowell MEM 24 6-4 201 Washington USA 2019 2 43 9.0 5.7 1.6 1.8 -0.6 1.8 6.7 16.2 45.3 14.5
+Jaylin Williams OKC 21 6-9 240 Arkansas USA 2022 2 34 52.0 3.9 3.3 1.3 9.8 4.5 21.2 13.2 54.5 13.4
+Jayson Tatum BOS 26 6-8 210 Duke USA 2017 1 3 60.0 26.9 8.5 4.9 11.6 2.5 19.2 29.2 60.5 20.8
+Jeff Dowtin Jr. PHI 26 6-3 177 Rhode Island USA Undrafted Undrafted Undrafted 3.0 5.3 1.0 2.7 14.3 0.0 4.9 11.4 80.0 21.6
+Jeff Green HOU 37 6-8 235 Georgetown USA 2007 1 5 60.0 5.9 2.1 0.9 -4.1 3.4 9.0 14.4 59.5 7.8
+Jerami Grant POR 29 6-7 210 Syracuse USA 2014 2 39 53.0 21.1 3.6 2.8 -9.3 2.0 8.8 25.6 57.5 13.9
+Jeremiah Robinson-Earl NOP 23 6-8 240 Villanova USA 2021 2 32 27.0 3.5 2.2 0.4 -4.7 6.2 14.7 13.8 61.4 6.3
+Jeremy Sochan SAS 20 6-8 230 Baylor Poland 2022 1 9 64.0 11.5 6.2 3.4 -7.5 5.9 14.6 18.3 51.8 16.1
+Jericho Sims NYK 25 6-10 250 Texas USA 2021 2 58 37.0 2.4 3.5 0.6 -2.7 9.4 15.1 6.1 74.4 6.0
+Jermaine Samuels Jr. HOU 25 6-6 230 Villanova USA Undrafted Undrafted Undrafted 11.0 1.6 1.0 0.2 -10.4 4.1 18.0 9.2 75.8 4.8
+Jerome Robinson GSW 27 6-5 190 Boston College USA 2018 1 13 16.0 1.3 0.2 0.3 11.7 1.4 3.0 16.9 37.9 10.4
+Jett Howard ORL 20 6-6 215 Michigan USA 2023 1 11 13.0 1.8 0.4 0.2 1.0 2.1 7.5 21.5 48.4 10.7
+Jevon Carter CHI 28 6-1 200 West Virginia USA 2018 2 32 61.0 4.9 0.8 1.2 0.8 0.8 4.9 17.0 48.3 12.0
+Jimmy Butler MIA 34 6-7 230 Marquette USA 2011 1 30 45.0 21.7 5.5 4.9 4.0 5.9 10.6 24.3 62.9 22.6
+Jock Landale HOU 28 6-11 255 St. Mary's Australia Undrafted Undrafted Undrafted 38.0 2.6 2.4 0.8 6.9 12.5 10.7 12.7 47.6 10.9
+Joe Harris DET 32 6-6 220 Virginia USA 2014 2 33 16.0 2.4 0.8 0.6 -14.5 1.7 5.7 10.4 48.9 7.9
+Joe Ingles ORL 36 6-9 220 None Australia Undrafted Undrafted Undrafted 51.0 4.5 2.1 2.9 3.2 2.0 10.9 11.3 58.4 21.3
+Joel Embiid PHI 29 7-0 280 Kansas Cameroon 2014 1 3 34.0 35.3 11.3 5.7 10.1 7.8 24.1 38.6 64.5 31.2
+John Collins UTA 26 6-9 226 Wake Forest USA 2017 1 19 60.0 14.6 8.6 1.2 -6.8 7.9 22.4 19.4 60.8 6.2
+John Konchar MEM 27 6-5 210 Indiana-Purdue Fort Wayne USA Undrafted Undrafted Undrafted 49.0 4.0 4.4 1.8 -6.2 5.8 16.2 9.7 53.3 12.9
+Johnny Davis WAS 22 6-4 195 Wisconsin USA 2022 1 10 33.0 2.2 1.4 0.4 -5.2 3.7 9.7 12.6 38.7 5.2
+Johnny Juzang UTA 22 6-5 209 UCLA USA Undrafted Undrafted Undrafted 6.0 2.3 1.2 0.7 0.5 3.1 8.6 15.7 35.0 9.3
+Jonas Valanciunas NOP 31 6-11 265 None Lithuania 2011 1 5 64.0 13.2 9.5 2.2 5.8 10.7 27.1 20.4 63.0 12.3
+Jonathan Isaac ORL 26 6-10 230 Florida State USA 2017 1 6 44.0 6.3 4.3 0.4 10.4 8.9 19.6 16.6 58.5 4.3
+Jonathan Kuminga GSW 21 6-7 225 None DRC 2021 1 7 62.0 15.9 4.8 2.1 3.0 5.0 12.6 23.6 59.9 11.9
+Jontay Porter TOR 24 6-10 240 Missouri USA Undrafted Undrafted Undrafted 20.0 4.0 2.9 1.7 -15.2 6.7 16.9 16.4 49.2 19.3
+Jordan Clarkson UTA 31 6-3 194 Missouri USA 2014 2 46 53.0 17.3 3.5 5.0 -4.9 2.9 8.4 25.7 52.3 24.6
+Jordan Ford SAC 25 6-1 175 St. Mary's College USA Undrafted Undrafted Undrafted 6.0 2.0 0.3 0.3 28.9 0.0 10.0 18.4 76.1 11.8
+Jordan Goodwin MEM 25 6-4 200 St. Louis USA Undrafted Undrafted Undrafted 46.0 5.3 3.1 2.3 -5.1 6.6 12.0 17.3 45.8 21.9
+Jordan Hawkins NOP 21 6-5 190 Connecticut USA 2023 1 14 55.0 9.1 2.6 1.2 -1.1 2.5 10.2 19.1 54.4 8.6
+Jordan McLaughlin MIN 27 6-0 185 Southern California USA Undrafted Undrafted Undrafted 39.0 2.8 1.1 1.8 2.3 2.6 9.1 12.9 56.4 26.5
+Jordan Miller LAC 24 6-5 194 Miami USA 2023 2 48 6.0 1.8 0.7 0.0 -36.0 9.1 7.7 14.3 79.9 0.0
+Jordan Nwora TOR 25 6-8 225 Louisville USA 2020 2 45 35.0 5.5 2.0 1.1 -12.6 4.3 14.2 20.9 53.5 14.0
+Jordan Poole WAS 24 6-4 194 Michigan USA 2019 1 28 62.0 16.5 2.6 3.8 -11.1 1.2 7.2 25.2 52.0 18.4
+Jordan Walsh BOS 20 6-6 205 Arkansas USA 2023 2 38 4.0 0.5 2.8 0.5 43.3 6.3 22.0 9.0 20.0 6.7
+Jose Alvarado NOP 25 6-0 179 Georgia Tech USA Undrafted Undrafted Undrafted 43.0 7.0 2.2 2.0 14.5 2.1 9.7 17.8 53.3 16.1
+Josh Giddey OKC 21 6-8 216 None Australia 2021 1 6 63.0 11.4 6.1 4.4 7.3 5.7 18.1 21.9 52.9 23.4
+Josh Green DAL 23 6-5 200 Arizona Australia 2020 1 18 51.0 8.6 3.3 2.4 -1.3 2.6 9.4 12.9 59.8 11.2
+Josh Hart NYK 29 6-4 215 Villanova USA 2017 1 30 63.0 8.9 7.7 3.5 4.8 4.3 19.6 13.3 52.0 15.2
+Josh Minott MIN 21 6-8 205 Memphis USA 2022 2 45 22.0 1.5 0.5 0.1 -0.7 4.3 14.1 17.9 56.6 7.3
+Josh Okogie PHX 25 6-4 213 Georgia Tech Nigeria 2018 1 20 54.0 4.9 2.7 1.1 2.3 7.8 8.1 12.4 54.9 9.1
+Josh Richardson MIA 30 6-5 200 Tennessee USA 2015 2 40 43.0 9.9 2.8 2.4 -5.0 1.7 9.4 15.9 57.3 14.4
+Joshua Primo LAC 21 6-4 189 Alabama Canada 2021 1 12 2.0 1.0 0.5 0.0 -12.9 11.1 0.0 25.9 33.3 0.0
+Jrue Holiday BOS 33 6-4 205 UCLA USA 2009 1 17 58.0 12.9 5.6 4.8 9.7 3.9 11.8 16.3 60.4 19.3
+Juan Toscano-Anderson SAC 30 6-6 209 Marquette USA Undrafted Undrafted Undrafted 11.0 0.6 1.3 0.4 -0.1 6.8 16.7 10.6 29.2 10.8
+Jules Bernard WAS 24 6-6 210 UCLA USA Undrafted Undrafted Undrafted 8.0 1.4 0.8 0.6 8.8 5.7 7.3 14.8 39.6 17.2
+Julian Champagnie SAS 22 6-7 217 St. John's USA Undrafted Undrafted Undrafted 56.0 5.9 2.6 1.3 -5.5 3.5 12.0 14.1 56.2 9.7
+Julian Phillips CHI 20 6-8 198 Tennessee USA 2023 2 35 38.0 2.1 0.8 0.3 3.1 3.4 8.0 12.2 52.0 5.8
+Julian Strawther DEN 21 6-6 205 Gonzaga USA 2023 1 29 40.0 5.2 1.3 1.1 -11.8 0.7 9.3 18.7 48.8 12.1
+Julius Randle NYK 29 6-8 250 Kentucky USA 2014 1 7 46.0 24.0 9.2 5.0 6.0 5.9 19.8 28.7 56.9 21.7
+Justin Champagnie WAS 22 6-6 206 Pittsburgh USA Undrafted Undrafted Undrafted 3.0 3.7 0.3 0.3 8.6 0.0 7.1 28.2 55.0 9.1
+Justin Holiday DEN 34 6-6 180 Washington USA Undrafted Undrafted Undrafted 40.0 3.9 1.2 1.2 2.2 1.0 7.4 9.8 61.6 9.7
+Justin Jackson MIN 28 6-8 220 North Carolina USA 2017 1 15 2.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+Justin Minaya POR 24 6-5 205 Providence USA Undrafted Undrafted Undrafted 21.0 1.0 1.0 0.4 -5.1 5.3 7.3 9.4 33.2 7.0
+Jusuf Nurkic PHX 29 7-0 290 None Bosnia and Herzegovina 2014 1 16 60.0 11.7 10.8 3.8 9.7 11.1 27.9 19.4 57.2 18.0
+KJ Martin PHI 23 6-6 215 None USA 2020 2 52 47.0 3.5 1.9 0.7 -2.1 4.3 11.7 12.7 57.1 8.5
+Kaiser Gates NOP 27 6-7 225 Xavier USA 2018 1.0 0.0 1.0 0.0 -7.0 0.0 9.1 22.2 0.0 0.0
+Karl-Anthony Towns MIN 28 7-0 248 Kentucky USA 2015 1 1 60.0 22.1 8.4 3.0 8.0 5.0 20.5 26.9 62.8 14.3
+Kawhi Leonard LAC 32 6-7 225 San Diego State USA 2011 1 15 57.0 24.0 6.2 3.8 8.3 3.7 13.9 25.8 62.7 17.0
+Keegan Murray SAC 23 6-8 225 Iowa USA 2022 1 4 59.0 14.7 5.2 1.6 1.3 3.7 12.7 17.5 57.3 6.5
+Keita Bates-Diop BKN 28 6-8 229 Ohio State USA 2018 2 48 49.0 4.0 2.2 0.8 -4.7 5.1 11.7 13.0 53.4 8.4
+Keldon Johnson SAS 24 6-5 220 Kentucky USA 2019 1 29 60.0 16.0 5.5 3.0 -8.4 4.3 13.5 21.8 55.9 14.8
+Kelly Olynyk TOR 32 6-11 240 Gonzaga Canada 2013 1 13 62.0 8.5 5.0 4.2 -6.1 6.2 16.7 16.1 65.2 27.9
+Kelly Oubre Jr. PHI 28 6-7 203 Kansas USA 2015 1 15 51.0 14.6 4.7 1.3 -1.6 4.3 11.4 20.9 53.8 6.2
+Kendall Brown IND 20 6-7 205 Baylor USA 2022 2 48 8.0 1.3 0.3 0.3 -11.1 6.3 0.0 11.5 57.9 11.8
+Kenneth Lofton Jr. PHI 21 6-6 275 Louisiana Tech USA Undrafted Undrafted Undrafted 17.0 2.4 1.1 0.8 -2.9 1.6 15.5 21.0 41.3 20.0
+Kenrich Williams OKC 29 6-6 210 TCU USA Undrafted Undrafted Undrafted 52.0 4.1 2.9 1.3 10.1 5.7 14.2 12.5 54.7 11.2
+Kentavious Caldwell-Pope DEN 31 6-5 204 Georgia USA 2013 1 8 58.0 10.2 2.4 2.3 10.6 1.4 6.0 12.8 59.4 8.8
+Keon Ellis SAC 24 6-3 175 Alabama USA Undrafted Undrafted Undrafted 38.0 3.5 1.4 1.3 2.6 3.6 8.4 12.2 58.2 13.3
+Keon Johnson BKN 22 6-5 185 Tennessee USA 2021 1 21 4.0 7.0 1.3 0.8 -20.9 5.4 5.1 22.2 59.8 8.3
+Kessler Edwards SAC 23 6-7 203 Pepperdine USA 2021 2 44 39.0 1.5 0.8 0.2 -5.8 2.4 13.4 12.2 52.1 7.0
+Kevin Durant PHX 35 6-11 240 Texas USA 2007 1 2 57.0 28.3 6.7 5.5 4.7 1.6 15.4 28.9 63.5 23.1
+Kevin Huerter SAC 25 6-7 198 Maryland USA 2018 1 19 61.0 10.6 3.6 2.6 1.7 2.5 12.4 17.3 56.7 13.7
+Kevin Knox II DET 24 6-7 215 Kentucky USA 2018 1 9 31.0 7.2 2.4 0.7 -7.8 3.0 10.8 15.7 57.0 5.7
+Kevin Love MIA 35 6-8 251 UCLA USA 2008 1 5 47.0 9.0 6.2 2.2 5.7 5.9 29.1 20.3 60.6 19.2
+Kevon Harris ORL 26 6-5 216 Stephen F. Austin USA Undrafted Undrafted Undrafted 2.0 2.0 1.0 0.5 9.5 0.0 28.6 28.6 66.7 20.0
+Kevon Looney GSW 28 6-9 222 UCLA USA 2015 1 30 61.0 4.6 5.9 2.0 -2.0 11.6 22.4 10.7 61.8 15.8
+Keyontae Johnson OKC 23 6-4 230 Kansas State USA 2023 2 50 9.0 1.2 1.1 0.4 -5.8 6.5 9.5 12.8 34.4 8.5
+Keyonte George UTA 20 6-4 185 Baylor USA 2023 1 16 57.0 12.3 2.8 4.4 -6.8 0.9 9.8 21.3 54.5 25.1
+Khris Middleton MIL 32 6-7 222 Texas A&M USA 2012 2 39 43.0 14.8 4.3 5.0 7.0 2.3 12.8 23.0 59.0 26.0
+Killian Hayes DET 22 6-5 195 None France 2020 1 7 42.0 6.9 2.8 4.9 -11.1 1.1 10.7 14.7 47.4 26.8
+Kira Lewis Jr. UTA 22 6-1 170 Alabama USA 2020 1 13 19.0 2.4 0.8 1.1 -5.4 2.9 5.4 17.7 39.1 22.6
+Klay Thompson GSW 34 6-6 220 Washington State USA 2011 1 11 60.0 17.1 3.4 2.2 -2.2 1.5 9.7 22.8 56.7 10.6
+Kobe Brown LAC 24 6-7 250 Missouri USA 2023 1 30 34.0 1.8 1.3 0.5 -11.7 3.4 12.5 10.2 47.7 7.9
+Kobe Bufkin ATL 20 6-5 195 Michigan USA 2023 1 15 9.0 3.7 1.6 1.7 3.1 2.2 11.9 20.3 42.6 25.0
+Kris Dunn UTA 29 6-3 205 Providence USA 2016 1 5 56.0 5.4 2.8 3.9 2.1 3.9 10.7 13.2 56.2 25.5
+Kris Murray POR 23 6-8 210 Iowa USA 2023 1 23 43.0 4.6 2.7 1.1 -3.1 5.2 11.2 13.3 48.1 9.3
+Kristaps Porzingis BOS 28 7-2 240 None Latvia 2015 1 4 46.0 20.4 7.0 2.0 11.9 5.7 16.0 24.6 65.4 9.3
+Kyle Anderson MIN 30 6-9 230 UCLA USA 2014 1 30 62.0 6.2 3.5 4.1 3.7 3.3 12.0 13.7 52.2 25.8
+Kyle Kuzma WAS 28 6-9 221 Utah USA 2017 1 27 62.0 22.5 6.6 4.2 -11.3 2.9 16.7 30.0 54.8 20.0
+Kyle Lowry PHI 37 6-0 196 Villanova USA 2006 1 24 45.0 8.2 3.4 4.2 -1.2 2.3 10.3 13.0 58.4 21.3
+Kyrie Irving DAL 31 6-2 195 Duke Australia 2011 1 1 42.0 25.5 5.0 5.0 4.0 2.1 11.9 27.8 59.8 22.4
+LaMelo Ball CHA 22 6-7 180 None USA 2020 1 3 22.0 23.9 5.1 8.0 -8.4 3.8 12.2 31.5 56.1 39.5
+Lamar Stevens MEM 26 6-7 230 Penn State USA Undrafted Undrafted Undrafted 31.0 6.1 2.9 0.5 -0.2 6.3 14.3 22.0 53.6 7.6
+Landry Shamet WAS 26 6-4 190 Wichita State USA 2018 1 26 46.0 7.1 1.3 1.2 -9.9 2.1 6.5 18.1 55.6 10.4
+Larry Nance Jr. NOP 31 6-8 245 Wyoming USA 2015 1 27 46.0 5.5 5.1 1.6 5.5 8.0 18.5 11.2 66.6 11.5
+Lauri Markkanen UTA 26 7-0 240 Arizona Finland 2017 1 7 51.0 23.1 8.3 2.0 1.5 6.6 17.8 23.7 63.4 9.0
+LeBron James LAL 39 6-9 250 None USA 2003 1 1 57.0 25.3 7.1 8.0 2.5 2.5 16.8 28.4 62.0 35.0
+Leaky Black CHA 24 6-6 209 North Carolina USA Undrafted Undrafted Undrafted 22.0 2.3 1.7 0.8 -8.2 3.5 13.8 10.1 55.4 11.3
+Leonard Miller MIN 20 6-10 210 None Canada 2023 2 33 7.0 2.1 1.4 0.4 -15.5 3.7 36.0 19.0 68.2 21.4
+Lester Quinones GSW 23 6-4 208 Memphis USA Undrafted Undrafted Undrafted 29.0 4.7 2.3 1.0 -0.1 5.0 13.0 16.2 52.7 11.2
+Lindell Wigginton MIL 25 6-1 189 Iowa State Canada 2019 3.0 2.0 0.0 0.0 -66.5 0.0 0.0 41.2 51.0 0.0
+Lindy Waters III OKC 26 6-6 210 Oklahoma State USA Undrafted Undrafted Undrafted 27.0 2.8 1.0 0.6 -4.0 1.0 12.8 15.2 64.4 12.5
+Lonnie Walker IV BKN 25 6-4 204 Miami USA 2018 1 18 44.0 11.2 2.2 1.4 3.0 1.1 10.6 24.2 57.8 11.4
+Luguentz Dort OKC 24 6-4 220 Arizona State Canada Undrafted Undrafted Undrafted 62.0 10.7 3.7 1.3 8.7 3.8 9.0 14.7 59.8 5.5
+Luka Doncic DAL 25 6-7 230 None Slovenia 2018 1 3 56.0 34.7 9.0 9.8 3.1 2.0 21.5 35.5 62.5 43.2
+Luka Garza MIN 25 6-10 243 Iowa USA 2021 2 52 15.0 2.8 0.9 0.2 -8.7 12.1 12.5 28.3 56.7 10.3
+Luka Samanic UTA 24 6-10 227 None Croatia 2019 1 19 32.0 3.0 1.8 0.3 -3.1 4.6 17.9 20.7 47.1 5.3
+Luke Kennard MEM 27 6-5 206 Duke USA 2017 1 12 33.0 10.9 2.8 3.0 -8.8 1.1 10.1 16.3 65.3 18.9
+Luke Kornet BOS 28 7-1 250 Vanderbilt USA Undrafted Undrafted Undrafted 45.0 5.0 3.9 0.8 7.2 11.6 13.3 10.9 73.1 7.7
+Malachi Flynn DET 25 6-1 185 San Diego State USA 2020 1 29 54.0 4.0 1.5 1.6 -8.1 1.9 10.8 16.8 52.1 21.5
+Malaki Branham SAS 20 6-4 180 Ohio State USA 2022 1 20 59.0 9.1 2.0 2.2 -12.1 1.6 7.9 19.1 53.6 15.4
+Malcolm Brogdon POR 31 6-4 229 Virginia USA 2016 2 36 39.0 15.7 3.8 5.5 -3.7 2.4 10.8 22.6 56.0 30.1
+Malcolm Cazalon DET 22 6-6 185 None France Undrafted Undrafted Undrafted 1.0 0.0 0.0 0.0 83.3 0.0 0.0 0.0 0.0 0.0
+Malik Beasley MIL 27 6-4 187 Florida State USA 2016 1 19 63.0 11.4 3.9 1.4 8.5 2.1 9.8 13.9 62.4 6.0
+Malik Monk SAC 26 6-3 200 Kentucky USA 2017 1 11 62.0 15.7 2.9 5.3 -0.6 1.4 10.0 24.6 57.4 29.6
+Mamadi Diakite SAS 27 6-9 228 Virginia Guinea Undrafted Undrafted Undrafted 3.0 4.0 1.0 0.7 15.2 5.9 11.8 22.2 78.5 25.0
+MarJon Beauchamp MIL 23 6-7 199 None USA 2022 1 24 45.0 4.3 2.1 0.7 -1.4 3.8 12.0 13.8 58.3 6.7
+Marcus Morris Sr. PHI 34 6-8 218 Kansas USA 2011 1 14 37.0 6.7 2.9 0.7 -0.8 2.6 14.5 15.7 55.9 5.9
+Marcus Sasser DET 23 6-2 195 Houston USA 2023 1 25 54.0 7.4 1.6 3.0 -7.1 0.8 9.1 19.1 56.7 26.7
+Marcus Smart MEM 30 6-3 220 Oklahoma State USA 2014 1 6 20.0 14.5 2.7 4.3 -0.8 0.9 7.3 22.5 55.2 21.1
+Mark Williams CHA 22 7-0 240 Duke USA 2022 1 15 19.0 12.7 9.7 1.2 -1.2 14.3 20.9 16.2 67.5 5.9
+Markelle Fultz ORL 25 6-4 209 Washington USA 2017 1 1 27.0 8.2 3.3 3.1 -0.5 5.9 9.3 17.6 50.2 20.5
+Markieff Morris DAL 34 6-9 245 Kansas USA 2011 1 13 19.0 2.7 1.6 0.6 -17.3 2.3 15.3 15.8 48.3 10.0
+Markquis Nowell TOR 24 5-7 160 Kansas State USA Undrafted Undrafted Undrafted 1.0 2.0 2.0 2.0 66.1 50.0 0.0 22.2 53.2 100
+Marques Bolden CHA 25 6-10 249 Duke USA 2019 4.0 0.0 0.8 0.0 15.5 0.0 14.3 5.3 0.0 0.0
+Marvin Bagley III WAS 24 6-10 235 Duke USA 2018 1 2 44.0 11.5 6.2 1.2 -7.1 12.2 16.9 20.4 61.6 8.6
+Mason Jones SAC 25 6-4 200 Arkansas USA Undrafted Undrafted Undrafted 1.0 1.0 4.0 4.0 40.9 5.9 20.0 12.1 12.9 36.4
+Mason Plumlee LAC 34 6-10 254 Duke USA 2013 1 22 29.0 6.2 5.8 1.2 3.3 9.6 24.6 13.9 66.8 9.4
+Matisse Thybulle POR 27 6-5 201 Washington USA 2019 1 20 60.0 5.6 2.1 1.3 -7.2 2.0 7.2 10.5 53.9 7.8
+Matt Hurt MEM 23 6-9 233 Duke USA Undrafted Undrafted Undrafted 8.0 4.0 2.0 0.5 -6.0 7.0 6.0 13.4 45.3 6.2
+Matt Ryan NOP 26 6-6 215 Tennessee-Chattanooga USA Undrafted Undrafted Undrafted 19.0 7.7 2.1 0.8 3.2 1.6 8.3 14.9 66.7 6.3
+Max Christie LAL 21 6-5 190 Michigan State USA 2022 2 35 52.0 4.7 2.4 1.0 -2.0 1.5 12.2 13.0 55.1 8.3
+Max Strus CLE 27 6-5 215 DePaul USA Undrafted Undrafted Undrafted 60.0 12.2 4.7 3.8 6.6 2.7 11.3 16.7 54.4 15.8
+Maxi Kleber DAL 32 6-10 240 None Germany Undrafted Undrafted Undrafted 27.0 4.7 3.6 1.6 1.6 3.1 13.3 10.1 53.9 9.3
+Maxwell Lewis LAL 21 6-7 195 Pepperdine USA 2023 2 40 23.0 0.3 0.1 0.1 -30.0 1.3 2.4 10.2 29.2 7.5
+Micah Potter UTA 25 6-9 248 Wisconsin USA Undrafted Undrafted Undrafted 2.0 0.0 2.0 0.0 -106.2 0.0 66.7 6.3 0.0 0.0
+Michael Porter Jr. DEN 25 6-10 218 Missouri USA 2018 1 14 63.0 16.6 7.0 1.5 7.6 4.2 17.8 20.0 59.9 6.3
+Mikal Bridges BKN 27 6-6 209 Villanova USA 2018 1 10 65.0 20.9 4.7 3.8 -2.1 2.1 11.0 24.7 56.4 16.5
+Mike Conley MIN 36 6-0 175 Ohio State USA 2007 1 4 60.0 10.5 3.0 6.2 6.3 1.7 8.3 14.6 60.7 29.7
+Mike Muscala OKC 32 6-10 240 Bucknell USA 2013 2 44 39.0 3.7 2.8 0.9 -7.5 5.8 14.1 13.6 47.8 8.7
+Miles Bridges CHA 25 6-7 225 Michigan State USA 2018 1 12 53.0 21.3 7.5 3.3 -11.5 2.5 18.2 24.2 55.8 14.3
+Miles McBride NYK 23 6-1 195 West Virginia USA 2021 2 36 51.0 6.5 1.1 1.4 -4.7 1.9 5.2 17.6 56.1 15.3
+Mitchell Robinson NYK 25 7-0 240 Western Kentucky USA 2018 2 36 21.0 6.2 10.3 0.7 2.9 16.9 17.9 9.3 56.7 3.3
+Mo Bamba PHI 25 7-0 231 Texas USA 2018 1 6 42.0 3.9 3.8 0.7 -2.2 10.7 20.6 15.8 54.1 8.8
+Monte Morris MIN 28 6-2 183 Iowa State USA 2017 2 51 17.0 5.0 1.7 2.4 5.4 1.9 9.7 17.1 45.2 24.5
+Moritz Wagner ORL 26 6-11 245 Michigan Germany 2018 1 25 63.0 11.2 4.6 1.2 2.0 8.8 16.9 21.8 67.0 10.6
+Moses Brown POR 24 7-2 258 UCLA USA Undrafted Undrafted Undrafted 13.0 2.4 4.2 0.3 -12.1 17.1 30.3 14.0 45.5 5.6
+Moses Moody GSW 21 6-5 211 Arkansas USA 2021 1 14 49.0 8.2 3.2 0.8 1.7 5.6 11.2 17.8 56.6 6.1
+Mouhamadou Gueye TOR 25 6-9 210 Pittsburgh USA Undrafted Undrafted Undrafted 2.0 1.0 2.5 0.0 -3.9 23.1 11.8 13.8 25.0 0.0
+Mouhamed Gueye ATL 21 6-10 210 Washington State Senegal 2023 2 39 2.0 0.0 0.0 0.0 -117.3 0.0 0.0 8.3 0.0 0.0
+Moussa Diabate LAC 22 6-9 210 Michigan France 2022 2 43 11.0 2.6 2.2 0.4 -3.4 22.7 12.9 17.1 57.6 8.9
+Myles Turner IND 27 6-11 250 Texas USA 2015 1 11 61.0 17.1 7.1 1.2 4.4 6.0 19.9 23.4 62.0 6.1
+Naji Marshall NOP 26 6-6 220 Xavier USA Undrafted Undrafted Undrafted 52.0 7.3 3.6 2.0 9.1 5.0 13.4 16.2 58.1 14.4
+Nassir Little PHX 24 6-6 220 North Carolina USA 2019 1 25 34.0 3.9 2.1 0.6 -8.4 3.2 12.2 12.5 57.9 6.6
+Nate Hinton HOU 24 6-5 210 Houston USA Undrafted Undrafted Undrafted 11.0 2.8 1.1 0.5 12.1 5.3 13.2 16.1 69.8 13.0
+Nate Williams HOU 25 6-5 205 Buffalo USA Undrafted Undrafted Undrafted 12.0 2.8 1.0 0.5 11.7 9.8 3.4 16.9 49.9 9.1
+Nathan Mensah CHA 25 6-9 230 San Diego State Ghana Undrafted Undrafted Undrafted 25.0 1.3 2.6 0.4 -19.6 8.7 12.7 6.8 49.6 4.3
+Naz Reid MIN 24 6-9 264 Louisiana State USA Undrafted Undrafted Undrafted 65.0 12.8 4.9 1.1 6.3 4.1 15.7 21.3 60.4 7.6
+Neemias Queta BOS 24 7-0 248 Utah State Portugal 2021 2 39 23.0 4.9 4.4 0.5 19.1 15.3 19.4 14.3 63.6 5.0
+Nic Claxton BKN 24 6-11 215 Georgia USA 2019 2 31 55.0 12.3 9.8 2.0 -5.8 8.4 24.1 15.8 63.5 10.6
+Nick Richards CHA 26 7-0 245 Kentucky Jamaica 2020 2 42 54.0 10.0 8.1 0.8 -12.7 10.1 21.3 13.4 71.7 4.5
+Nick Smith Jr. CHA 19 6-2 185 Arkansas USA 2023 1 27 39.0 6.2 1.4 1.3 -13.6 2.6 6.9 19.3 52.0 13.6
+Nickeil Alexander-Walker MIN 25 6-5 205 Virginia Tech Canada 2019 1 17 65.0 7.3 2.0 2.6 5.8 2.0 6.4 13.7 55.9 15.2
+Nicolas Batum PHI 35 6-8 230 None France 2008 1 25 43.0 5.3 4.0 2.2 6.8 4.9 11.1 8.4 63.1 10.9
+Nikola Jokic DEN 29 6-11 284 None Serbia 2014 2 41 62.0 26.0 12.2 9.2 10.5 8.9 27.0 28.8 65.2 40.5
+Nikola Jovic MIA 20 6-10 205 None Serbia 2022 1 27 30.0 6.2 4.2 2.0 8.7 3.6 19.7 16.0 56.2 14.5
+Nikola Vucevic CHI 33 6-10 260 Southern California Montenegro 2011 1 16 59.0 18.2 10.7 3.3 -2.8 8.2 23.0 23.7 53.1 15.5
+Noah Clowney BKN 19 6-9 210 Alabama USA 2023 1 21 9.0 3.2 1.7 0.9 -17.3 7.3 13.0 12.4 70.3 14.0
+Norman Powell LAC 30 6-4 215 UCLA USA 2015 2 46 62.0 13.9 2.7 1.0 5.3 0.8 9.1 19.4 62.7 5.8
+OG Anunoby NYK 26 6-7 240 Indiana United Kingdom 2017 1 23 41.0 15.3 4.2 2.3 9.8 2.8 9.1 17.3 60.9 8.9
+Obi Toppin IND 26 6-9 220 Dayton USA 2020 1 8 65.0 10.4 3.9 1.5 1.9 4.7 13.1 15.8 66.8 8.3
+Ochai Agbaji TOR 23 6-5 215 Kansas USA 2022 1 14 63.0 5.5 2.5 0.9 -6.0 3.6 8.4 12.9 51.0 6.3
+Olivier Sarr OKC 25 6-10 240 Kentucky France Undrafted Undrafted Undrafted 14.0 2.4 2.5 0.1 5.1 11.5 23.6 12.9 66.4 3.0
+Olivier-Maxence Prosper DAL 21 6-7 230 Marquette Canada 2023 1 24 33.0 2.5 1.9 0.6 -10.7 5.8 16.0 14.4 46.7 10.1
+Omer Yurtseven UTA 25 6-11 275 Georgetown Turkey Undrafted Undrafted Undrafted 35.0 3.1 3.6 0.5 -12.3 12.7 25.6 16.0 54.7 7.8
+Onuralp Bitim CHI 24 6-6 215 None Turkey Undrafted Undrafted Undrafted 8.0 3.6 1.5 0.4 6.8 2.1 9.5 13.1 56.3 4.5
+Onyeka Okongwu ATL 23 6-10 240 Southern California USA 2020 1 6 53.0 10.2 7.0 1.3 0.4 10.0 16.8 13.3 67.5 7.0
+Orlando Robinson MIA 23 6-10 235 Fresno State USA Undrafted Undrafted Undrafted 28.0 3.3 2.8 1.0 5.1 9.2 20.4 14.8 58.7 15.0
+Oscar Tshiebwe IND 24 6-8 255 Kentucky DRC Undrafted Undrafted Undrafted 8.0 3.3 2.0 0.3 15.9 16.7 22.9 20.5 55.3 6.5
+Oshae Brissett BOS 25 6-7 210 Syracuse Canada Undrafted Undrafted Undrafted 40.0 3.7 2.8 0.8 9.2 7.8 16.0 13.9 55.1 9.5
+Otto Porter Jr. UTA 30 6-8 230 Georgetown USA 2013 1 3 15.0 2.6 1.9 0.5 4.7 3.2 13.0 8.3 56.8 5.8
+Ousmane Dieng OKC 20 6-9 185 None France 2022 1 11 30.0 4.0 1.6 1.1 1.8 2.9 11.0 16.0 54.5 13.9
+P.J. Tucker LAC 38 6-5 245 Texas USA 2006 2 35 19.0 1.4 2.8 0.5 -2.3 6.9 11.0 5.1 44.5 4.3
+P.J. Washington DAL 25 6-7 230 Kentucky USA 2019 1 12 56.0 13.2 5.3 2.0 -7.4 3.9 13.9 19.2 54.4 9.5
+Paolo Banchero ORL 21 6-10 250 Duke USA 2022 1 1 63.0 22.8 6.8 5.2 -1.1 3.1 17.2 29.4 54.7 24.6
+Pascal Siakam IND 29 6-8 245 New Mexico State Cameroon 2016 1 27 63.0 21.6 6.6 4.6 0.5 4.6 14.8 24.5 60.2 20.1
+Pat Connaughton MIL 31 6-5 209 Notre Dame USA 2015 2 41 59.0 5.6 3.2 1.9 -0.8 2.8 12.1 10.0 61.3 11.1
+Pat Spencer GSW 27 6-3 205 Northwestern USA Undrafted Undrafted Undrafted 2.0 0.0 0.0 0.5 -66.7 0.0 0.0 0.0 0.0 100
+Patrick Baldwin Jr. WAS 21 6-9 220 Wisconsin-Milwaukee USA 2022 1 28 21.0 3.0 2.1 0.4 12.4 3.7 19.9 15.2 54.6 6.6
+Patrick Beverley MIL 35 6-2 180 Arkansas USA 2009 2 42 60.0 6.1 3.1 2.8 -2.9 3.3 12.2 14.6 53.7 21.5
+Patrick Williams CHI 22 6-7 215 Florida State USA 2020 1 4 43.0 10.0 3.9 1.5 -1.2 3.9 10.5 16.3 55.3 7.7
+Patty Mills MIA 35 6-2 180 St. Mary's Australia 2009 2 55 21.0 3.4 1.1 0.7 -3.2 1.8 8.4 12.9 54.6 8.0
+Paul George LAC 33 6-8 220 Fresno State USA 2010 1 10 57.0 22.1 5.4 3.6 9.8 1.7 13.9 26.2 59.3 15.6
+Paul Reed PHI 24 6-9 210 DePaul USA 2020 2 58 64.0 7.1 5.7 1.3 2.7 11.7 19.4 15.2 58.4 9.4
+Payton Pritchard BOS 26 6-1 195 Oregon USA 2020 1 26 63.0 8.0 3.1 2.6 11.8 4.1 10.6 15.5 58.5 17.6
+Pete Nance CLE 24 6-10 225 North Carolina USA Undrafted Undrafted Undrafted 3.0 0.0 0.3 0.0 10.4 0.0 20.0 14.3 0.0 0.0
+Peyton Watson DEN 21 6-7 200 UCLA USA 2022 1 30 62.0 6.9 2.9 1.0 -0.8 3.6 11.2 16.3 55.3 7.7
+Precious Achiuwa NYK 24 6-8 243 Memphis Nigeria 2020 1 20 57.0 8.4 6.7 1.4 0.8 10.9 17.6 16.4 54.1 8.6
+Quentin Grimes DET 23 6-5 210 Houston USA 2021 1 25 49.0 7.1 2.0 1.2 -1.0 1.3 8.0 15.2 52.7 8.9
+R.J. Hampton WAS 23 6-4 175 None USA 2020 1 24 8.0 1.3 0.8 1.0 10.6 2.6 4.5 9.8 33.6 12.7
+RJ Barrett TOR 23 6-6 214 Duke Canada 2019 1 3 52.0 19.4 5.2 3.1 -2.8 2.6 13.7 25.1 57.5 14.9
+Rayan Rupert POR 19 6-6 185 None France 2023 2 43 22.0 3.0 1.6 0.9 -6.3 5.4 12.3 15.1 48.2 13.8
+Reggie Bullock Jr. HOU 32 6-6 205 North Carolina USA 2013 1 25 26.0 2.3 1.3 0.4 -2.6 1.3 13.3 10.6 56.3 5.6
+Reggie Jackson DEN 33 6-2 208 Boston College USA 2011 1 24 64.0 10.1 2.0 3.8 1.0 1.6 6.9 20.4 52.6 23.8
+Richaun Holmes WAS 30 6-9 235 Bowling Green USA 2015 2 37 33.0 4.2 3.5 0.6 -6.8 11.0 18.2 13.6 60.6 7.0
+Ricky Council IV PHI 22 6-6 207 Arkansas USA Undrafted Undrafted Undrafted 21.0 5.8 1.9 0.3 -6.8 5.5 13.8 22.6 56.7 5.5
+Robert Covington PHI 33 6-7 209 Tennessee State USA Undrafted Undrafted Undrafted 29.0 4.4 3.3 0.8 12.1 6.4 12.7 10.4 58.0 6.4
+Robert Williams III POR 26 6-9 249 Texas A&M USA 2018 1 27 6.0 6.8 6.3 0.8 -13.3 8.0 22.7 12.2 68.4 6.5
+Robin Lopez MIL 35 7-1 281 Stanford USA 2008 1 15 16.0 1.1 0.3 0.3 -20.1 4.5 3.0 13.9 45.3 8.7
+Ron Harper Jr. TOR 23 6-4 233 Rutgers USA Undrafted Undrafted Undrafted 1.0 0.0 0.0 1.0 -88.9 0.0 0.0 0.0 0.0 33.3
+Royce O'Neale PHX 30 6-6 226 Baylor USA Undrafted Undrafted Undrafted 61.0 7.8 4.8 3.0 2.0 2.9 14.9 13.3 53.9 15.6
+Rudy Gobert MIN 31 7-1 258 None France 2013 1 27 62.0 13.8 12.9 1.2 8.7 11.6 25.7 15.3 66.8 5.1
+Rui Hachimura LAL 26 6-8 230 Gonzaga Japan 2019 1 9 52.0 12.5 3.7 1.1 2.0 3.2 10.9 18.4 60.7 5.7
+Russell Westbrook LAC 35 6-4 200 UCLA USA 2008 1 4 58.0 11.1 5.1 4.4 2.9 6.1 15.5 23.6 51.1 27.6
+Ryan Arcidiacono NYK 29 6-3 195 Villanova USA Undrafted Undrafted Undrafted 20.0 0.0 0.4 0.2 2.1 0.0 13.8 7.4 0.0 13.3
+Ryan Rollins MIL 21 6-3 180 Toledo USA 2022 2 44 10.0 4.1 1.1 1.1 38.8 3.2 11.8 23.2 63.1 20.0
+Saben Lee PHX 24 6-2 183 Vanderbilt USA 2020 2 38 21.0 3.2 1.5 1.4 4.8 5.3 11.0 18.9 47.7 25.9
+Saddiq Bey ATL 24 6-7 215 Villanova USA 2020 1 19 63.0 13.7 6.5 1.5 -0.5 7.5 11.9 16.3 54.9 5.8
+Sam Hauser BOS 26 6-7 217 Virginia USA Undrafted Undrafted Undrafted 62.0 7.8 3.3 0.9 12.4 2.7 12.0 13.4 63.2 5.8
+Sam Merrill CLE 27 6-4 205 Utah State USA 2020 2 60 46.0 7.8 1.9 1.5 -1.2 2.3 9.0 17.5 60.0 13.8
+Sandro Mamukelashvili SAS 24 6-9 240 Seton Hall Georgia 2021 2 54 35.0 2.3 1.7 0.8 4.6 8.3 17.3 15.8 50.9 18.1
+Santi Aldama MEM 23 7-0 215 Loyola-Maryland Spain 2021 1 30 53.0 10.5 5.6 2.2 -7.9 4.3 17.0 18.3 53.4 13.8
+Sasha Vezenkov SAC 28 6-8 225 None Bulgaria 2017 2 57 35.0 5.6 2.5 0.4 1.4 6.6 12.7 17.1 57.4 4.7
+Scoot Henderson POR 20 6-3 202 None USA 2023 1 3 44.0 12.9 2.9 4.7 -10.1 2.9 8.0 25.0 48.5 27.0
+Scottie Barnes TOR 22 6-7 237 Florida State USA 2021 1 4 60.0 19.9 8.2 6.1 -3.2 6.4 16.7 24.0 56.6 25.3
+Scotty Pippen Jr. MEM 23 6-1 170 Vanderbilt USA Undrafted Undrafted Undrafted 8.0 10.5 3.4 4.5 -5.2 4.2 10.4 20.0 61.5 32.4
+Seth Curry CHA 33 6-1 185 Duke USA Undrafted Undrafted Undrafted 44.0 5.1 1.5 1.0 3.1 2.8 7.8 15.9 51.9 10.0
+Seth Lundy ATL 23 6-4 220 Penn State USA 2023 2 46 9.0 1.6 0.8 0.0 -11.7 2.2 11.8 16.8 37.3 0.0
+Shaedon Sharpe POR 20 6-5 205 Kentucky Canada 2022 1 7 32.0 15.9 5.0 2.9 -10.3 3.6 11.6 22.0 52.4 13.8
+Shai Gilgeous-Alexander OKC 25 6-6 195 Kentucky Canada 2018 1 11 63.0 31.1 5.5 6.4 11.5 2.5 12.8 31.9 64.8 29.8
+Shake Milton NYK 27 6-5 205 Southern Methodist USA 2018 2 54 43.0 4.8 1.6 1.3 -5.6 2.4 9.6 17.4 49.6 14.6
+Shaquille Harrison MEM 30 6-4 195 Tulsa USA Undrafted Undrafted Undrafted 3.0 0.7 0.7 0.0 -75.3 0.0 40.0 15.4 50.0 0.0
+Sidy Cissoko SAS 19 6-6 200 None France 2023 2 44 6.0 1.0 1.0 0.0 20.3 0.0 17.1 10.5 38.7 0.0
+Simone Fontecchio DET 28 6-7 209 None Italy Undrafted Undrafted Undrafted 62.0 10.1 3.5 1.5 -2.2 3.8 10.3 15.8 59.7 8.7
+Skylar Mays LAL 26 6-3 205 Louisiana State USA 2020 2 50 32.0 4.8 1.3 2.6 -10.6 2.2 8.5 18.0 46.8 29.4
+Spencer Dinwiddie LAL 30 6-5 215 Colorado USA 2014 2 38 60.0 11.1 2.9 5.4 0.6 1.5 7.8 17.0 52.5 24.4
+Stanley Umude DET 24 6-6 210 Arkansas USA Undrafted Undrafted Undrafted 18.0 5.1 1.8 0.5 -11.6 3.2 13.0 15.7 68.1 6.3
+Stephen Curry GSW 35 6-2 185 Davidson USA 2009 1 7 59.0 26.9 4.4 4.9 1.2 1.5 11.3 30.5 61.8 23.1
+Svi Mykhailiuk BOS 26 6-7 205 Kansas Ukraine 2018 2 47 26.0 2.8 1.0 0.5 7.9 3.7 7.8 16.8 48.3 9.3
+T.J. McConnell IND 31 6-1 190 Arizona USA 2015 0 54.0 9.0 2.7 5.5 1.0 3.1 12.7 21.2 57.9 41.3
+T.J. Warren MIN 30 6-8 220 North Carolina State USA 2014 1 14 3.0 5.7 2.7 0.7 18.6 3.3 12.2 13.2 56.7 5.4
+Taj Gibson DET 38 6-9 232 Southern California USA 2009 1 26 16.0 1.0 1.8 0.6 -5.1 5.9 10.9 7.7 33.5 7.0
+Talen Horton-Tucker UTA 23 6-4 234 Iowa State USA 2019 2 46 41.0 10.0 2.5 3.7 -4.5 2.3 9.9 23.2 50.8 28.4
+Tari Eason HOU 22 6-8 215 Louisiana State USA 2022 1 17 22.0 9.8 7.0 1.2 9.4 8.8 20.3 18.8 52.8 8.7
+Taurean Prince LAL 29 6-6 218 Baylor USA 2016 1 12 63.0 9.1 3.0 1.6 -3.5 0.8 9.2 13.1 57.2 7.4
+Taylor Hendricks UTA 20 6-9 215 Central Florida USA 2023 1 9 23.0 5.8 4.0 0.6 -3.1 6.4 15.0 13.7 55.4 4.3
+Taze Moore POR 25 6-5 195 Houston USA Undrafted Undrafted Undrafted 3.0 2.0 0.0 0.3 9.9 0.0 0.0 18.8 60.0 11.1
+Terance Mann LAC 27 6-5 215 Florida State USA 2019 2 48 57.0 8.2 3.4 1.8 2.6 5.2 8.4 12.9 59.2 9.1
+Terquavion Smith PHI 21 6-4 160 North Carolina State USA Undrafted Undrafted Undrafted 12.0 3.8 0.2 0.8 0.3 0.0 3.0 23.8 55.7 18.9
+Terry Rozier MIA 29 6-1 190 Louisville USA 2015 1 16 47.0 20.2 4.1 6.3 -10.4 1.8 10.9 25.3 55.6 29.3
+Terry Taylor CHI 24 6-4 230 Austin Peay USA Undrafted Undrafted Undrafted 24.0 1.6 1.4 0.3 0.2 9.1 10.4 11.1 53.8 5.7
+Thaddeus Young PHX 35 6-8 225 Georgia Tech USA 2007 1 12 25.0 4.8 3.4 2.0 -2.4 9.7 13.3 12.5 60.5 17.7
+Thanasis Antetokounmpo MIL 31 6-7 219 None Greece 2014 2 51 27.0 0.9 0.4 0.5 -9.3 5.5 3.0 12.3 48.2 14.6
+Theo Maledon PHX 22 6-4 175 None France 2020 2 34 17.0 3.5 1.4 1.6 -13.8 1.6 9.3 17.3 38.5 17.4
+Thomas Bryant MIA 26 6-10 248 Indiana USA 2017 2 42 27.0 4.0 2.9 0.6 -5.4 9.4 19.7 16.6 59.6 8.7
+Tim Hardaway Jr. DAL 31 6-5 205 Michigan USA 2013 1 24 61.0 16.2 3.4 1.7 -0.7 1.1 10.7 22.7 55.1 8.4
+Tobias Harris PHI 31 6-8 226 Tennessee USA 2011 1 19 58.0 17.4 6.3 3.2 5.6 3.2 15.1 20.2 58.0 13.6
+Torrey Craig CHI 33 6-5 221 South Carolina Upstate USA Undrafted Undrafted Undrafted 35.0 5.9 4.6 1.1 -7.0 7.2 14.9 12.1 55.4 7.2
+Tosan Evbuomwan DET 23 6-7 217 Princeton United Kingdom Undrafted Undrafted Undrafted 6.0 2.8 2.7 1.0 -14.9 8.2 9.4 9.2 47.2 9.7
+Toumani Camara POR 23 6-7 226 Dayton Belgium 2023 2 52 60.0 7.3 5.0 1.1 -4.4 7.4 12.9 13.6 53.5 6.5
+Trae Young ATL 25 6-1 164 Oklahoma USA 2018 1 5 51.0 26.4 2.7 10.8 -2.6 1.1 6.3 29.2 58.1 43.3
+Trayce Jackson-Davis GSW 24 6-9 245 Indiana USA 2023 2 57 50.0 6.9 4.1 0.9 0.4 11.3 17.3 16.5 69.7 9.9
+Tre Jones SAS 24 6-1 185 Duke USA 2020 2 41 59.0 9.4 3.3 6.0 -2.1 2.5 9.7 14.8 59.0 30.0
+Tre Mann CHA 23 6-3 178 Florida USA 2021 1 18 24.0 7.4 3.4 3.0 -5.4 2.1 15.6 17.7 56.4 24.2
+Trendon Watford BKN 23 6-8 237 Louisiana State USA Undrafted Undrafted Undrafted 47.0 5.7 2.6 1.2 -1.0 7.1 15.7 19.4 60.6 14.9
+Trent Forrest ATL 25 6-4 210 Florida State USA Undrafted Undrafted Undrafted 26.0 2.0 1.2 1.9 -12.1 2.1 11.0 12.0 42.5 26.9
+Trevelin Queen ORL 27 6-5 190 New Mexico State USA Undrafted Undrafted Undrafted 13.0 3.1 1.5 1.4 -0.1 2.1 9.6 13.8 46.2 16.7
+Trey Jemison MEM 24 6-10 260 Alabama-Birmingham USA Undrafted Undrafted Undrafted 13.0 4.8 3.8 0.8 -5.6 8.8 13.7 13.3 55.5 6.8
+Trey Lyles SAC 28 6-9 234 Kentucky Canada 2015 1 12 48.0 7.3 4.4 1.1 5.9 5.0 16.8 13.7 60.6 7.3
+Trey Murphy III NOP 23 6-8 206 Virginia USA 2021 1 17 39.0 14.0 4.2 1.8 10.9 2.4 12.4 18.6 60.5 9.6
+Tristan Thompson CLE 32 6-9 254 Texas-Austin Canada 2011 1 4 36.0 3.8 3.9 1.1 5.7 13.3 17.3 12.8 60.5 12.2
+Troy Brown Jr. DET 24 6-7 215 Oregon USA 2018 1 15 44.0 4.1 2.0 1.0 -4.5 3.2 13.7 14.8 58.3 11.9
+Ty Jerome CLE 26 6-5 195 Virginia USA 2019 1 24 2.0 2.0 0.5 1.5 -37.1 6.7 0.0 14.7 50.0 27.3
+TyTy Washington Jr. MIL 22 6-3 195 Kentucky USA 2022 1 29 5.0 0.6 0.2 0.2 -9.8 0.0 5.6 18.0 21.4 10.0
+Tyler Herro MIA 24 6-5 195 Kentucky USA 2019 1 13 36.0 20.8 5.3 4.4 -0.7 1.5 14.1 26.9 54.9 21.4
+Tyrese Haliburton IND 24 6-5 185 Iowa State USA 2020 1 12 52.0 20.8 3.9 11.3 5.0 1.8 9.9 24.4 61.0 46.9
+Tyrese Maxey PHI 23 6-2 200 Kentucky USA 2020 1 21 55.0 26.0 3.7 6.3 5.2 1.5 8.5 27.0 57.5 25.5
+Tyus Jones WAS 27 6-1 196 Duke USA 2015 1 24 64.0 12.1 2.8 7.3 -11.5 1.0 8.3 16.0 58.3 33.0
+Udoka Azubuike PHX 24 6-11 270 Kansas Nigeria 2020 1 27 14.0 2.5 2.3 0.2 -17.2 10.2 18.3 11.9 65.2 3.9
+Usman Garuba GSW 22 6-8 229 None Spain 2021 1 23 3.0 0.0 0.3 0.3 -44.4 8.3 0.0 4.2 0.0 33.3
+Vasilije Micic CHA 30 6-3 188 None Serbia 2014 2 52 43.0 5.4 1.2 3.5 4.9 1.3 6.2 18.9 49.6 29.5
+Victor Wembanyama SAS 20 7-4 210 None France 2023 1 1 56.0 20.7 10.3 3.4 -4.5 7.3 27.2 30.7 56.9 19.4
+Vince Williams Jr. MEM 23 6-4 205 Virginia Commonwealth USA 2022 2 47 52.0 10.0 5.6 3.4 -3.0 3.9 16.3 15.5 59.7 17.7
+Vit Krejci ATL 23 6-8 195 None Czech Republic 2020 2 37 4.0 1.5 0.8 2.0 -6.7 2.0 5.4 7.7 37.5 19.0
+Walker Kessler UTA 22 7-0 245 Auburn USA 2022 1 22 52.0 8.4 7.5 0.9 -2.4 11.0 19.3 13.1 64.9 5.4
+Wendell Carter Jr. ORL 24 6-10 270 Duke USA 2018 1 7 38.0 11.6 6.9 1.6 -0.6 8.4 19.5 17.3 63.6 9.1
+Wendell Moore Jr. MIN 22 6-5 215 Duke USA 2022 1 26 15.0 0.7 0.4 0.1 -20.2 0.0 13.0 10.6 50.0 5.9
+Wenyen Gabriel MEM 26 6-9 205 Kentucky South Sudan Undrafted Undrafted Undrafted 2.0 4.0 4.5 1.0 4.1 5.3 18.9 17.3 39.2 12.5
+Wesley Matthews ATL 37 6-5 220 Marquette USA Undrafted Undrafted Undrafted 24.0 2.3 1.4 0.6 -5.4 1.4 10.7 10.6 46.7 7.6
+Xavier Moon LAC 29 6-0 165 Morehead State USA Undrafted Undrafted Undrafted 2.0 1.0 1.0 1.5 -60.6 0.0 18.2 11.1 50.0 42.9
+Xavier Tillman BOS 25 6-7 245 Michigan State USA 2020 2 35 38.0 5.8 4.4 1.6 -5.5 7.0 14.7 15.3 45.5 12.2
+Yuta Watanabe MEM 29 6-9 215 George Washington Japan Undrafted Undrafted Undrafted 34.0 3.4 1.6 0.4 -7.3 2.3 8.8 12.9 47.4 4.5
+Zach Collins SAS 26 6-11 250 Gonzaga USA 2017 1 10 52.0 11.4 5.3 3.0 -12.0 7.0 15.0 21.7 56.0 19.2
+Zach LaVine CHI 29 6-5 200 UCLA USA 2014 1 13 25.0 19.5 5.2 3.9 -5.4 0.9 13.4 23.8 57.8 17.2
+Zeke Nnaji DEN 23 6-9 240 Arizona USA 2020 1 22 49.0 3.2 2.2 0.6 -12.6 10.7 9.8 16.0 51.0 8.5
+Ziaire Williams MEM 22 6-9 185 Stanford USA 2021 1 10 51.0 8.2 3.5 1.5 -9.9 3.1 13.8 19.2 51.1 11.8
+Zion Williamson NOP 23 6-6 284 Duke USA 2019 1 1 53.0 22.1 5.6 5.2 3.2 5.7 12.1 27.6 61.4 26.5
