@@ -20,3 +20,6 @@ files will be stored with current date in the raws directory in the tables dir.
 Use datacleanup.py to clean up data.
 Files will be stored with directory name in cleaned
 
+Final formatting before ingesting into a Database will occur in another script.
+Load into pandas -> convert to Mysql database -> upload ont cloud is run via uploadupdates.py
+
