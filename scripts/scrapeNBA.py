@@ -8,6 +8,7 @@ import pandas as pd
 import time
 import pickle
 import os
+import datetime
 os.chdir("/Users/Max_1/Documents/code/NBAStatsSQLsetup")
 
 # set up the webdriver (update the path to your chromedriver)
@@ -43,6 +44,12 @@ driver = webdriver.Chrome()
 url = "https://www.nba.com/stats/players/"
 tab_list = ["bio", "traditional", "advanced", "misc", "scoring", "usage", "opponent", "defense", "estimated-advanced"]
 
+# create dir
+current_date = datetime.datetime.now().strftime("%m%d%y")
+new_dir = './tables/raws/' + current_date
+os.mkdir(new_dir)
+
+
 for i in tab_list:
     link = url + i
     driver.get(link)
@@ -55,7 +62,7 @@ for i in tab_list:
     #download the table
     lines = tab.text
     # out
-    path_out = './tables/raws/' + i + '.txt'
+    path_out = new_dir + '/' + i + '.txt'
     f = open(path_out,"w")
     f.writelines(lines)
     f.close()

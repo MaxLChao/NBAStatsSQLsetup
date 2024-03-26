@@ -12,5 +12,11 @@ Basic premise is this:
 - Have script that can turn on/off Server
 - Have script to query server and generate basic analyses
 
+# Running
 
+Use scrapeNBA.py to run the NBA scrape. 
+files will be stored with current date in the raws directory in the tables dir. 
+
+Use datacleanup.py to clean up data.
+Files will be stored with directory name in cleaned
 
