@@ -124,7 +124,7 @@ for x in files:
         with open('/Users/Max_1/Documents/code/NBAStatsSQLsetup/tables/cleaned/bio.csv', 'w') as out:
             out.writelines(header)
         with open('/Users/Max_1/Documents/code/NBAStatsSQLsetup/tables/cleaned/bio.csv', 'a') as out:
-            out.writelines(fin3)
+            out.writelines(fin2)
 
 
 
