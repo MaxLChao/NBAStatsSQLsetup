@@ -17,7 +17,7 @@ files = os.listdir()
 
 # adds comma before the team name which is 3 capital letters
 def commanames(lines):
-    pattern=r'(\b)(?!III\b)([A-Z]{3})\b'
+    pattern=r'(\b)(?!III|USA\b)([A-Z]{3})\b'
     replacement=r'\1, \2'
     mod_text = []
     for i in lines:

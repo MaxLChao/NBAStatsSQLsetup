@@ -1,567 +1,567 @@
 PLAYER, TEAM, AGE, HEIGHT, WEIGHT, COLLEGE, COUNTRY, DRAFT_YEAR, DRAFT_ROUND, DRAFT_NUMBER, GP, PTS, REB, AST, NETRTG, OREB%, DREB%, USG%, TS%, AST%
 A.J. Lawson , DAL, 23, 6-6, 179, South, Carolina, Canada, Undrafted, Undrafted, Undrafted, 36.0, 3.3, 1.0, 0.4, 4.5, 4.1, 8.6, 17.7, 55.9, 7.6
-AJ Green , MIL, 24, 6-4, 190, Northern, Iowa, ,, USA, Undrafted, Undrafted, Undrafted, 50.0, 4.4, 1.1, 0.5, 2.6, 1.7, 9.2, 15.7, 62.1, 7.5
-AJ Griffin , ATL, 20, 6-6, 220, Duke, ,, USA, 2022, 1, 16, 18.0, 2.1, 0.8, 0.2, -9.8, 1.4, 10.1, 15.6, 40.3, 4.2
-Aaron Gordon , DEN, 28, 6-8, 235, Arizona, ,, USA, 2014, 1, 4, 68.0, 13.8, 6.5, 3.4, 8.2, 7.9, 13.1, 17.5, 60.1, 14.1
-Aaron Holiday , HOU, 27, 6-0, 185, UCLA, ,, USA, 2018, 1, 23, 71.0, 6.6, 1.6, 1.8, 3.2, 1.6, 7.9, 15.8, 57.8, 16.0
-Aaron Nesmith , IND, 24, 6-6, 215, Vanderbilt, ,, USA, 2020, 1, 14, 65.0, 12.2, 3.8, 1.5, 3.4, 3.1, 10.2, 16.0, 62.8, 6.9
-Aaron Wiggins , OKC, 25, 6-5, 190, Maryland, ,, USA, 2021, 2, 55, 70.0, 6.3, 2.3, 0.9, 5.3, 5.6, 9.7, 15.5, 68.3, 8.6
-Adam Flagler , OKC, 24, 6-3, 180, Baylor, ,, USA, Undrafted, Undrafted, Undrafted, 1.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 21.4, 0.0, 25.0
+AJ Green , MIL, 24, 6-4, 190, Northern, Iowa, USA, Undrafted, Undrafted, Undrafted, 50.0, 4.4, 1.1, 0.5, 2.6, 1.7, 9.2, 15.7, 62.1, 7.5
+AJ Griffin , ATL, 20, 6-6, 220, Duke, USA, 2022, 1, 16, 18.0, 2.1, 0.8, 0.2, -9.8, 1.4, 10.1, 15.6, 40.3, 4.2
+Aaron Gordon , DEN, 28, 6-8, 235, Arizona, USA, 2014, 1, 4, 68.0, 13.8, 6.5, 3.4, 8.2, 7.9, 13.1, 17.5, 60.1, 14.1
+Aaron Holiday , HOU, 27, 6-0, 185, UCLA, USA, 2018, 1, 23, 71.0, 6.6, 1.6, 1.8, 3.2, 1.6, 7.9, 15.8, 57.8, 16.0
+Aaron Nesmith , IND, 24, 6-6, 215, Vanderbilt, USA, 2020, 1, 14, 65.0, 12.2, 3.8, 1.5, 3.4, 3.1, 10.2, 16.0, 62.8, 6.9
+Aaron Wiggins , OKC, 25, 6-5, 190, Maryland, USA, 2021, 2, 55, 70.0, 6.3, 2.3, 0.9, 5.3, 5.6, 9.7, 15.5, 68.3, 8.6
+Adam Flagler , OKC, 24, 6-3, 180, Baylor, USA, Undrafted, Undrafted, Undrafted, 1.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 21.4, 0.0, 25.0
 Adama Sanogo , CHI, 22, 6-9, 245, Connecticut, Mali, Undrafted, Undrafted, Undrafted, 4.0, 2.5, 1.8, 0.0, 80.5, 21.4, 28.6, 19.4, 94.0, 0.0
 Admiral Schofield , ORL, 27, 6-5, 241, Tennessee, United, Kingdom, 2019, 2, 42, 21.0, 1.1, 0.7, 0.3, -8.0, 2.5, 14.8, 16.3, 46.2, 15.0
 Al Horford , BOS, 37, 6-9, 240, Florida, Dominican, Republic, 2007, 1, 3, 60.0, 8.5, 6.5, 2.6, 11.4, 4.8, 18.1, 11.6, 64.7, 12.5
-Alec Burks , NYK, 32, 6-5, 214, Colorado, ,, USA, 2011, 1, 12, 62.0, 11.0, 2.3, 1.4, -10.7, 1.9, 10.2, 23.6, 54.0, 11.3
+Alec Burks , NYK, 32, 6-5, 214, Colorado, USA, 2011, 1, 12, 62.0, 11.0, 2.3, 1.4, -10.7, 1.9, 10.2, 23.6, 54.0, 11.3
 Aleksej Pokusevski , CHA, 22, 7-0, 210, None, Serbia, 2020, 1, 17, 20.0, 3.9, 2.6, 1.2, -18.1, 5.0, 15.8, 15.7, 48.9, 14.3
-Alex Caruso , CHI, 30, 6-5, 186, Texas, A&M, ,, USA, Undrafted, Undrafted, Undrafted, 66.0, 10.1, 3.8, 3.3, 0.9, 3.1, 10.3, 14.8, 61.7, 16.3
-Alex Fudge , DAL, 20, 6-8, 200, Florida, ,, USA, Undrafted, Undrafted, Undrafted, 4.0, 1.0, 0.5, 0.0, -77.3, 13.3, 0.0, 21.1, 29.1, 0.0
+Alex Caruso , CHI, 30, 6-5, 186, Texas, A&M, USA, Undrafted, Undrafted, Undrafted, 66.0, 10.1, 3.8, 3.3, 0.9, 3.1, 10.3, 14.8, 61.7, 16.3
+Alex Fudge , DAL, 20, 6-8, 200, Florida, USA, Undrafted, Undrafted, Undrafted, 4.0, 1.0, 0.5, 0.0, -77.3, 13.3, 0.0, 21.1, 29.1, 0.0
 Alex Len , SAC, 30, 7-0, 250, Maryland, Ukraine, 2013, 1, 5, 40.0, 2.7, 2.8, 0.9, 14.7, 10.4, 18.0, 11.9, 62.6, 12.8
-Alondes Williams , MIA, 24, 6-4, 210, Wake, Forest, ,, USA, Undrafted, Undrafted, Undrafted, 4.0, 0.8, 0.3, 0.0, -43.4, 0.0, 10.0, 16.7, 33.8, 0.0
+Alondes Williams , MIA, 24, 6-4, 210, Wake, Forest, USA, Undrafted, Undrafted, Undrafted, 4.0, 0.8, 0.3, 0.0, -43.4, 0.0, 10.0, 16.7, 33.8, 0.0
 Alperen Sengun , HOU, 21, 6-11, 243, None, Turkey, 2021, 1, 16, 63.0, 21.1, 9.3, 5.0, 0.8, 8.6, 19.3, 27.0, 58.5, 24.8
-Amari Bailey , CHA, 20, 6-3, 185, UCLA, ,, USA, 2023, 2, 41, 8.0, 0.9, 0.3, 0.3, 3.1, 6.7, 0.0, 18.9, 27.2, 8.3
-Amen Thompson , HOU, 21, 6-7, 200, None, ,, USA, 2023, 1, 4, 55.0, 9.2, 6.3, 2.4, 1.8, 9.2, 18.8, 17.7, 56.8, 15.7
-Amir Coffey , LAC, 26, 6-7, 210, Minnesota, ,, USA, Undrafted, Undrafted, Undrafted, 62.0, 6.1, 1.9, 1.1, -2.8, 2.0, 7.8, 11.2, 64.3, 7.1
-Andre Drummond , CHI, 30, 6-11, 279, Connecticut, ,, USA, 2012, 1, 9, 75.0, 8.3, 8.8, 0.5, 0.7, 18.6, 32.9, 20.2, 57.1, 4.4
-Andre Jackson Jr. , MIL, 22, 6-6, 209, Connecticut, ,, USA, 2023, 2, 36, 50.0, 2.3, 2.0, 1.0, -5.2, 8.1, 11.9, 9.6, 62.3, 11.9
-Andrew Funk , CHI, 24, 6-5, 200, Penn, State, ,, USA, Undrafted, Undrafted, Undrafted, 2.0, 0.0, 0.0, 0.0, 160.0, 0.0, 0.0, 14.3, 0.0, 0.0
+Amari Bailey , CHA, 20, 6-3, 185, UCLA, USA, 2023, 2, 41, 8.0, 0.9, 0.3, 0.3, 3.1, 6.7, 0.0, 18.9, 27.2, 8.3
+Amen Thompson , HOU, 21, 6-7, 200, None, USA, 2023, 1, 4, 55.0, 9.2, 6.3, 2.4, 1.8, 9.2, 18.8, 17.7, 56.8, 15.7
+Amir Coffey , LAC, 26, 6-7, 210, Minnesota, USA, Undrafted, Undrafted, Undrafted, 62.0, 6.1, 1.9, 1.1, -2.8, 2.0, 7.8, 11.2, 64.3, 7.1
+Andre Drummond , CHI, 30, 6-11, 279, Connecticut, USA, 2012, 1, 9, 75.0, 8.3, 8.8, 0.5, 0.7, 18.6, 32.9, 20.2, 57.1, 4.4
+Andre Jackson Jr. , MIL, 22, 6-6, 209, Connecticut, USA, 2023, 2, 36, 50.0, 2.3, 2.0, 1.0, -5.2, 8.1, 11.9, 9.6, 62.3, 11.9
+Andrew Funk , CHI, 24, 6-5, 200, Penn, State, USA, Undrafted, Undrafted, Undrafted, 2.0, 0.0, 0.0, 0.0, 160.0, 0.0, 0.0, 14.3, 0.0, 0.0
 Andrew Nembhard , IND, 24, 6-4, 191, Gonzaga, Canada, 2022, 2, 31, 61.0, 9.3, 2.1, 4.1, 1.5, 2.2, 6.0, 16.6, 57.2, 21.2
 Andrew Wiggins , GSW, 29, 6-7, 197, Kansas, Canada, 2014, 1, 1, 65.0, 12.9, 4.5, 1.7, -1.7, 5.7, 10.4, 20.2, 53.7, 8.8
-Anfernee Simons , POR, 24, 6-3, 193, None, ,, USA, 2018, 1, 24, 46.0, 22.6, 3.6, 5.5, -10.6, 1.3, 9.7, 27.6, 56.8, 26.8
-Anthony Black , ORL, 20, 6-7, 200, Arkansas, ,, USA, 2023, 1, 6, 65.0, 4.7, 2.1, 1.4, -0.8, 2.9, 9.4, 12.3, 55.2, 10.9
-Anthony Davis , LAL, 31, 6-10, 253, Kentucky, ,, USA, 2012, 1, 1, 70.0, 24.7, 12.7, 3.6, 1.5, 9.1, 25.1, 25.9, 61.9, 15.3
-Anthony Edwards , MIN, 22, 6-4, 225, Georgia, ,, USA, 2020, 1, 1, 71.0, 26.1, 5.6, 5.2, 8.3, 1.9, 13.4, 31.5, 57.5, 23.9
-Anthony Gill , WAS, 31, 6-8, 230, Virginia, ,, USA, Undrafted, Undrafted, Undrafted, 44.0, 3.0, 1.5, 0.5, 8.9, 9.2, 11.8, 18.2, 56.1, 10.0
-Armoni Brooks , BKN, 25, 6-3, 195, Houston, ,, USA, 2019, 10.0, 4.2, 1.8, 0.5, 13.7, 6.1, 9.8, 18.8, 44.8, 6.0
-Ashton Hagans , POR, 24, 6-3, 190, Kentucky, ,, USA, Undrafted, Undrafted, Undrafted, 16.0, 4.6, 2.5, 2.9, -2.1, 3.9, 10.6, 15.1, 52.4, 24.2
-Ausar Thompson , DET, 21, 6-6, 205, None, ,, USA, 2023, 1, 5, 63.0, 8.8, 6.4, 1.9, -5.3, 7.7, 17.3, 16.1, 52.2, 10.8
-Austin Reaves , LAL, 25, 6-5, 197, Oklahoma, ,, USA, Undrafted, Undrafted, Undrafted, 75.0, 16.0, 4.4, 5.6, -0.7, 2.2, 11.0, 19.8, 61.6, 24.3
-Ayo Dosunmu , CHI, 24, 6-5, 200, Illinois, ,, USA, 2021, 2, 38, 73.0, 11.9, 2.8, 3.2, -3.2, 2.3, 7.2, 16.6, 60.3, 15.9
-Bam Adebayo , MIA, 26, 6-9, 255, Kentucky, ,, USA, 2017, 1, 14, 63.0, 19.8, 10.7, 4.0, 0.6, 6.6, 24.7, 25.1, 57.5, 19.6
-Ben Sheppard , IND, 22, 6-6, 190, Belmont, ,, USA, 2023, 1, 26, 50.0, 4.2, 1.5, 0.9, 3.2, 1.4, 9.8, 12.3, 54.6, 7.3
+Anfernee Simons , POR, 24, 6-3, 193, None, USA, 2018, 1, 24, 46.0, 22.6, 3.6, 5.5, -10.6, 1.3, 9.7, 27.6, 56.8, 26.8
+Anthony Black , ORL, 20, 6-7, 200, Arkansas, USA, 2023, 1, 6, 65.0, 4.7, 2.1, 1.4, -0.8, 2.9, 9.4, 12.3, 55.2, 10.9
+Anthony Davis , LAL, 31, 6-10, 253, Kentucky, USA, 2012, 1, 1, 70.0, 24.7, 12.7, 3.6, 1.5, 9.1, 25.1, 25.9, 61.9, 15.3
+Anthony Edwards , MIN, 22, 6-4, 225, Georgia, USA, 2020, 1, 1, 71.0, 26.1, 5.6, 5.2, 8.3, 1.9, 13.4, 31.5, 57.5, 23.9
+Anthony Gill , WAS, 31, 6-8, 230, Virginia, USA, Undrafted, Undrafted, Undrafted, 44.0, 3.0, 1.5, 0.5, 8.9, 9.2, 11.8, 18.2, 56.1, 10.0
+Armoni Brooks , BKN, 25, 6-3, 195, Houston, USA, 2019, 10.0, 4.2, 1.8, 0.5, 13.7, 6.1, 9.8, 18.8, 44.8, 6.0
+Ashton Hagans , POR, 24, 6-3, 190, Kentucky, USA, Undrafted, Undrafted, Undrafted, 16.0, 4.6, 2.5, 2.9, -2.1, 3.9, 10.6, 15.1, 52.4, 24.2
+Ausar Thompson , DET, 21, 6-6, 205, None, USA, 2023, 1, 5, 63.0, 8.8, 6.4, 1.9, -5.3, 7.7, 17.3, 16.1, 52.2, 10.8
+Austin Reaves , LAL, 25, 6-5, 197, Oklahoma, USA, Undrafted, Undrafted, Undrafted, 75.0, 16.0, 4.4, 5.6, -0.7, 2.2, 11.0, 19.8, 61.6, 24.3
+Ayo Dosunmu , CHI, 24, 6-5, 200, Illinois, USA, 2021, 2, 38, 73.0, 11.9, 2.8, 3.2, -3.2, 2.3, 7.2, 16.6, 60.3, 15.9
+Bam Adebayo , MIA, 26, 6-9, 255, Kentucky, USA, 2017, 1, 14, 63.0, 19.8, 10.7, 4.0, 0.6, 6.6, 24.7, 25.1, 57.5, 19.6
+Ben Sheppard , IND, 22, 6-6, 190, Belmont, USA, 2023, 1, 26, 50.0, 4.2, 1.5, 0.9, 3.2, 1.4, 9.8, 12.3, 54.6, 7.3
 Ben Simmons , BKN, 27, 6-10, 240, Louisiana, State, Australia, 2016, 1, 1, 15.0, 6.1, 7.9, 5.7, -3.4, 8.0, 24.1, 12.6, 57.1, 30.6
 Bennedict Mathurin , IND, 21, 6-5, 210, Arizona, Canada, 2022, 1, 6, 59.0, 14.5, 4.0, 2.0, -2.9, 3.8, 11.3, 22.6, 56.2, 10.5
 Bilal Coulibaly , WAS, 19, 6-8, 195, None, France, 2023, 1, 7, 63.0, 8.4, 4.1, 1.7, -11.0, 3.1, 11.6, 13.9, 54.3, 8.6
 Bismack Biyombo , OKC, 31, 6-8, 255, None, ,, DRC, 2011, 1, 7, 37.0, 4.3, 5.3, 1.4, -3.9, 7.7, 17.7, 10.5, 55.2, 9.1
-Blake Wesley , SAS, 21, 6-3, 185, Notre, Dame, ,, USA, 2022, 1, 25, 54.0, 4.1, 1.4, 2.7, -7.8, 2.0, 8.2, 13.8, 54.2, 26.4
+Blake Wesley , SAS, 21, 6-3, 185, Notre, Dame, USA, 2022, 1, 25, 54.0, 4.1, 1.4, 2.7, -7.8, 2.0, 8.2, 13.8, 54.2, 26.4
 Boban Marjanovic , HOU, 35, 7-4, 290, None, Serbia, Undrafted, Undrafted, Undrafted, 12.0, 2.3, 1.9, 0.3, -21.3, 11.5, 31.5, 21.2, 50.1, 10.3
-Bobby Portis , MIL, 29, 6-10, 250, Arkansas, ,, USA, 2015, 1, 22, 74.0, 13.4, 7.2, 1.2, 0.3, 6.7, 22.8, 22.1, 57.5, 7.1
+Bobby Portis , MIL, 29, 6-10, 250, Arkansas, USA, 2015, 1, 22, 74.0, 13.4, 7.2, 1.2, 0.3, 6.7, 22.8, 22.1, 57.5, 7.1
 Bogdan Bogdanovic , ATL, 31, 6-5, 225, None, Serbia, 2014, 1, 27, 71.0, 16.9, 3.5, 3.1, 3.1, 2.2, 9.4, 21.9, 56.6, 14.6
 Bojan Bogdanovic , NYK, 34, 6-7, 226, None, Croatia, 2011, 2, 31, 49.0, 15.9, 2.8, 1.9, -11.6, 1.4, 9.2, 24.1, 57.8, 10.6
 Bol Bol , PHX, 24, 7-3, 220, Oregon, Sudan, 2019, 2, 44, 36.0, 5.5, 3.3, 0.4, 1.3, 7.4, 19.3, 15.7, 70.0, 5.8
-Bones Hyland , LAC, 23, 6-2, 169, Virginia, Commonwealth, ,, USA, 2021, 1, 26, 32.0, 5.8, 1.1, 2.2, -5.1, 0.9, 6.8, 23.2, 47.0, 24.6
-Bradley Beal , PHX, 30, 6-4, 207, Florida, ,, USA, 2012, 1, 3, 45.0, 17.7, 4.1, 5.1, 2.6, 2.9, 9.5, 22.8, 58.6, 21.7
-Brandin Podziemski , GSW, 21, 6-4, 205, Santa, Clara, ,, USA, 2023, 1, 19, 66.0, 9.2, 5.8, 3.7, 5.9, 5.8, 14.8, 15.1, 53.0, 17.7
-Brandon Boston Jr. , LAC, 22, 6-6, 188, Kentucky, ,, USA, 2021, 2, 51, 26.0, 4.1, 1.2, 0.3, -18.5, 4.8, 8.6, 22.4, 49.7, 5.0
+Bones Hyland , LAC, 23, 6-2, 169, Virginia, Commonwealth, USA, 2021, 1, 26, 32.0, 5.8, 1.1, 2.2, -5.1, 0.9, 6.8, 23.2, 47.0, 24.6
+Bradley Beal , PHX, 30, 6-4, 207, Florida, USA, 2012, 1, 3, 45.0, 17.7, 4.1, 5.1, 2.6, 2.9, 9.5, 22.8, 58.6, 21.7
+Brandin Podziemski , GSW, 21, 6-4, 205, Santa, Clara, USA, 2023, 1, 19, 66.0, 9.2, 5.8, 3.7, 5.9, 5.8, 14.8, 15.1, 53.0, 17.7
+Brandon Boston Jr. , LAC, 22, 6-6, 188, Kentucky, USA, 2021, 2, 51, 26.0, 4.1, 1.2, 0.3, -18.5, 4.8, 8.6, 22.4, 49.7, 5.0
 Brandon Clarke , MEM, 27, 6-8, 215, Gonzaga, Canada, 2019, 1, 21, 2.0, 9.5, 4.5, 2.0, 6.5, 7.0, 17.1, 16.7, 54.8, 14.3
-Brandon Ingram , NOP, 26, 6-8, 190, Duke, ,, USA, 2016, 1, 2, 63.0, 20.9, 5.1, 5.8, 4.7, 2.2, 13.2, 27.0, 57.7, 26.1
-Brandon Miller , CHA, 21, 6-7, 200, Alabama, ,, USA, 2023, 1, 2, 67.0, 17.0, 4.3, 2.4, -9.9, 2.6, 11.2, 23.3, 54.3, 11.5
-Brandon Williams , DAL, 24, 6-1, 190, Arizona, ,, USA, Undrafted, Undrafted, Undrafted, 12.0, 2.0, 0.6, 1.0, -20.9, 4.2, 6.3, 20.0, 44.7, 32.4
-Braxton Key , DEN, 27, 6-8, 225, Virginia, ,, USA, Undrafted, Undrafted, Undrafted, 19.0, 1.1, 0.8, 0.5, -6.3, 4.9, 21.7, 14.7, 50.9, 23.1
-Brice Sensabaugh , UTA, 20, 6-5, 235, Ohio, State, ,, USA, 2023, 1, 28, 25.0, 6.2, 2.8, 1.6, -13.8, 2.5, 14.8, 19.7, 48.4, 13.8
-Brook Lopez , MIL, 36, 7-1, 282, Stanford, ,, USA, 2008, 1, 10, 71.0, 12.4, 5.3, 1.7, 6.7, 4.6, 11.3, 15.1, 60.7, 7.1
-Bruce Brown , TOR, 27, 6-4, 202, Miami, ,, USA, 2018, 2, 42, 62.0, 10.9, 4.3, 2.9, -4.5, 3.0, 12.6, 16.1, 56.0, 13.1
+Brandon Ingram , NOP, 26, 6-8, 190, Duke, USA, 2016, 1, 2, 63.0, 20.9, 5.1, 5.8, 4.7, 2.2, 13.2, 27.0, 57.7, 26.1
+Brandon Miller , CHA, 21, 6-7, 200, Alabama, USA, 2023, 1, 2, 67.0, 17.0, 4.3, 2.4, -9.9, 2.6, 11.2, 23.3, 54.3, 11.5
+Brandon Williams , DAL, 24, 6-1, 190, Arizona, USA, Undrafted, Undrafted, Undrafted, 12.0, 2.0, 0.6, 1.0, -20.9, 4.2, 6.3, 20.0, 44.7, 32.4
+Braxton Key , DEN, 27, 6-8, 225, Virginia, USA, Undrafted, Undrafted, Undrafted, 19.0, 1.1, 0.8, 0.5, -6.3, 4.9, 21.7, 14.7, 50.9, 23.1
+Brice Sensabaugh , UTA, 20, 6-5, 235, Ohio, State, USA, 2023, 1, 28, 25.0, 6.2, 2.8, 1.6, -13.8, 2.5, 14.8, 19.7, 48.4, 13.8
+Brook Lopez , MIL, 36, 7-1, 282, Stanford, USA, 2008, 1, 10, 71.0, 12.4, 5.3, 1.7, 6.7, 4.6, 11.3, 15.1, 60.7, 7.1
+Bruce Brown , TOR, 27, 6-4, 202, Miami, USA, 2018, 2, 42, 62.0, 10.9, 4.3, 2.9, -4.5, 3.0, 12.6, 16.1, 56.0, 13.1
 Bruno Fernando , ATL, 25, 6-9, 240, Maryland, Angola, 2019, 2, 34, 37.0, 5.8, 4.3, 0.9, -1.4, 10.9, 20.5, 17.3, 61.5, 9.1
-Bryce McGowens , CHA, 21, 6-6, 175, Nebraska, ,, USA, 2022, 2, 40, 53.0, 4.9, 1.8, 0.9, -12.3, 2.0, 9.9, 13.8, 57.1, 8.3
-Buddy Boeheim , DET, 24, 6-5, 205, Syracuse, ,, USA, Undrafted, Undrafted, Undrafted, 5.0, 5.0, 1.6, 0.6, 10.3, 1.9, 12.1, 18.5, 56.3, 10.0
+Bryce McGowens , CHA, 21, 6-6, 175, Nebraska, USA, 2022, 2, 40, 53.0, 4.9, 1.8, 0.9, -12.3, 2.0, 9.9, 13.8, 57.1, 8.3
+Buddy Boeheim , DET, 24, 6-5, 205, Syracuse, USA, Undrafted, Undrafted, Undrafted, 5.0, 5.0, 1.6, 0.6, 10.3, 1.9, 12.1, 18.5, 56.3, 10.0
 Buddy Hield , PHI, 31, 6-4, 220, Oklahoma, Bahamas, 2016, 1, 6, 77.0, 12.3, 3.2, 2.9, 0.2, 2.6, 9.9, 18.4, 58.4, 14.6
-CJ McCollum , NOP, 32, 6-3, 190, Lehigh, ,, USA, 2013, 1, 10, 58.0, 18.9, 4.2, 4.5, 4.3, 1.6, 11.6, 23.8, 58.4, 20.6
-Cade Cunningham , DET, 22, 6-6, 220, Oklahoma, State, ,, USA, 2021, 1, 1, 61.0, 22.4, 4.3, 7.5, -8.1, 1.5, 11.5, 29.7, 54.2, 35.8
+CJ McCollum , NOP, 32, 6-3, 190, Lehigh, USA, 2013, 1, 10, 58.0, 18.9, 4.2, 4.5, 4.3, 1.6, 11.6, 23.8, 58.4, 20.6
+Cade Cunningham , DET, 22, 6-6, 220, Oklahoma, State, USA, 2021, 1, 1, 61.0, 22.4, 4.3, 7.5, -8.1, 1.5, 11.5, 29.7, 54.2, 35.8
 Caleb Houstan , ORL, 21, 6-8, 205, Michigan, Canada, 2022, 2, 32, 56.0, 4.4, 1.5, 0.5, -1.3, 3.5, 6.7, 12.2, 58.9, 5.0
-Caleb Martin , MIA, 28, 6-5, 205, Nevada, ,, USA, Undrafted, Undrafted, Undrafted, 56.0, 10.1, 4.6, 2.1, 1.2, 4.4, 12.7, 16.9, 54.0, 11.4
-Cam Reddish , LAL, 24, 6-7, 217, Duke, ,, USA, 2019, 1, 10, 46.0, 5.5, 2.1, 1.0, -2.0, 2.7, 7.2, 12.3, 50.6, 6.2
+Caleb Martin , MIA, 28, 6-5, 205, Nevada, USA, Undrafted, Undrafted, Undrafted, 56.0, 10.1, 4.6, 2.1, 1.2, 4.4, 12.7, 16.9, 54.0, 11.4
+Cam Reddish , LAL, 24, 6-7, 217, Duke, USA, 2019, 1, 10, 46.0, 5.5, 2.1, 1.0, -2.0, 2.7, 7.2, 12.3, 50.6, 6.2
 Cam Thomas , BKN, 22, 6-3, 210, Louisiana, State, Japan, 2021, 1, 27, 59.0, 22.0, 3.2, 3.0, -4.6, 1.3, 9.2, 29.4, 55.2, 15.5
-Cam Whitmore , HOU, 19, 6-7, 230, Villanova, ,, USA, 2023, 1, 20, 39.0, 12.1, 3.9, 0.5, -1.3, 4.6, 15.7, 25.8, 56.5, 4.3
-Cameron Johnson , BKN, 28, 6-8, 210, North, Carolina, ,, USA, 2019, 1, 11, 56.0, 13.5, 4.4, 2.4, -3.1, 3.2, 12.5, 19.1, 58.4, 13.0
-Cameron Payne , PHI, 29, 6-3, 183, Murray, State, ,, USA, 2015, 1, 14, 71.0, 7.6, 1.4, 2.6, -1.4, 1.3, 7.1, 19.0, 57.4, 22.0
-Caris LeVert , CLE, 29, 6-6, 205, Michigan, ,, USA, 2016, 1, 20, 62.0, 13.6, 4.0, 5.3, 2.8, 2.0, 11.9, 22.4, 51.0, 26.8
-Cason Wallace , OKC, 20, 6-3, 195, Kentucky, ,, USA, 2023, 1, 10, 74.0, 6.9, 2.3, 1.4, 3.7, 3.3, 7.7, 12.5, 62.6, 8.7
+Cam Whitmore , HOU, 19, 6-7, 230, Villanova, USA, 2023, 1, 20, 39.0, 12.1, 3.9, 0.5, -1.3, 4.6, 15.7, 25.8, 56.5, 4.3
+Cameron Johnson , BKN, 28, 6-8, 210, North, Carolina, USA, 2019, 1, 11, 56.0, 13.5, 4.4, 2.4, -3.1, 3.2, 12.5, 19.1, 58.4, 13.0
+Cameron Payne , PHI, 29, 6-3, 183, Murray, State, USA, 2015, 1, 14, 71.0, 7.6, 1.4, 2.6, -1.4, 1.3, 7.1, 19.0, 57.4, 22.0
+Caris LeVert , CLE, 29, 6-6, 205, Michigan, USA, 2016, 1, 20, 62.0, 13.6, 4.0, 5.3, 2.8, 2.0, 11.9, 22.4, 51.0, 26.8
+Cason Wallace , OKC, 20, 6-3, 195, Kentucky, USA, 2023, 1, 10, 74.0, 6.9, 2.3, 1.4, 3.7, 3.3, 7.7, 12.5, 62.6, 8.7
 Cedi Osman , SAS, 28, 6-7, 230, None, Turkey, 2015, 2, 31, 71.0, 6.7, 2.5, 1.7, -13.4, 1.8, 12.2, 14.5, 59.9, 13.2
 Charles Bassey , SAS, 23, 6-10, 230, Western, Kentucky, Nigeria, 2021, 2, 53, 19.0, 3.3, 4.0, 1.1, -11.6, 10.2, 26.5, 11.0, 73.9, 13.6
-Charlie Brown Jr. , NYK, 27, 6-6, 199, St., Joseph's, (PA), ,, USA, Undrafted, Undrafted, Undrafted, 8.0, 0.8, 0.3, 0.0, -1.0, 2.5, 2.7, 14.5, 30.0, 0.0
-Chet Holmgren , OKC, 21, 7-1, 208, Gonzaga, ,, USA, 2022, 1, 2, 74.0, 16.6, 7.9, 2.5, 9.1, 5.5, 19.5, 20.7, 63.5, 11.4
-Chimezie Metu , DET, 27, 6-10, 225, Southern, California, ,, USA, 2018, 2, 49, 43.0, 5.4, 3.2, 0.7, -6.0, 5.2, 17.9, 16.4, 59.5, 7.8
+Charlie Brown Jr. , NYK, 27, 6-6, 199, St., Joseph's, (PA), USA, Undrafted, Undrafted, Undrafted, 8.0, 0.8, 0.3, 0.0, -1.0, 2.5, 2.7, 14.5, 30.0, 0.0
+Chet Holmgren , OKC, 21, 7-1, 208, Gonzaga, USA, 2022, 1, 2, 74.0, 16.6, 7.9, 2.5, 9.1, 5.5, 19.5, 20.7, 63.5, 11.4
+Chimezie Metu , DET, 27, 6-10, 225, Southern, California, USA, 2018, 2, 49, 43.0, 5.4, 3.2, 0.7, -6.0, 5.2, 17.9, 16.4, 59.5, 7.8
 Chris Boucher , TOR, 31, 6-9, 200, Oregon, Saint, Lucia, Undrafted, Undrafted, Undrafted, 50.0, 6.4, 4.1, 0.5, 2.4, 8.4, 20.2, 16.7, 62.5, 4.4
 Chris Duarte , SAC, 26, 6-5, 190, Oregon, Dominican, Republic, 2021, 1, 13, 54.0, 4.2, 1.9, 0.8, -3.2, 3.4, 11.2, 14.4, 52.2, 8.2
-Chris Livingston , MIL, 20, 6-6, 220, Kentucky, ,, USA, 2023, 2, 58, 17.0, 1.1, 0.9, 0.3, -8.4, 3.2, 19.4, 13.5, 50.3, 8.6
-Chris Paul , GSW, 38, 6-0, 175, Wake, Forest, ,, USA, 2005, 1, 4, 50.0, 9.1, 4.0, 6.9, 1.6, 1.3, 12.9, 14.9, 55.1, 34.8
-Christian Braun , DEN, 22, 6-6, 220, Kansas, ,, USA, 2022, 1, 21, 75.0, 7.1, 3.6, 1.4, -1.0, 4.5, 12.8, 15.4, 54.9, 10.0
-Christian Wood , LAL, 28, 6-8, 214, UNLV, ,, USA, Undrafted, Undrafted, Undrafted, 50.0, 6.9, 5.1, 1.0, 0.0, 4.8, 22.6, 17.3, 56.8, 7.9
-Chuma Okeke , ORL, 25, 6-7, 229, Auburn, ,, USA, 2019, 1, 16, 43.0, 2.4, 1.8, 0.4, -8.0, 4.0, 14.4, 13.0, 46.8, 7.4
+Chris Livingston , MIL, 20, 6-6, 220, Kentucky, USA, 2023, 2, 58, 17.0, 1.1, 0.9, 0.3, -8.4, 3.2, 19.4, 13.5, 50.3, 8.6
+Chris Paul , GSW, 38, 6-0, 175, Wake, Forest, USA, 2005, 1, 4, 50.0, 9.1, 4.0, 6.9, 1.6, 1.3, 12.9, 14.9, 55.1, 34.8
+Christian Braun , DEN, 22, 6-6, 220, Kansas, USA, 2022, 1, 21, 75.0, 7.1, 3.6, 1.4, -1.0, 4.5, 12.8, 15.4, 54.9, 10.0
+Christian Wood , LAL, 28, 6-8, 214, UNLV, USA, Undrafted, Undrafted, Undrafted, 50.0, 6.9, 5.1, 1.0, 0.0, 4.8, 22.6, 17.3, 56.8, 7.9
+Chuma Okeke , ORL, 25, 6-7, 229, Auburn, USA, 2019, 1, 16, 43.0, 2.4, 1.8, 0.4, -8.0, 4.0, 14.4, 13.0, 46.8, 7.4
 Clint Capela , ATL, 29, 6-10, 256, None, Switzerland, 2014, 1, 25, 66.0, 11.4, 10.5, 1.2, -0.7, 16.0, 22.8, 16.7, 58.7, 6.5
-Coby White , CHI, 24, 6-5, 195, North, Carolina, ,, USA, 2019, 1, 7, 72.0, 19.3, 4.7, 5.2, -0.7, 1.6, 11.2, 22.4, 57.3, 20.9
-Cody Martin , CHA, 28, 6-6, 205, Nevada, ,, USA, 2019, 2, 36, 28.0, 7.5, 3.9, 3.7, -10.5, 2.4, 12.4, 15.7, 46.0, 19.2
-Cody Zeller , NOP, 31, 6-11, 240, Indiana, ,, USA, 2013, 1, 4, 40.0, 1.9, 2.7, 0.9, 8.3, 13.6, 18.7, 11.8, 48.2, 14.5
-Colby Jones , SAC, 21, 6-6, 207, Xavier, ,, USA, 2023, 2, 34, 23.0, 1.9, 1.3, 0.6, -4.1, 7.8, 11.7, 17.4, 38.3, 14.7
-Cole Anthony , ORL, 23, 6-2, 185, North, Carolina, ,, USA, 2020, 1, 15, 73.0, 11.9, 4.0, 3.0, 2.7, 3.8, 14.1, 23.2, 54.9, 20.1
-Cole Swider , MIA, 24, 6-8, 220, Syracuse, ,, USA, Undrafted, Undrafted, Undrafted, 15.0, 2.8, 0.5, 0.3, -7.2, 1.1, 8.0, 22.7, 56.9, 8.5
-Colin Castleton , LAL, 23, 6-10, 250, Florida, ,, USA, Undrafted, Undrafted, Undrafted, 10.0, 1.8, 1.0, 0.3, -30.0, 9.3, 14.3, 14.6, 70.5, 13.0
-Collin Gillespie , DEN, 24, 6-1, 195, Villanova, ,, USA, Undrafted, Undrafted, Undrafted, 24.0, 3.6, 0.9, 1.1, 2.5, 0.4, 8.5, 16.6, 58.6, 16.4
-Collin Sexton , UTA, 25, 6-3, 190, Alabama, ,, USA, 2018, 1, 8, 75.0, 18.8, 2.6, 4.9, -2.5, 3.3, 6.4, 26.5, 61.4, 28.2
-Corey Kispert , WAS, 25, 6-6, 224, Gonzaga, ,, USA, 2021, 1, 15, 73.0, 12.8, 2.7, 1.7, -10.9, 1.4, 9.1, 19.2, 61.4, 10.4
+Coby White , CHI, 24, 6-5, 195, North, Carolina, USA, 2019, 1, 7, 72.0, 19.3, 4.7, 5.2, -0.7, 1.6, 11.2, 22.4, 57.3, 20.9
+Cody Martin , CHA, 28, 6-6, 205, Nevada, USA, 2019, 2, 36, 28.0, 7.5, 3.9, 3.7, -10.5, 2.4, 12.4, 15.7, 46.0, 19.2
+Cody Zeller , NOP, 31, 6-11, 240, Indiana, USA, 2013, 1, 4, 40.0, 1.9, 2.7, 0.9, 8.3, 13.6, 18.7, 11.8, 48.2, 14.5
+Colby Jones , SAC, 21, 6-6, 207, Xavier, USA, 2023, 2, 34, 23.0, 1.9, 1.3, 0.6, -4.1, 7.8, 11.7, 17.4, 38.3, 14.7
+Cole Anthony , ORL, 23, 6-2, 185, North, Carolina, USA, 2020, 1, 15, 73.0, 11.9, 4.0, 3.0, 2.7, 3.8, 14.1, 23.2, 54.9, 20.1
+Cole Swider , MIA, 24, 6-8, 220, Syracuse, USA, Undrafted, Undrafted, Undrafted, 15.0, 2.8, 0.5, 0.3, -7.2, 1.1, 8.0, 22.7, 56.9, 8.5
+Colin Castleton , LAL, 23, 6-10, 250, Florida, USA, Undrafted, Undrafted, Undrafted, 10.0, 1.8, 1.0, 0.3, -30.0, 9.3, 14.3, 14.6, 70.5, 13.0
+Collin Gillespie , DEN, 24, 6-1, 195, Villanova, USA, Undrafted, Undrafted, Undrafted, 24.0, 3.6, 0.9, 1.1, 2.5, 0.4, 8.5, 16.6, 58.6, 16.4
+Collin Sexton , UTA, 25, 6-3, 190, Alabama, USA, 2018, 1, 8, 75.0, 18.8, 2.6, 4.9, -2.5, 3.3, 6.4, 26.5, 61.4, 28.2
+Corey Kispert , WAS, 25, 6-6, 224, Gonzaga, USA, 2021, 1, 15, 73.0, 12.8, 2.7, 1.7, -10.9, 1.4, 9.1, 19.2, 61.4, 10.4
 Cory Joseph , GSW, 32, 6-2, 200, Texas, Canada, 2011, 1, 29, 26.0, 2.4, 1.2, 1.6, -3.0, 1.9, 8.3, 10.8, 47.0, 17.4
-Craig Porter Jr. , CLE, 24, 6-1, 180, Wichita, State, ,, USA, Undrafted, Undrafted, Undrafted, 48.0, 5.9, 2.2, 2.4, -1.8, 3.5, 13.7, 20.3, 56.5, 26.6
-D'Angelo Russell , LAL, 28, 6-3, 193, Ohio, State, ,, USA, 2015, 1, 2, 69.0, 18.1, 3.1, 6.4, 1.7, 1.3, 7.7, 22.5, 58.9, 26.9
+Craig Porter Jr. , CLE, 24, 6-1, 180, Wichita, State, USA, Undrafted, Undrafted, Undrafted, 48.0, 5.9, 2.2, 2.4, -1.8, 3.5, 13.7, 20.3, 56.5, 26.6
+D'Angelo Russell , LAL, 28, 6-3, 193, Ohio, State, USA, 2015, 1, 2, 69.0, 18.1, 3.1, 6.4, 1.7, 1.3, 7.7, 22.5, 58.9, 26.9
 D'Moi Hodge , LAL, 25, 6-3, 188, Missouri, British, Virgin, Islands, Undrafted, Undrafted, Undrafted, 7.0, 2.0, 0.0, 0.7, -44.2, 0.0, 0.0, 17.2, 44.1, 22.7
-D.J. Carton , TOR, 23, 6-3, 200, Marquette, ,, USA, Undrafted, Undrafted, Undrafted, 4.0, 2.8, 1.0, 0.8, -41.3, 5.1, 4.3, 12.5, 53.9, 15.0
-D.J. Wilson , PHI, 28, 6-10, 231, Michigan, ,, USA, 2017, 1, 17, 2.0, 5.0, 1.0, 1.0, 2.8, 8.3, 7.1, 18.2, 83.3, 22.2
-DaQuan Jeffries , NYK, 26, 6-5, 222, Tulsa, ,, USA, Undrafted, Undrafted, Undrafted, 16.0, 0.9, 0.3, 0.3, -3.3, 0.0, 9.8, 19.8, 39.1, 18.5
-Daishen Nix , MIN, 22, 6-3, 226, None, ,, USA, Undrafted, Undrafted, Undrafted, 12.0, 1.8, 0.1, 0.2, 16.6, 0.0, 2.7, 23.3, 50.6, 6.7
+D.J. Carton , TOR, 23, 6-3, 200, Marquette, USA, Undrafted, Undrafted, Undrafted, 4.0, 2.8, 1.0, 0.8, -41.3, 5.1, 4.3, 12.5, 53.9, 15.0
+D.J. Wilson , PHI, 28, 6-10, 231, Michigan, USA, 2017, 1, 17, 2.0, 5.0, 1.0, 1.0, 2.8, 8.3, 7.1, 18.2, 83.3, 22.2
+DaQuan Jeffries , NYK, 26, 6-5, 222, Tulsa, USA, Undrafted, Undrafted, Undrafted, 16.0, 0.9, 0.3, 0.3, -3.3, 0.0, 9.8, 19.8, 39.1, 18.5
+Daishen Nix , MIN, 22, 6-3, 226, None, USA, Undrafted, Undrafted, Undrafted, 12.0, 1.8, 0.1, 0.2, 16.6, 0.0, 2.7, 23.3, 50.6, 6.7
 Dalano Banton , POR, 24, 6-8, 204, Nebraska, Canada, 2021, 2, 46, 47.0, 8.8, 3.1, 1.9, -11.4, 4.5, 13.3, 24.1, 51.4, 18.1
-Dalen Terry , CHI, 21, 6-7, 195, Arizona, ,, USA, 2022, 1, 18, 52.0, 2.6, 1.8, 1.3, 3.8, 4.3, 12.9, 12.3, 49.7, 15.3
-Damian Jones , CLE, 28, 6-10, 245, Vanderbilt, ,, USA, 2016, 1, 30, 34.0, 2.9, 1.7, 0.4, -14.3, 7.4, 17.8, 14.9, 66.0, 9.3
-Damian Lillard , MIL, 33, 6-2, 195, Weber, State, ,, USA, 2012, 1, 6, 68.0, 24.4, 4.4, 7.1, 7.5, 1.4, 10.2, 27.2, 59.1, 28.5
-Daniel Gafford , DAL, 25, 6-10, 234, Arkansas, ,, USA, 2019, 2, 38, 67.0, 11.0, 7.8, 1.5, -2.4, 10.8, 18.7, 14.4, 72.5, 7.9
+Dalen Terry , CHI, 21, 6-7, 195, Arizona, USA, 2022, 1, 18, 52.0, 2.6, 1.8, 1.3, 3.8, 4.3, 12.9, 12.3, 49.7, 15.3
+Damian Jones , CLE, 28, 6-10, 245, Vanderbilt, USA, 2016, 1, 30, 34.0, 2.9, 1.7, 0.4, -14.3, 7.4, 17.8, 14.9, 66.0, 9.3
+Damian Lillard , MIL, 33, 6-2, 195, Weber, State, USA, 2012, 1, 6, 68.0, 24.4, 4.4, 7.1, 7.5, 1.4, 10.2, 27.2, 59.1, 28.5
+Daniel Gafford , DAL, 25, 6-10, 234, Arkansas, USA, 2019, 2, 38, 67.0, 11.0, 7.8, 1.5, -2.4, 10.8, 18.7, 14.4, 72.5, 7.9
 Daniel Theis , LAC, 31, 6-8, 245, None, Germany, Undrafted, Undrafted, Undrafted, 55.0, 6.0, 3.9, 1.1, 2.2, 8.6, 14.5, 14.8, 58.9, 8.5
 Danilo Gallinari , MIL, 35, 6-10, 236, None, Italy, 2008, 1, 6, 45.0, 5.9, 2.2, 1.2, -8.7, 3.1, 14.6, 16.8, 60.1, 12.6
-Danny Green , PHI, 36, 6-6, 215, North, Carolina, ,, USA, 2009, 2, 46, 2.0, 0.0, 1.0, 0.5, -5.9, 0.0, 11.1, 4.3, 0.0, 5.6
+Danny Green , PHI, 36, 6-6, 215, North, Carolina, USA, 2009, 2, 46, 2.0, 0.0, 1.0, 0.5, -5.9, 0.0, 11.1, 4.3, 0.0, 5.6
 Dante Exum , DAL, 28, 6-5, 214, None, Australia, 2014, 1, 5, 48.0, 8.2, 2.5, 2.8, 9.0, 2.3, 10.2, 15.4, 66.5, 18.3
-Danuel House Jr. , PHI, 30, 6-6, 220, Texas, A&M, ,, USA, Undrafted, Undrafted, Undrafted, 34.0, 4.2, 1.7, 0.8, 2.3, 3.0, 8.1, 11.6, 57.5, 7.5
+Danuel House Jr. , PHI, 30, 6-6, 220, Texas, A&M, USA, Undrafted, Undrafted, Undrafted, 34.0, 4.2, 1.7, 0.8, 2.3, 3.0, 8.1, 11.6, 57.5, 7.5
 Dario Saric , GSW, 29, 6-10, 225, None, Croatia, 2014, 1, 12, 62.0, 8.1, 4.5, 2.3, -1.7, 6.3, 19.0, 18.9, 59.9, 18.7
-Dariq Whitehead , BKN, 19, 6-6, 220, Duke, ,, USA, 2023, 1, 22, 2.0, 1.5, 2.0, 1.5, -42.8, 0.0, 19.0, 9.4, 25.5, 14.3
-Darius Bazley , UTA, 23, 6-9, 216, None, ,, USA, 2019, 1, 23, 3.0, 0.0, 0.3, 0.7, -5.3, 0.0, 14.3, 9.5, 0.0, 22.2
-Darius Garland , CLE, 24, 6-1, 192, Vanderbilt, ,, USA, 2019, 1, 5, 51.0, 18.0, 2.6, 6.5, 2.3, 1.7, 6.2, 25.0, 56.1, 29.8
-David Roddy , PHX, 23, 6-4, 255, Colorado, State, ,, USA, 2022, 1, 23, 62.0, 6.9, 3.4, 1.3, -9.5, 4.2, 13.4, 17.8, 48.5, 10.2
-Davion Mitchell , SAC, 25, 6-0, 202, Baylor, ,, USA, 2021, 1, 9, 64.0, 4.7, 1.2, 1.7, -6.4, 1.5, 7.0, 14.1, 56.3, 16.7
+Dariq Whitehead , BKN, 19, 6-6, 220, Duke, USA, 2023, 1, 22, 2.0, 1.5, 2.0, 1.5, -42.8, 0.0, 19.0, 9.4, 25.5, 14.3
+Darius Bazley , UTA, 23, 6-9, 216, None, USA, 2019, 1, 23, 3.0, 0.0, 0.3, 0.7, -5.3, 0.0, 14.3, 9.5, 0.0, 22.2
+Darius Garland , CLE, 24, 6-1, 192, Vanderbilt, USA, 2019, 1, 5, 51.0, 18.0, 2.6, 6.5, 2.3, 1.7, 6.2, 25.0, 56.1, 29.8
+David Roddy , PHX, 23, 6-4, 255, Colorado, State, USA, 2022, 1, 23, 62.0, 6.9, 3.4, 1.3, -9.5, 4.2, 13.4, 17.8, 48.5, 10.2
+Davion Mitchell , SAC, 25, 6-0, 202, Baylor, USA, 2021, 1, 9, 64.0, 4.7, 1.2, 1.7, -6.4, 1.5, 7.0, 14.1, 56.3, 16.7
 Davis Bertans , CHA, 31, 6-10, 225, None, Latvia, 2011, 2, 42, 36.0, 6.2, 1.3, 0.8, -6.1, 1.3, 8.5, 16.5, 58.0, 8.1
-Day'Ron Sharpe , BKN, 22, 6-9, 265, North, Carolina, ,, USA, 2021, 1, 29, 57.0, 7.0, 6.3, 1.4, 6.3, 16.1, 23.4, 18.6, 60.8, 14.0
-De'Aaron Fox , SAC, 26, 6-3, 185, Kentucky, ,, USA, 2017, 1, 5, 66.0, 26.4, 4.6, 5.7, 4.0, 2.6, 10.2, 30.1, 56.5, 24.4
-De'Andre Hunter , ATL, 26, 6-8, 221, Virginia, ,, USA, 2019, 1, 4, 50.0, 15.6, 3.8, 1.4, -0.3, 1.9, 11.4, 20.1, 60.6, 6.6
-De'Anthony Melton , PHI, 25, 6-3, 200, Southern, California, ,, USA, 2018, 2, 46, 36.0, 11.5, 3.8, 3.1, 10.0, 2.7, 11.0, 17.6, 54.0, 14.2
-DeAndre Jordan , DEN, 35, 6-11, 265, Texas, A&M, ,, USA, 2008, 2, 35, 34.0, 4.2, 4.6, 0.8, -9.1, 12.9, 23.7, 15.0, 61.0, 10.0
-DeJon Jarreau , MEM, 26, 6-5, 185, Houston, ,, USA, Undrafted, Undrafted, Undrafted, 9.0, 4.8, 4.9, 2.9, -4.6, 4.3, 23.8, 17.1, 39.2, 25.7
-DeMar DeRozan , CHI, 34, 6-6, 220, Southern, California, ,, USA, 2009, 1, 9, 73.0, 23.5, 4.3, 5.2, -1.1, 1.5, 10.1, 24.8, 58.2, 21.7
-Dean Wade , CLE, 27, 6-9, 228, Kansas, State, ,, USA, Undrafted, Undrafted, Undrafted, 54.0, 5.4, 4.0, 0.8, 8.3, 3.3, 15.4, 10.1, 59.8, 5.2
+Day'Ron Sharpe , BKN, 22, 6-9, 265, North, Carolina, USA, 2021, 1, 29, 57.0, 7.0, 6.3, 1.4, 6.3, 16.1, 23.4, 18.6, 60.8, 14.0
+De'Aaron Fox , SAC, 26, 6-3, 185, Kentucky, USA, 2017, 1, 5, 66.0, 26.4, 4.6, 5.7, 4.0, 2.6, 10.2, 30.1, 56.5, 24.4
+De'Andre Hunter , ATL, 26, 6-8, 221, Virginia, USA, 2019, 1, 4, 50.0, 15.6, 3.8, 1.4, -0.3, 1.9, 11.4, 20.1, 60.6, 6.6
+De'Anthony Melton , PHI, 25, 6-3, 200, Southern, California, USA, 2018, 2, 46, 36.0, 11.5, 3.8, 3.1, 10.0, 2.7, 11.0, 17.6, 54.0, 14.2
+DeAndre Jordan , DEN, 35, 6-11, 265, Texas, A&M, USA, 2008, 2, 35, 34.0, 4.2, 4.6, 0.8, -9.1, 12.9, 23.7, 15.0, 61.0, 10.0
+DeJon Jarreau , MEM, 26, 6-5, 185, Houston, USA, Undrafted, Undrafted, Undrafted, 9.0, 4.8, 4.9, 2.9, -4.6, 4.3, 23.8, 17.1, 39.2, 25.7
+DeMar DeRozan , CHI, 34, 6-6, 220, Southern, California, USA, 2009, 1, 9, 73.0, 23.5, 4.3, 5.2, -1.1, 1.5, 10.1, 24.8, 58.2, 21.7
+Dean Wade , CLE, 27, 6-9, 228, Kansas, State, USA, Undrafted, Undrafted, Undrafted, 54.0, 5.4, 4.0, 0.8, 8.3, 3.3, 15.4, 10.1, 59.8, 5.2
 Deandre Ayton , POR, 25, 7-0, 247, Arizona, Bahamas, 2018, 1, 1, 48.0, 15.8, 11.0, 1.6, -8.3, 9.8, 25.1, 20.0, 59.7, 8.2
-Dejounte Murray , ATL, 27, 6-5, 180, Washington, ,, USA, 2016, 1, 29, 71.0, 22.7, 5.3, 6.3, -2.3, 1.9, 13.1, 25.7, 56.0, 26.8
-Delon Wright , MIA, 31, 6-5, 185, Utah, ,, USA, 2015, 1, 20, 44.0, 4.2, 1.8, 2.5, -1.5, 2.4, 9.2, 12.9, 48.2, 21.6
+Dejounte Murray , ATL, 27, 6-5, 180, Washington, USA, 2016, 1, 29, 71.0, 22.7, 5.3, 6.3, -2.3, 1.9, 13.1, 25.7, 56.0, 26.8
+Delon Wright , MIA, 31, 6-5, 185, Utah, USA, 2015, 1, 20, 44.0, 4.2, 1.8, 2.5, -1.5, 2.4, 9.2, 12.9, 48.2, 21.6
 Deni Avdija , WAS, 23, 6-9, 210, None, Israel, 2020, 1, 9, 68.0, 14.3, 7.2, 3.8, -7.5, 3.8, 19.4, 19.4, 59.6, 17.7
 Dennis Schroder , BKN, 30, 6-1, 175, None, Germany, 2013, 1, 17, 75.0, 14.1, 2.9, 6.0, -3.3, 1.4, 7.9, 20.2, 55.3, 27.6
-Dennis Smith Jr. , BKN, 26, 6-3, 205, North, Carolina, State, ,, USA, 2017, 1, 9, 56.0, 6.6, 2.9, 3.6, -0.1, 4.6, 10.8, 17.4, 50.8, 27.6
-Dereck Lively II , DAL, 20, 7-1, 230, Duke, ,, USA, 2023, 1, 12, 55.0, 8.8, 6.9, 1.1, 5.0, 10.6, 17.9, 12.4, 72.8, 6.0
-Dereon Seabron , NOP, 23, 6-5, 180, North, Carolina, State, ,, USA, Undrafted, Undrafted, Undrafted, 6.0, 2.3, 1.2, 0.8, 26.3, 2.1, 8.2, 12.2, 44.8, 11.6
-Derrick Jones Jr. , DAL, 27, 6-6, 210, UNLV, ,, USA, Undrafted, Undrafted, Undrafted, 69.0, 8.7, 3.3, 1.0, 1.0, 4.4, 9.3, 14.5, 60.0, 5.4
-Derrick Rose , MEM, 35, 6-3, 200, Memphis, ,, USA, 2008, 1, 1, 24.0, 8.0, 1.9, 3.3, -3.8, 1.7, 8.9, 22.2, 54.0, 31.0
-Derrick White , BOS, 29, 6-4, 190, Colorado, ,, USA, 2017, 1, 29, 68.0, 15.5, 4.3, 5.2, 13.6, 2.2, 10.1, 18.5, 61.6, 20.9
-Desmond Bane , MEM, 25, 6-5, 215, ,, TCU, ,, USA, 2020, 1, 30, 42.0, 23.7, 4.4, 5.5, -7.2, 2.3, 10.4, 27.3, 58.9, 27.2
-Devin Booker , PHX, 27, 6-6, 206, Kentucky, ,, USA, 2015, 1, 13, 60.0, 27.0, 4.8, 6.9, 5.5, 2.4, 10.4, 29.1, 60.6, 29.6
-Devin Vassell , SAS, 23, 6-5, 200, Florida, State, ,, USA, 2020, 1, 11, 68.0, 19.5, 3.8, 4.1, -6.0, 1.2, 10.2, 22.9, 57.8, 19.2
-Devonte' Graham , SAS, 29, 6-1, 195, Kansas, ,, USA, 2018, 2, 34, 16.0, 3.4, 1.3, 1.4, 12.6, 1.3, 13.7, 15.7, 56.2, 21.1
-Dexter Dennis , DAL, 25, 6-5, 210, Texas, A&M, ,, USA, Undrafted, Undrafted, Undrafted, 4.0, 5.5, 2.3, 1.0, -11.0, 2.5, 21.1, 27.8, 54.1, 36.4
+Dennis Smith Jr. , BKN, 26, 6-3, 205, North, Carolina, State, USA, 2017, 1, 9, 56.0, 6.6, 2.9, 3.6, -0.1, 4.6, 10.8, 17.4, 50.8, 27.6
+Dereck Lively II , DAL, 20, 7-1, 230, Duke, USA, 2023, 1, 12, 55.0, 8.8, 6.9, 1.1, 5.0, 10.6, 17.9, 12.4, 72.8, 6.0
+Dereon Seabron , NOP, 23, 6-5, 180, North, Carolina, State, USA, Undrafted, Undrafted, Undrafted, 6.0, 2.3, 1.2, 0.8, 26.3, 2.1, 8.2, 12.2, 44.8, 11.6
+Derrick Jones Jr. , DAL, 27, 6-6, 210, UNLV, USA, Undrafted, Undrafted, Undrafted, 69.0, 8.7, 3.3, 1.0, 1.0, 4.4, 9.3, 14.5, 60.0, 5.4
+Derrick Rose , MEM, 35, 6-3, 200, Memphis, USA, 2008, 1, 1, 24.0, 8.0, 1.9, 3.3, -3.8, 1.7, 8.9, 22.2, 54.0, 31.0
+Derrick White , BOS, 29, 6-4, 190, Colorado, USA, 2017, 1, 29, 68.0, 15.5, 4.3, 5.2, 13.6, 2.2, 10.1, 18.5, 61.6, 20.9
+Desmond Bane , MEM, 25, 6-5, 215, ,, TCU, USA, 2020, 1, 30, 42.0, 23.7, 4.4, 5.5, -7.2, 2.3, 10.4, 27.3, 58.9, 27.2
+Devin Booker , PHX, 27, 6-6, 206, Kentucky, USA, 2015, 1, 13, 60.0, 27.0, 4.8, 6.9, 5.5, 2.4, 10.4, 29.1, 60.6, 29.6
+Devin Vassell , SAS, 23, 6-5, 200, Florida, State, USA, 2020, 1, 11, 68.0, 19.5, 3.8, 4.1, -6.0, 1.2, 10.2, 22.9, 57.8, 19.2
+Devonte' Graham , SAS, 29, 6-1, 195, Kansas, USA, 2018, 2, 34, 16.0, 3.4, 1.3, 1.4, 12.6, 1.3, 13.7, 15.7, 56.2, 21.1
+Dexter Dennis , DAL, 25, 6-5, 210, Texas, A&M, USA, Undrafted, Undrafted, Undrafted, 4.0, 5.5, 2.3, 1.0, -11.0, 2.5, 21.1, 27.8, 54.1, 36.4
 Dillon Brooks , HOU, 28, 6-6, 225, Oregon, Canada, 2017, 2, 45, 65.0, 12.7, 3.4, 1.7, 1.0, 2.3, 8.4, 17.6, 54.9, 7.5
 Dmytro Skapintsev , NYK, 25, 7-1, 215, Ukraine, Undrafted, Undrafted, Undrafted, 2.0, 0.0, 0.0, 0.0, 15.0, 0.0, 0.0, 25.0, 0.0, 0.0
 Domantas Sabonis , SAC, 27, 6-10, 240, Gonzaga, Lithuania, 2016, 1, 11, 74.0, 19.6, 13.6, 8.3, 0.7, 9.5, 29.7, 21.8, 64.5, 33.4
-Dominick Barlow , SAS, 20, 6-9, 215, None, ,, USA, Undrafted, Undrafted, Undrafted, 33.0, 4.4, 3.4, 1.1, -4.5, 9.8, 16.7, 13.9, 54.8, 11.4
-Donovan Mitchell , CLE, 27, 6-3, 215, Louisville, ,, USA, 2017, 1, 13, 51.0, 26.8, 5.2, 6.1, 7.4, 2.4, 11.7, 30.3, 59.6, 27.3
-Donte DiVincenzo , NYK, 27, 6-4, 203, Villanova, ,, USA, 2018, 1, 17, 73.0, 15.0, 3.5, 2.6, 3.6, 2.7, 10.1, 21.0, 59.1, 13.6
-Dorian Finney-Smith , BKN, 30, 6-7, 220, Florida, ,, USA, Undrafted, Undrafted, Undrafted, 65.0, 8.7, 4.7, 1.6, -1.8, 5.4, 10.7, 13.2, 54.7, 7.7
-Doug McDermott , IND, 32, 6-6, 225, Creighton, ,, USA, 2014, 1, 11, 58.0, 5.5, 1.0, 1.2, -11.1, 1.0, 5.6, 14.5, 60.0, 10.3
-Draymond Green , GSW, 34, 6-6, 230, Michigan, State, ,, USA, 2012, 2, 35, 49.0, 8.9, 7.2, 6.0, 4.8, 5.0, 20.3, 15.3, 58.6, 27.9
-Drew Eubanks , PHX, 27, 6-10, 245, Oregon, State, ,, USA, Undrafted, Undrafted, Undrafted, 68.0, 5.3, 4.3, 0.9, -3.6, 9.0, 17.2, 13.1, 66.5, 7.9
-Drew Peterson , BOS, 24, 6-9, 205, Southern, California, ,, USA, Undrafted, Undrafted, Undrafted, 1.0, 3.0, 0.0, 1.0, 60.0, 0.0, 0.0, 20.0, 150.0, 50.0
-Dru Smith , MIA, 26, 6-2, 203, Missouri, ,, USA, Undrafted, Undrafted, Undrafted, 9.0, 4.3, 1.6, 1.6, -15.0, 4.1, 5.8, 12.8, 57.6, 18.7
-Duncan Robinson , MIA, 29, 6-7, 215, Michigan, ,, USA, Undrafted, Undrafted, Undrafted, 64.0, 13.4, 2.6, 2.9, 1.2, 0.8, 8.3, 18.6, 61.9, 15.4
+Dominick Barlow , SAS, 20, 6-9, 215, None, USA, Undrafted, Undrafted, Undrafted, 33.0, 4.4, 3.4, 1.1, -4.5, 9.8, 16.7, 13.9, 54.8, 11.4
+Donovan Mitchell , CLE, 27, 6-3, 215, Louisville, USA, 2017, 1, 13, 51.0, 26.8, 5.2, 6.1, 7.4, 2.4, 11.7, 30.3, 59.6, 27.3
+Donte DiVincenzo , NYK, 27, 6-4, 203, Villanova, USA, 2018, 1, 17, 73.0, 15.0, 3.5, 2.6, 3.6, 2.7, 10.1, 21.0, 59.1, 13.6
+Dorian Finney-Smith , BKN, 30, 6-7, 220, Florida, USA, Undrafted, Undrafted, Undrafted, 65.0, 8.7, 4.7, 1.6, -1.8, 5.4, 10.7, 13.2, 54.7, 7.7
+Doug McDermott , IND, 32, 6-6, 225, Creighton, USA, 2014, 1, 11, 58.0, 5.5, 1.0, 1.2, -11.1, 1.0, 5.6, 14.5, 60.0, 10.3
+Draymond Green , GSW, 34, 6-6, 230, Michigan, State, USA, 2012, 2, 35, 49.0, 8.9, 7.2, 6.0, 4.8, 5.0, 20.3, 15.3, 58.6, 27.9
+Drew Eubanks , PHX, 27, 6-10, 245, Oregon, State, USA, Undrafted, Undrafted, Undrafted, 68.0, 5.3, 4.3, 0.9, -3.6, 9.0, 17.2, 13.1, 66.5, 7.9
+Drew Peterson , BOS, 24, 6-9, 205, Southern, California, USA, Undrafted, Undrafted, Undrafted, 1.0, 3.0, 0.0, 1.0, 60.0, 0.0, 0.0, 20.0, 150.0, 50.0
+Dru Smith , MIA, 26, 6-2, 203, Missouri, USA, Undrafted, Undrafted, Undrafted, 9.0, 4.3, 1.6, 1.6, -15.0, 4.1, 5.8, 12.8, 57.6, 18.7
+Duncan Robinson , MIA, 29, 6-7, 215, Michigan, USA, Undrafted, Undrafted, Undrafted, 64.0, 13.4, 2.6, 2.9, 1.2, 0.8, 8.3, 18.6, 61.9, 15.4
 Duop Reath , POR, 27, 6-9, 245, Louisiana, State, South, Sudan, Undrafted, Undrafted, Undrafted, 60.0, 9.3, 3.6, 1.1, -7.3, 7.0, 13.2, 20.2, 58.8, 9.3
 Dwight Powell , DAL, 32, 6-10, 240, Stanford, Canada, 2014, 2, 45, 58.0, 3.4, 3.2, 1.3, 3.8, 10.6, 13.5, 8.9, 72.8, 12.6
-Dylan Windler , ATL, 27, 6-7, 196, Belmont, ,, USA, 2019, 1, 26, 16.0, 1.9, 0.8, 0.6, 5.4, 1.3, 12.5, 12.8, 67.4, 15.3
+Dylan Windler , ATL, 27, 6-7, 196, Belmont, USA, 2019, 1, 26, 16.0, 1.9, 0.8, 0.6, 5.4, 1.3, 12.5, 12.8, 67.4, 15.3
 Dyson Daniels , NOP, 21, 6-7, 199, None, Australia, 2022, 1, 8, 53.0, 5.5, 3.7, 2.6, 4.7, 4.7, 11.9, 12.3, 51.6, 15.4
-E.J. Liddell , NOP, 23, 6-6, 240, Ohio, State, ,, USA, 2022, 2, 41, 8.0, 0.5, 0.6, 0.1, -11.7, 0.0, 21.7, 14.8, 29.1, 6.7
-Emoni Bates , CLE, 20, 6-8, 170, Eastern, Michigan, ,, USA, 2023, 2, 49, 13.0, 2.6, 0.8, 0.5, -27.4, 1.0, 10.8, 18.1, 43.9, 11.1
-Eric Gordon , PHX, 35, 6-3, 215, Indiana, ,, USA, 2008, 1, 7, 61.0, 11.6, 2.0, 2.1, 3.0, 1.0, 5.4, 16.4, 58.9, 10.2
+E.J. Liddell , NOP, 23, 6-6, 240, Ohio, State, USA, 2022, 2, 41, 8.0, 0.5, 0.6, 0.1, -11.7, 0.0, 21.7, 14.8, 29.1, 6.7
+Emoni Bates , CLE, 20, 6-8, 170, Eastern, Michigan, USA, 2023, 2, 49, 13.0, 2.6, 0.8, 0.5, -27.4, 1.0, 10.8, 18.1, 43.9, 11.1
+Eric Gordon , PHX, 35, 6-3, 215, Indiana, USA, 2008, 1, 7, 61.0, 11.6, 2.0, 2.1, 3.0, 1.0, 5.4, 16.4, 58.9, 10.2
 Eugene Omoruyi , WAS, 27, 6-6, 235, Oregon, Nigeria, Undrafted, Undrafted, Undrafted, 36.0, 4.2, 2.0, 0.8, -16.0, 9.0, 15.2, 21.4, 55.0, 16.0
 Evan Fournier , DET, 31, 6-6, 205, None, France, 2012, 1, 20, 25.0, 6.8, 1.8, 1.4, -11.0, 0.9, 9.3, 19.0, 47.0, 13.2
-Evan Mobley , CLE, 22, 6-11, 215, Southern, California, ,, USA, 2021, 1, 3, 43.0, 15.8, 9.8, 3.1, 0.6, 7.5, 22.7, 20.0, 62.9, 15.6
+Evan Mobley , CLE, 22, 6-11, 215, Southern, California, USA, 2021, 1, 3, 43.0, 15.8, 9.8, 3.1, 0.6, 7.5, 22.7, 20.0, 62.9, 15.6
 Filip Petrusev , SAC, 23, 6-11, 225, Gonzaga, Serbia, 2021, 2, 50, 3.0, 1.0, 0.3, 0.0, 30.0, 0.0, 8.3, 15.0, 52.1, 0.0
 Frank Ntilikina , CHA, 25, 6-4, 200, None, France, 2017, 1, 8, 5.0, 1.0, 1.2, 0.8, 0.2, 2.1, 11.1, 11.1, 25.3, 10.8
 Franz Wagner , ORL, 22, 6-10, 220, Michigan, Germany, 2021, 1, 8, 66.0, 19.5, 5.3, 3.8, 4.0, 3.0, 13.7, 25.0, 57.0, 18.7
-Fred VanVleet , HOU, 30, 6-0, 197, Wichita, State, ,, USA, Undrafted, Undrafted, Undrafted, 67.0, 16.7, 3.7, 8.1, 3.4, 1.0, 8.7, 18.9, 56.6, 31.2
+Fred VanVleet , HOU, 30, 6-0, 197, Wichita, State, USA, Undrafted, Undrafted, Undrafted, 67.0, 16.7, 3.7, 8.1, 3.4, 1.0, 8.7, 18.9, 56.6, 31.2
 Furkan Korkmaz , PHI, 26, 6-7, 202, None, Turkey, 2016, 1, 26, 35.0, 2.5, 0.9, 0.7, 6.4, 1.3, 8.7, 12.6, 51.9, 10.8
-GG Jackson , MEM, 19, 6-9, 210, South, Carolina, ,, USA, 2023, 2, 45, 40.0, 13.3, 3.8, 1.0, -8.2, 4.2, 10.9, 23.0, 56.4, 7.6
-Gabe Vincent , LAL, 27, 6-2, 200, California-Santa, Barbara, ,, USA, Undrafted, Undrafted, Undrafted, 6.0, 4.8, 1.0, 2.7, -1.7, 1.4, 2.7, 11.9, 39.3, 16.7
-Garrett Temple , TOR, 37, 6-5, 195, Louisiana, State, ,, USA, Undrafted, Undrafted, Undrafted, 21.0, 2.5, 1.4, 0.8, -6.0, 5.3, 14.0, 13.8, 61.1, 15.4
-Garrison Mathews , ATL, 27, 6-6, 215, Lipscomb, ,, USA, Undrafted, Undrafted, Undrafted, 58.0, 4.4, 1.4, 0.6, -3.0, 1.7, 8.1, 10.4, 67.4, 5.0
-Gary Harris , ORL, 29, 6-4, 210, Michigan, State, ,, USA, 2014, 1, 19, 47.0, 7.1, 1.6, 1.5, 3.0, 2.1, 5.3, 12.1, 60.1, 9.1
-Gary Payton II , GSW, 31, 6-2, 195, Oregon, State, ,, USA, Undrafted, Undrafted, Undrafted, 39.0, 5.1, 2.6, 1.1, 3.9, 6.8, 9.9, 12.5, 59.7, 9.9
-Gary Trent Jr. , TOR, 25, 6-5, 204, Duke, ,, USA, 2018, 2, 37, 66.0, 13.4, 2.5, 1.6, -5.0, 1.2, 8.0, 19.1, 55.0, 8.0
-Georges Niang , CLE, 30, 6-7, 230, Iowa, State, ,, USA, 2016, 2, 50, 75.0, 9.6, 3.5, 1.2, 1.0, 1.3, 13.8, 17.3, 58.8, 7.6
+GG Jackson , MEM, 19, 6-9, 210, South, Carolina, USA, 2023, 2, 45, 40.0, 13.3, 3.8, 1.0, -8.2, 4.2, 10.9, 23.0, 56.4, 7.6
+Gabe Vincent , LAL, 27, 6-2, 200, California-Santa, Barbara, USA, Undrafted, Undrafted, Undrafted, 6.0, 4.8, 1.0, 2.7, -1.7, 1.4, 2.7, 11.9, 39.3, 16.7
+Garrett Temple , TOR, 37, 6-5, 195, Louisiana, State, USA, Undrafted, Undrafted, Undrafted, 21.0, 2.5, 1.4, 0.8, -6.0, 5.3, 14.0, 13.8, 61.1, 15.4
+Garrison Mathews , ATL, 27, 6-6, 215, Lipscomb, USA, Undrafted, Undrafted, Undrafted, 58.0, 4.4, 1.4, 0.6, -3.0, 1.7, 8.1, 10.4, 67.4, 5.0
+Gary Harris , ORL, 29, 6-4, 210, Michigan, State, USA, 2014, 1, 19, 47.0, 7.1, 1.6, 1.5, 3.0, 2.1, 5.3, 12.1, 60.1, 9.1
+Gary Payton II , GSW, 31, 6-2, 195, Oregon, State, USA, Undrafted, Undrafted, Undrafted, 39.0, 5.1, 2.6, 1.1, 3.9, 6.8, 9.9, 12.5, 59.7, 9.9
+Gary Trent Jr. , TOR, 25, 6-5, 204, Duke, USA, 2018, 2, 37, 66.0, 13.4, 2.5, 1.6, -5.0, 1.2, 8.0, 19.1, 55.0, 8.0
+Georges Niang , CLE, 30, 6-7, 230, Iowa, State, USA, 2016, 2, 50, 75.0, 9.6, 3.5, 1.2, 1.0, 1.3, 13.8, 17.3, 58.8, 7.6
 Giannis Antetokounmpo , MIL, 29, 6-11, 243, None, Greece, 2013, 1, 15, 69.0, 30.8, 11.5, 6.4, 6.6, 7.7, 23.6, 32.1, 65.2, 31.0
 Goga Bitadze , ORL, 24, 6-10, 250, None, Georgia, 2019, 1, 18, 57.0, 5.3, 4.9, 1.4, 2.6, 11.2, 18.4, 12.7, 63.6, 11.8
-Gordon Hayward , OKC, 34, 6-7, 225, Butler, ,, USA, 2010, 1, 9, 45.0, 10.0, 3.7, 3.3, -7.8, 3.1, 11.8, 17.9, 53.8, 17.9
-Gradey Dick , TOR, 20, 6-6, 200, Kansas, ,, USA, 2023, 1, 13, 53.0, 7.8, 2.0, 1.3, -13.6, 2.1, 7.9, 16.3, 54.5, 9.1
-Grant Williams , CHA, 25, 6-6, 236, Tennessee, ,, USA, 2019, 1, 22, 70.0, 9.9, 4.1, 2.0, -5.4, 4.0, 10.9, 15.4, 57.9, 10.1
-Grayson Allen , PHX, 28, 6-4, 198, Duke, ,, USA, 2018, 1, 21, 68.0, 13.5, 3.8, 3.1, 4.2, 2.0, 9.1, 14.0, 68.8, 12.0
-Greg Brown III , DAL, 22, 6-7, 206, Texas, ,, USA, 2021, 2, 43, 6.0, 2.5, 1.5, 0.7, -9.6, 6.4, 12.2, 17.8, 50.1, 13.8
+Gordon Hayward , OKC, 34, 6-7, 225, Butler, USA, 2010, 1, 9, 45.0, 10.0, 3.7, 3.3, -7.8, 3.1, 11.8, 17.9, 53.8, 17.9
+Gradey Dick , TOR, 20, 6-6, 200, Kansas, USA, 2023, 1, 13, 53.0, 7.8, 2.0, 1.3, -13.6, 2.1, 7.9, 16.3, 54.5, 9.1
+Grant Williams , CHA, 25, 6-6, 236, Tennessee, USA, 2019, 1, 22, 70.0, 9.9, 4.1, 2.0, -5.4, 4.0, 10.9, 15.4, 57.9, 10.1
+Grayson Allen , PHX, 28, 6-4, 198, Duke, USA, 2018, 1, 21, 68.0, 13.5, 3.8, 3.1, 4.2, 2.0, 9.1, 14.0, 68.8, 12.0
+Greg Brown III , DAL, 22, 6-7, 206, Texas, USA, 2021, 2, 43, 6.0, 2.5, 1.5, 0.7, -9.6, 6.4, 12.2, 17.8, 50.1, 13.8
 Gui Santos , GSW, 21, 6-6, 185, None, Brazil, 2022, 2, 55, 20.0, 3.4, 2.2, 0.6, 2.9, 8.5, 16.7, 14.4, 66.2, 9.2
-Hamidou Diallo , WAS, 25, 6-5, 202, Kentucky, ,, USA, 2018, 2, 45, 2.0, 1.0, 1.0, 0.5, 31.8, 18.2, 0.0, 18.8, 50.0, 33.3
-Harrison Barnes , SAC, 31, 6-8, 225, North, Carolina, ,, USA, 2012, 1, 7, 74.0, 12.4, 3.0, 1.2, -2.3, 2.6, 7.7, 15.3, 62.0, 5.3
-Harry Giles III , LAL, 25, 6-10, 240, Duke, ,, USA, 2017, 1, 20, 22.0, 2.5, 1.3, 0.3, -13.7, 10.6, 16.3, 23.7, 50.3, 8.8
-Haywood Highsmith , MIA, 27, 6-5, 220, Wheeling, Jesuit, ,, USA, 2018, 58.0, 6.0, 2.8, 1.0, 0.7, 4.2, 10.2, 12.3, 58.3, 7.2
+Hamidou Diallo , WAS, 25, 6-5, 202, Kentucky, USA, 2018, 2, 45, 2.0, 1.0, 1.0, 0.5, 31.8, 18.2, 0.0, 18.8, 50.0, 33.3
+Harrison Barnes , SAC, 31, 6-8, 225, North, Carolina, USA, 2012, 1, 7, 74.0, 12.4, 3.0, 1.2, -2.3, 2.6, 7.7, 15.3, 62.0, 5.3
+Harry Giles III , LAL, 25, 6-10, 240, Duke, USA, 2017, 1, 20, 22.0, 2.5, 1.3, 0.3, -13.7, 10.6, 16.3, 23.7, 50.3, 8.8
+Haywood Highsmith , MIA, 27, 6-5, 220, Wheeling, Jesuit, USA, 2018, 58.0, 6.0, 2.8, 1.0, 0.7, 4.2, 10.2, 12.3, 58.3, 7.2
 Henri Drell , CHI, 23, 6-9, 220, None, Estonia, Undrafted, Undrafted, Undrafted, 1.0, 2.0, 1.0, 2.0, 50.0, 50.0, 0.0, 28.6, 50.0, 66.7
-Herbert Jones , NOP, 25, 6-7, 206, Alabama, ,, USA, 2021, 2, 35, 68.0, 11.2, 3.6, 2.6, 5.8, 3.5, 8.3, 14.3, 64.2, 11.2
-Hunter Tyson , DEN, 23, 6-8, 215, Clemson, ,, USA, 2023, 2, 37, 14.0, 1.3, 0.6, 0.1, 3.2, 2.6, 19.0, 20.0, 52.9, 6.7
+Herbert Jones , NOP, 25, 6-7, 206, Alabama, USA, 2021, 2, 35, 68.0, 11.2, 3.6, 2.6, 5.8, 3.5, 8.3, 14.3, 64.2, 11.2
+Hunter Tyson , DEN, 23, 6-8, 215, Clemson, USA, 2023, 2, 37, 14.0, 1.3, 0.6, 0.1, 3.2, 2.6, 19.0, 20.0, 52.9, 6.7
 Ibou Badji , POR, 21, 7-0, 240, None, Senegal, Undrafted, Undrafted, Undrafted, 21.0, 1.5, 2.4, 0.6, -18.0, 8.5, 14.7, 7.8, 63.3, 9.3
-Immanuel Quickley , TOR, 24, 6-2, 190, Kentucky, ,, USA, 2020, 1, 25, 62.0, 16.4, 3.6, 4.6, -0.9, 0.8, 11.6, 22.9, 56.9, 23.3
-Isaac Okoro , CLE, 23, 6-5, 225, Auburn, ,, USA, 2020, 1, 5, 65.0, 9.4, 3.0, 1.9, 1.9, 3.7, 7.2, 13.8, 59.4, 9.7
+Immanuel Quickley , TOR, 24, 6-2, 190, Kentucky, USA, 2020, 1, 25, 62.0, 16.4, 3.6, 4.6, -0.9, 0.8, 11.6, 22.9, 56.9, 23.3
+Isaac Okoro , CLE, 23, 6-5, 225, Auburn, USA, 2020, 1, 5, 65.0, 9.4, 3.0, 1.9, 1.9, 3.7, 7.2, 13.8, 59.4, 9.7
 Isaiah Hartenstein , NYK, 25, 7-0, 250, None, Germany, 2017, 2, 43, 68.0, 7.5, 8.4, 2.3, 9.6, 12.9, 20.5, 11.3, 66.6, 11.9
-Isaiah Jackson , IND, 22, 6-9, 205, Kentucky, ,, USA, 2021, 1, 22, 55.0, 6.6, 4.1, 0.9, 1.1, 11.8, 19.6, 17.0, 68.9, 8.9
-Isaiah Joe , OKC, 24, 6-3, 165, Arkansas, ,, USA, 2020, 2, 49, 70.0, 8.1, 2.2, 1.2, 9.2, 2.0, 9.8, 15.7, 62.6, 8.4
-Isaiah Livers , WAS, 25, 6-6, 232, Michigan, ,, USA, 2021, 2, 42, 23.0, 5.0, 2.1, 1.1, -19.3, 3.0, 7.3, 12.2, 46.0, 7.1
-Isaiah Mobley , CLE, 24, 6-8, 238, Southern, California, ,, USA, 2022, 2, 49, 6.0, 2.0, 1.0, 1.0, -7.7, 0.0, 14.3, 12.5, 46.2, 16.2
-Isaiah Stewart , DET, 22, 6-8, 250, Washington, ,, USA, 2020, 1, 16, 46.0, 10.9, 6.6, 1.6, -4.2, 5.3, 16.1, 14.3, 60.0, 6.9
-Isaiah Thomas , PHX, 35, 5-9, 185, Washington, ,, USA, 2011, 2, 60, 2.0, 2.5, 0.0, 1.0, -6.4, 0.0, 0.0, 25.0, 50.0, 33.3
-Ish Smith , CHA, 35, 6-0, 175, Wake, Forest, ,, USA, Undrafted, Undrafted, Undrafted, 43.0, 3.2, 1.8, 3.4, -17.5, 1.4, 9.4, 11.9, 43.5, 26.8
-Ish Wainright , PHX, 29, 6-5, 250, Baylor, ,, USA, Undrafted, Undrafted, Undrafted, 10.0, 2.3, 1.4, 0.1, -7.3, 3.8, 16.9, 16.9, 46.2, 3.0
+Isaiah Jackson , IND, 22, 6-9, 205, Kentucky, USA, 2021, 1, 22, 55.0, 6.6, 4.1, 0.9, 1.1, 11.8, 19.6, 17.0, 68.9, 8.9
+Isaiah Joe , OKC, 24, 6-3, 165, Arkansas, USA, 2020, 2, 49, 70.0, 8.1, 2.2, 1.2, 9.2, 2.0, 9.8, 15.7, 62.6, 8.4
+Isaiah Livers , WAS, 25, 6-6, 232, Michigan, USA, 2021, 2, 42, 23.0, 5.0, 2.1, 1.1, -19.3, 3.0, 7.3, 12.2, 46.0, 7.1
+Isaiah Mobley , CLE, 24, 6-8, 238, Southern, California, USA, 2022, 2, 49, 6.0, 2.0, 1.0, 1.0, -7.7, 0.0, 14.3, 12.5, 46.2, 16.2
+Isaiah Stewart , DET, 22, 6-8, 250, Washington, USA, 2020, 1, 16, 46.0, 10.9, 6.6, 1.6, -4.2, 5.3, 16.1, 14.3, 60.0, 6.9
+Isaiah Thomas , PHX, 35, 5-9, 185, Washington, USA, 2011, 2, 60, 2.0, 2.5, 0.0, 1.0, -6.4, 0.0, 0.0, 25.0, 50.0, 33.3
+Ish Smith , CHA, 35, 6-0, 175, Wake, Forest, USA, Undrafted, Undrafted, Undrafted, 43.0, 3.2, 1.8, 3.4, -17.5, 1.4, 9.4, 11.9, 43.5, 26.8
+Ish Wainright , PHX, 29, 6-5, 250, Baylor, USA, Undrafted, Undrafted, Undrafted, 10.0, 2.3, 1.4, 0.1, -7.3, 3.8, 16.9, 16.9, 46.2, 3.0
 Ivica Zubac , LAC, 27, 7-0, 240, None, Croatia, 2016, 2, 32, 62.0, 11.6, 9.1, 1.4, 4.6, 11.8, 23.0, 16.1, 68.0, 7.3
-Izaiah Brockington , NOP, 24, 6-4, 196, Iowa, State, ,, USA, Undrafted, Undrafted, Undrafted, 1.0, 4.0, 2.0, 0.0, 50.0, 12.5, 16.7, 38.5, 40.0, 0.0
-JD Davison , BOS, 21, 6-1, 195, Alabama, ,, USA, 2022, 2, 53, 6.0, 1.3, 0.5, 0.2, 42.1, 10.0, 13.3, 14.3, 103.1, 14.3
-JT Thor , CHA, 21, 6-9, 203, Auburn, ,, USA, 2021, 2, 37, 56.0, 2.6, 2.1, 0.4, -4.5, 5.5, 12.3, 11.0, 46.0, 4.8
-Ja Morant , MEM, 24, 6-2, 174, Murray, State, ,, USA, 2019, 1, 2, 9.0, 25.1, 5.6, 8.1, -0.2, 1.9, 13.4, 29.6, 57.0, 38.4
-JaVale McGee , SAC, 36, 7-0, 270, Nevada, ,, USA, 2008, 1, 18, 43.0, 4.1, 2.7, 0.3, -3.6, 11.0, 22.9, 20.9, 61.6, 7.0
-Jabari Smith Jr. , HOU, 20, 6-11, 220, Auburn, ,, USA, 2022, 1, 3, 68.0, 13.6, 8.3, 1.4, -1.0, 5.6, 19.4, 17.3, 57.1, 6.5
-Jabari Walker , POR, 21, 6-7, 227, Colorado, ,, USA, 2022, 2, 57, 65.0, 8.5, 6.4, 0.9, -9.6, 8.0, 20.9, 15.7, 55.7, 6.0
-Jacob Gilyard , BKN, 25, 5-8, 160, Richmond, ,, USA, Undrafted, Undrafted, Undrafted, 39.0, 4.4, 1.1, 3.4, -11.5, 1.1, 5.6, 11.3, 58.9, 29.4
-Jacob Toppin , NYK, 23, 6-8, 200, Kentucky, ,, USA, Undrafted, Undrafted, Undrafted, 9.0, 1.4, 0.8, 0.3, -19.8, 7.7, 14.8, 13.3, 65.8, 14.3
-Jaden Hardy , DAL, 21, 6-3, 198, None, ,, USA, 2022, 2, 37, 65.0, 7.4, 1.7, 1.5, -4.6, 1.7, 10.3, 23.6, 52.2, 17.1
-Jaden Ivey , DET, 22, 6-4, 195, Purdue, ,, USA, 2022, 1, 5, 69.0, 15.2, 3.5, 3.7, -7.5, 4.1, 8.1, 24.0, 53.8, 18.8
-Jaden McDaniels , MIN, 23, 6-9, 185, Washington, ,, USA, 2020, 1, 28, 64.0, 10.8, 3.2, 1.4, 4.6, 3.0, 7.8, 15.9, 57.4, 6.6
-Jaden Springer , BOS, 21, 6-4, 202, Tennessee, ,, USA, 2021, 1, 28, 45.0, 3.2, 1.5, 0.9, -4.4, 7.0, 8.4, 17.1, 46.8, 13.2
-Jae Crowder , MIL, 33, 6-6, 235, Marquette, ,, USA, 2012, 2, 34, 43.0, 6.4, 3.2, 1.4, -1.9, 2.2, 11.5, 11.1, 56.9, 7.9
-Jae'Sean Tate , HOU, 28, 6-4, 230, Ohio, State, ,, USA, Undrafted, Undrafted, Undrafted, 64.0, 4.1, 3.1, 1.0, 5.0, 5.5, 12.8, 11.5, 53.8, 8.5
-Jahmi'us Ramsey , TOR, 22, 6-3, 190, Texas, Tech, ,, USA, 2020, 2, 43, 7.0, 6.7, 3.1, 1.1, -10.4, 3.3, 13.0, 18.0, 53.8, 10.3
-Jaime Jaquez Jr. , MIA, 23, 6-6, 225, UCLA, ,, USA, 2023, 1, 18, 67.0, 12.2, 3.9, 2.6, 0.8, 3.9, 9.4, 18.3, 57.0, 13.4
-Jake LaRavia , MEM, 22, 6-7, 235, Wake, Forest, ,, USA, 2022, 1, 19, 29.0, 8.9, 3.5, 1.4, -10.5, 6.4, 9.4, 19.4, 50.3, 11.7
+Izaiah Brockington , NOP, 24, 6-4, 196, Iowa, State, USA, Undrafted, Undrafted, Undrafted, 1.0, 4.0, 2.0, 0.0, 50.0, 12.5, 16.7, 38.5, 40.0, 0.0
+JD Davison , BOS, 21, 6-1, 195, Alabama, USA, 2022, 2, 53, 6.0, 1.3, 0.5, 0.2, 42.1, 10.0, 13.3, 14.3, 103.1, 14.3
+JT Thor , CHA, 21, 6-9, 203, Auburn, USA, 2021, 2, 37, 56.0, 2.6, 2.1, 0.4, -4.5, 5.5, 12.3, 11.0, 46.0, 4.8
+Ja Morant , MEM, 24, 6-2, 174, Murray, State, USA, 2019, 1, 2, 9.0, 25.1, 5.6, 8.1, -0.2, 1.9, 13.4, 29.6, 57.0, 38.4
+JaVale McGee , SAC, 36, 7-0, 270, Nevada, USA, 2008, 1, 18, 43.0, 4.1, 2.7, 0.3, -3.6, 11.0, 22.9, 20.9, 61.6, 7.0
+Jabari Smith Jr. , HOU, 20, 6-11, 220, Auburn, USA, 2022, 1, 3, 68.0, 13.6, 8.3, 1.4, -1.0, 5.6, 19.4, 17.3, 57.1, 6.5
+Jabari Walker , POR, 21, 6-7, 227, Colorado, USA, 2022, 2, 57, 65.0, 8.5, 6.4, 0.9, -9.6, 8.0, 20.9, 15.7, 55.7, 6.0
+Jacob Gilyard , BKN, 25, 5-8, 160, Richmond, USA, Undrafted, Undrafted, Undrafted, 39.0, 4.4, 1.1, 3.4, -11.5, 1.1, 5.6, 11.3, 58.9, 29.4
+Jacob Toppin , NYK, 23, 6-8, 200, Kentucky, USA, Undrafted, Undrafted, Undrafted, 9.0, 1.4, 0.8, 0.3, -19.8, 7.7, 14.8, 13.3, 65.8, 14.3
+Jaden Hardy , DAL, 21, 6-3, 198, None, USA, 2022, 2, 37, 65.0, 7.4, 1.7, 1.5, -4.6, 1.7, 10.3, 23.6, 52.2, 17.1
+Jaden Ivey , DET, 22, 6-4, 195, Purdue, USA, 2022, 1, 5, 69.0, 15.2, 3.5, 3.7, -7.5, 4.1, 8.1, 24.0, 53.8, 18.8
+Jaden McDaniels , MIN, 23, 6-9, 185, Washington, USA, 2020, 1, 28, 64.0, 10.8, 3.2, 1.4, 4.6, 3.0, 7.8, 15.9, 57.4, 6.6
+Jaden Springer , BOS, 21, 6-4, 202, Tennessee, USA, 2021, 1, 28, 45.0, 3.2, 1.5, 0.9, -4.4, 7.0, 8.4, 17.1, 46.8, 13.2
+Jae Crowder , MIL, 33, 6-6, 235, Marquette, USA, 2012, 2, 34, 43.0, 6.4, 3.2, 1.4, -1.9, 2.2, 11.5, 11.1, 56.9, 7.9
+Jae'Sean Tate , HOU, 28, 6-4, 230, Ohio, State, USA, Undrafted, Undrafted, Undrafted, 64.0, 4.1, 3.1, 1.0, 5.0, 5.5, 12.8, 11.5, 53.8, 8.5
+Jahmi'us Ramsey , TOR, 22, 6-3, 190, Texas, Tech, USA, 2020, 2, 43, 7.0, 6.7, 3.1, 1.1, -10.4, 3.3, 13.0, 18.0, 53.8, 10.3
+Jaime Jaquez Jr. , MIA, 23, 6-6, 225, UCLA, USA, 2023, 1, 18, 67.0, 12.2, 3.9, 2.6, 0.8, 3.9, 9.4, 18.3, 57.0, 13.4
+Jake LaRavia , MEM, 22, 6-7, 235, Wake, Forest, USA, 2022, 1, 19, 29.0, 8.9, 3.5, 1.4, -10.5, 6.4, 9.4, 19.4, 50.3, 11.7
 Jakob Poeltl , TOR, 28, 7-0, 260, Utah, Austria, 2016, 1, 9, 50.0, 11.1, 8.6, 2.5, -0.6, 11.0, 21.4, 16.0, 65.3, 13.1
-Jalen Brunson , NYK, 27, 6-2, 190, Villanova, ,, USA, 2018, 2, 33, 69.0, 27.9, 3.6, 6.5, 8.3, 1.5, 8.8, 30.5, 58.9, 30.5
-Jalen Crutcher , NOP, 24, 6-1, 175, Dayton, ,, USA, Undrafted, Undrafted, Undrafted, 1.0, 0.0, 0.0, 0.0, 20.0, 0.0, 0.0, 16.7, 0.0, 0.0
-Jalen Duren , DET, 20, 6-10, 250, Memphis, ,, USA, 2022, 1, 13, 56.0, 13.9, 12.0, 2.5, -6.9, 10.8, 28.6, 17.7, 66.0, 12.4
-Jalen Green , HOU, 22, 6-4, 186, None, ,, USA, 2021, 1, 2, 74.0, 19.9, 5.1, 3.5, 1.0, 1.5, 14.0, 27.1, 54.5, 16.6
-Jalen Hood-Schifino , LAL, 20, 6-5, 215, Indiana, ,, USA, 2023, 1, 17, 21.0, 1.6, 0.6, 0.4, -23.0, 1.7, 9.6, 24.2, 31.6, 12.9
-Jalen Johnson , ATL, 22, 6-8, 219, Duke, ,, USA, 2021, 1, 20, 51.0, 16.1, 8.6, 3.5, -1.9, 3.6, 20.8, 18.2, 58.7, 14.8
-Jalen McDaniels , TOR, 26, 6-9, 190, San, Diego, State, ,, USA, 2019, 2, 52, 43.0, 3.1, 1.5, 0.6, -13.6, 2.9, 11.6, 18.0, 41.8, 9.4
-Jalen Pickett , DEN, 24, 6-2, 202, Penn, State, ,, USA, 2023, 2, 32, 24.0, 1.6, 0.5, 0.8, -3.4, 0.9, 8.9, 16.6, 56.1, 22.5
-Jalen Slawson , SAC, 24, 6-7, 215, Furman, ,, USA, 2023, 2, 54, 9.0, 0.7, 0.8, 0.2, -15.8, 3.0, 18.8, 9.0, 60.0, 9.1
-Jalen Smith , IND, 24, 6-9, 215, Maryland, ,, USA, 2020, 1, 10, 54.0, 9.9, 5.5, 1.0, 0.5, 9.7, 21.9, 18.4, 69.1, 7.7
-Jalen Suggs , ORL, 22, 6-5, 205, Gonzaga, ,, USA, 2021, 1, 5, 67.0, 12.4, 3.1, 2.7, 1.7, 2.5, 9.5, 19.4, 59.6, 14.4
-Jalen Williams , OKC, 22, 6-5, 211, Santa, Clara, ,, USA, 2022, 1, 12, 67.0, 19.5, 4.0, 4.6, 8.1, 1.8, 10.1, 23.4, 62.3, 20.3
-Jalen Wilson , BKN, 23, 6-6, 220, Kansas, ,, USA, 2023, 2, 51, 36.0, 4.5, 2.6, 1.0, -0.8, 7.1, 12.4, 13.4, 54.7, 10.1
-Jamal Cain , MIA, 25, 6-6, 191, Oakland, ,, USA, Undrafted, Undrafted, Undrafted, 22.0, 4.4, 1.6, 0.5, -1.6, 6.0, 8.6, 16.2, 54.4, 5.7
+Jalen Brunson , NYK, 27, 6-2, 190, Villanova, USA, 2018, 2, 33, 69.0, 27.9, 3.6, 6.5, 8.3, 1.5, 8.8, 30.5, 58.9, 30.5
+Jalen Crutcher , NOP, 24, 6-1, 175, Dayton, USA, Undrafted, Undrafted, Undrafted, 1.0, 0.0, 0.0, 0.0, 20.0, 0.0, 0.0, 16.7, 0.0, 0.0
+Jalen Duren , DET, 20, 6-10, 250, Memphis, USA, 2022, 1, 13, 56.0, 13.9, 12.0, 2.5, -6.9, 10.8, 28.6, 17.7, 66.0, 12.4
+Jalen Green , HOU, 22, 6-4, 186, None, USA, 2021, 1, 2, 74.0, 19.9, 5.1, 3.5, 1.0, 1.5, 14.0, 27.1, 54.5, 16.6
+Jalen Hood-Schifino , LAL, 20, 6-5, 215, Indiana, USA, 2023, 1, 17, 21.0, 1.6, 0.6, 0.4, -23.0, 1.7, 9.6, 24.2, 31.6, 12.9
+Jalen Johnson , ATL, 22, 6-8, 219, Duke, USA, 2021, 1, 20, 51.0, 16.1, 8.6, 3.5, -1.9, 3.6, 20.8, 18.2, 58.7, 14.8
+Jalen McDaniels , TOR, 26, 6-9, 190, San, Diego, State, USA, 2019, 2, 52, 43.0, 3.1, 1.5, 0.6, -13.6, 2.9, 11.6, 18.0, 41.8, 9.4
+Jalen Pickett , DEN, 24, 6-2, 202, Penn, State, USA, 2023, 2, 32, 24.0, 1.6, 0.5, 0.8, -3.4, 0.9, 8.9, 16.6, 56.1, 22.5
+Jalen Slawson , SAC, 24, 6-7, 215, Furman, USA, 2023, 2, 54, 9.0, 0.7, 0.8, 0.2, -15.8, 3.0, 18.8, 9.0, 60.0, 9.1
+Jalen Smith , IND, 24, 6-9, 215, Maryland, USA, 2020, 1, 10, 54.0, 9.9, 5.5, 1.0, 0.5, 9.7, 21.9, 18.4, 69.1, 7.7
+Jalen Suggs , ORL, 22, 6-5, 205, Gonzaga, USA, 2021, 1, 5, 67.0, 12.4, 3.1, 2.7, 1.7, 2.5, 9.5, 19.4, 59.6, 14.4
+Jalen Williams , OKC, 22, 6-5, 211, Santa, Clara, USA, 2022, 1, 12, 67.0, 19.5, 4.0, 4.6, 8.1, 1.8, 10.1, 23.4, 62.3, 20.3
+Jalen Wilson , BKN, 23, 6-6, 220, Kansas, USA, 2023, 2, 51, 36.0, 4.5, 2.6, 1.0, -0.8, 7.1, 12.4, 13.4, 54.7, 10.1
+Jamal Cain , MIA, 25, 6-6, 191, Oakland, USA, Undrafted, Undrafted, Undrafted, 22.0, 4.4, 1.6, 0.5, -1.6, 6.0, 8.6, 16.2, 54.4, 5.7
 Jamal Murray , DEN, 27, 6-4, 215, Kentucky, Canada, 2016, 1, 7, 54.0, 20.9, 4.1, 6.7, 7.0, 2.3, 10.3, 26.9, 57.8, 30.0
-Jamaree Bouyea , SAS, 24, 6-2, 180, San, Francisco, ,, USA, Undrafted, Undrafted, Undrafted, 6.0, 1.7, 1.7, 1.3, -19.7, 2.7, 15.7, 20.0, 23.8, 25.8
-James Bouknight , CHA, 23, 6-4, 190, Connecticut, ,, USA, 2021, 1, 11, 14.0, 3.6, 0.6, 0.4, -7.3, 1.2, 11.8, 24.0, 59.7, 12.5
-James Harden , LAC, 34, 6-5, 220, Arizona, State, ,, USA, 2009, 1, 3, 67.0, 16.8, 5.1, 8.6, 6.0, 1.5, 13.2, 20.0, 62.0, 33.3
-James Johnson , IND, 37, 6-7, 240, Wake, Forest, ,, USA, 2009, 1, 16, 8.0, 1.0, 0.5, 0.9, -1.1, 2.4, 9.4, 13.7, 40.5, 18.9
-James Wiseman , DET, 23, 6-11, 240, Memphis, ,, USA, 2020, 1, 2, 55.0, 6.9, 5.0, 0.8, -14.0, 9.8, 20.5, 16.0, 66.0, 8.0
-Jarace Walker , IND, 20, 6-7, 235, Houston, ,, USA, 2023, 1, 8, 30.0, 3.6, 1.9, 1.2, 3.5, 3.5, 15.3, 15.3, 51.4, 13.6
-Jared Butler , WAS, 23, 6-3, 193, Baylor, ,, USA, 2021, 2, 40, 33.0, 5.2, 1.2, 2.8, -3.4, 1.4, 7.6, 19.2, 57.2, 33.5
-Jared Rhoden , DET, 24, 6-5, 210, Seton, Hall, ,, USA, Undrafted, Undrafted, Undrafted, 10.0, 3.2, 1.6, 0.7, -4.6, 2.2, 15.7, 13.7, 61.8, 10.3
-Jaren Jackson Jr. , MEM, 24, 6-10, 242, Michigan, State, ,, USA, 2018, 1, 4, 64.0, 22.0, 5.5, 2.3, -7.7, 3.8, 13.3, 29.9, 54.8, 13.1
-Jarred Vanderbilt , LAL, 24, 6-8, 214, Kentucky, ,, USA, 2018, 2, 41, 29.0, 5.2, 4.8, 1.2, 4.2, 7.3, 16.4, 11.1, 57.8, 7.7
-Jarrett Allen , CLE, 25, 6-9, 243, Texas, ,, USA, 2017, 1, 22, 70.0, 16.3, 10.6, 2.7, 4.6, 10.2, 23.2, 19.2, 66.2, 12.6
-Jason Preston , UTA, 24, 6-3, 181, Ohio, ,, USA, 2021, 2, 33, 4.0, 1.0, 1.8, 1.8, 29.5, 10.7, 12.1, 11.3, 33.3, 24.1
-Javon Freeman-Liberty , TOR, 24, 6-3, 190, DePaul, ,, USA, Undrafted, Undrafted, Undrafted, 14.0, 6.0, 2.9, 1.6, -13.3, 3.3, 14.7, 16.6, 52.1, 12.7
-Javonte Green , CHI, 30, 6-5, 205, Radford, ,, USA, Undrafted, Undrafted, Undrafted, 3.0, 5.0, 3.7, 0.7, 20.1, 7.5, 15.1, 12.6, 68.2, 4.5
-Javonte Smart , PHI, 24, 6-4, 205, Louisiana, State, ,, USA, Undrafted, Undrafted, Undrafted, 1.0, 0.0, 0.0, 0.0, -150.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Jaxson Hayes , LAL, 23, 7-0, 220, Texas, ,, USA, 2019, 1, 8, 63.0, 4.1, 2.9, 0.4, -3.9, 8.2, 14.4, 12.0, 70.7, 5.1
-Jay Huff , DEN, 26, 7-1, 240, Virginia, ,, USA, Undrafted, Undrafted, Undrafted, 17.0, 1.1, 0.6, 0.1, -12.1, 2.3, 19.6, 14.3, 68.4, 8.0
-Jaylen Brown , BOS, 27, 6-6, 223, California, ,, USA, 2016, 1, 3, 66.0, 23.2, 5.5, 3.6, 9.7, 3.6, 11.8, 28.2, 58.3, 16.6
-Jaylen Nowell , MEM, 24, 6-4, 201, Washington, ,, USA, 2019, 2, 43, 9.0, 5.7, 1.6, 1.8, -0.6, 1.8, 6.7, 16.2, 45.3, 14.5
-Jaylin Williams , OKC, 21, 6-9, 240, Arkansas, ,, USA, 2022, 2, 34, 61.0, 3.7, 3.3, 1.4, 7.2, 4.2, 22.1, 13.0, 55.1, 14.1
-Jayson Tatum , BOS, 26, 6-8, 210, Duke, ,, USA, 2017, 1, 3, 69.0, 27.3, 8.2, 4.9, 11.9, 2.6, 18.9, 29.7, 60.6, 20.9
-Jeff Dowtin Jr. , PHI, 26, 6-3, 177, Rhode, Island, ,, USA, Undrafted, Undrafted, Undrafted, 7.0, 4.4, 1.6, 2.4, 8.8, 2.3, 9.9, 13.1, 74.2, 26.6
-Jeff Green , HOU, 37, 6-8, 235, Georgetown, ,, USA, 2007, 1, 5, 70.0, 6.3, 2.2, 0.8, -2.3, 3.2, 9.5, 15.0, 59.3, 7.3
-Jerami Grant , POR, 30, 6-7, 210, Syracuse, ,, USA, 2014, 2, 39, 54.0, 21.0, 3.5, 2.8, -9.6, 1.9, 8.7, 25.5, 57.3, 13.8
-Jeremiah Robinson-Earl , NOP, 23, 6-8, 240, Villanova, ,, USA, 2021, 2, 32, 33.0, 3.3, 2.1, 0.6, -0.1, 6.6, 14.9, 14.0, 58.3, 9.3
+Jamaree Bouyea , SAS, 24, 6-2, 180, San, Francisco, USA, Undrafted, Undrafted, Undrafted, 6.0, 1.7, 1.7, 1.3, -19.7, 2.7, 15.7, 20.0, 23.8, 25.8
+James Bouknight , CHA, 23, 6-4, 190, Connecticut, USA, 2021, 1, 11, 14.0, 3.6, 0.6, 0.4, -7.3, 1.2, 11.8, 24.0, 59.7, 12.5
+James Harden , LAC, 34, 6-5, 220, Arizona, State, USA, 2009, 1, 3, 67.0, 16.8, 5.1, 8.6, 6.0, 1.5, 13.2, 20.0, 62.0, 33.3
+James Johnson , IND, 37, 6-7, 240, Wake, Forest, USA, 2009, 1, 16, 8.0, 1.0, 0.5, 0.9, -1.1, 2.4, 9.4, 13.7, 40.5, 18.9
+James Wiseman , DET, 23, 6-11, 240, Memphis, USA, 2020, 1, 2, 55.0, 6.9, 5.0, 0.8, -14.0, 9.8, 20.5, 16.0, 66.0, 8.0
+Jarace Walker , IND, 20, 6-7, 235, Houston, USA, 2023, 1, 8, 30.0, 3.6, 1.9, 1.2, 3.5, 3.5, 15.3, 15.3, 51.4, 13.6
+Jared Butler , WAS, 23, 6-3, 193, Baylor, USA, 2021, 2, 40, 33.0, 5.2, 1.2, 2.8, -3.4, 1.4, 7.6, 19.2, 57.2, 33.5
+Jared Rhoden , DET, 24, 6-5, 210, Seton, Hall, USA, Undrafted, Undrafted, Undrafted, 10.0, 3.2, 1.6, 0.7, -4.6, 2.2, 15.7, 13.7, 61.8, 10.3
+Jaren Jackson Jr. , MEM, 24, 6-10, 242, Michigan, State, USA, 2018, 1, 4, 64.0, 22.0, 5.5, 2.3, -7.7, 3.8, 13.3, 29.9, 54.8, 13.1
+Jarred Vanderbilt , LAL, 24, 6-8, 214, Kentucky, USA, 2018, 2, 41, 29.0, 5.2, 4.8, 1.2, 4.2, 7.3, 16.4, 11.1, 57.8, 7.7
+Jarrett Allen , CLE, 25, 6-9, 243, Texas, USA, 2017, 1, 22, 70.0, 16.3, 10.6, 2.7, 4.6, 10.2, 23.2, 19.2, 66.2, 12.6
+Jason Preston , UTA, 24, 6-3, 181, Ohio, USA, 2021, 2, 33, 4.0, 1.0, 1.8, 1.8, 29.5, 10.7, 12.1, 11.3, 33.3, 24.1
+Javon Freeman-Liberty , TOR, 24, 6-3, 190, DePaul, USA, Undrafted, Undrafted, Undrafted, 14.0, 6.0, 2.9, 1.6, -13.3, 3.3, 14.7, 16.6, 52.1, 12.7
+Javonte Green , CHI, 30, 6-5, 205, Radford, USA, Undrafted, Undrafted, Undrafted, 3.0, 5.0, 3.7, 0.7, 20.1, 7.5, 15.1, 12.6, 68.2, 4.5
+Javonte Smart , PHI, 24, 6-4, 205, Louisiana, State, USA, Undrafted, Undrafted, Undrafted, 1.0, 0.0, 0.0, 0.0, -150.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Jaxson Hayes , LAL, 23, 7-0, 220, Texas, USA, 2019, 1, 8, 63.0, 4.1, 2.9, 0.4, -3.9, 8.2, 14.4, 12.0, 70.7, 5.1
+Jay Huff , DEN, 26, 7-1, 240, Virginia, USA, Undrafted, Undrafted, Undrafted, 17.0, 1.1, 0.6, 0.1, -12.1, 2.3, 19.6, 14.3, 68.4, 8.0
+Jaylen Brown , BOS, 27, 6-6, 223, California, USA, 2016, 1, 3, 66.0, 23.2, 5.5, 3.6, 9.7, 3.6, 11.8, 28.2, 58.3, 16.6
+Jaylen Nowell , MEM, 24, 6-4, 201, Washington, USA, 2019, 2, 43, 9.0, 5.7, 1.6, 1.8, -0.6, 1.8, 6.7, 16.2, 45.3, 14.5
+Jaylin Williams , OKC, 21, 6-9, 240, Arkansas, USA, 2022, 2, 34, 61.0, 3.7, 3.3, 1.4, 7.2, 4.2, 22.1, 13.0, 55.1, 14.1
+Jayson Tatum , BOS, 26, 6-8, 210, Duke, USA, 2017, 1, 3, 69.0, 27.3, 8.2, 4.9, 11.9, 2.6, 18.9, 29.7, 60.6, 20.9
+Jeff Dowtin Jr. , PHI, 26, 6-3, 177, Rhode, Island, USA, Undrafted, Undrafted, Undrafted, 7.0, 4.4, 1.6, 2.4, 8.8, 2.3, 9.9, 13.1, 74.2, 26.6
+Jeff Green , HOU, 37, 6-8, 235, Georgetown, USA, 2007, 1, 5, 70.0, 6.3, 2.2, 0.8, -2.3, 3.2, 9.5, 15.0, 59.3, 7.3
+Jerami Grant , POR, 30, 6-7, 210, Syracuse, USA, 2014, 2, 39, 54.0, 21.0, 3.5, 2.8, -9.6, 1.9, 8.7, 25.5, 57.3, 13.8
+Jeremiah Robinson-Earl , NOP, 23, 6-8, 240, Villanova, USA, 2021, 2, 32, 33.0, 3.3, 2.1, 0.6, -0.1, 6.6, 14.9, 14.0, 58.3, 9.3
 Jeremy Sochan , SAS, 20, 6-8, 230, Baylor, Poland, 2022, 1, 9, 74.0, 11.6, 6.4, 3.4, -7.0, 6.0, 15.3, 18.7, 51.3, 16.1
-Jericho Sims , NYK, 25, 6-10, 250, Texas, ,, USA, 2021, 2, 58, 43.0, 2.1, 3.3, 0.6, -2.2, 9.2, 15.4, 6.0, 70.7, 5.9
-Jermaine Samuels Jr. , HOU, 25, 6-6, 230, Villanova, ,, USA, Undrafted, Undrafted, Undrafted, 11.0, 1.6, 1.0, 0.2, -10.4, 4.1, 18.0, 9.2, 75.8, 4.8
-Jerome Robinson , GSW, 27, 6-5, 190, Boston, College, ,, USA, 2018, 1, 13, 19.0, 1.4, 0.3, 0.3, 15.3, 1.3, 5.3, 19.9, 38.9, 9.4
-Jett Howard , ORL, 20, 6-6, 215, Michigan, ,, USA, 2023, 1, 11, 14.0, 1.6, 0.4, 0.2, -2.6, 2.0, 7.0, 21.3, 46.4, 10.3
-Jevon Carter , CHI, 28, 6-1, 200, West, Virginia, ,, USA, 2018, 2, 32, 67.0, 4.9, 0.8, 1.2, 0.7, 0.8, 5.1, 16.5, 49.4, 11.9
-Jimmy Butler , MIA, 34, 6-7, 230, Marquette, ,, USA, 2011, 1, 30, 52.0, 21.0, 5.4, 4.9, 5.8, 5.6, 10.6, 23.8, 62.5, 22.3
+Jericho Sims , NYK, 25, 6-10, 250, Texas, USA, 2021, 2, 58, 43.0, 2.1, 3.3, 0.6, -2.2, 9.2, 15.4, 6.0, 70.7, 5.9
+Jermaine Samuels Jr. , HOU, 25, 6-6, 230, Villanova, USA, Undrafted, Undrafted, Undrafted, 11.0, 1.6, 1.0, 0.2, -10.4, 4.1, 18.0, 9.2, 75.8, 4.8
+Jerome Robinson , GSW, 27, 6-5, 190, Boston, College, USA, 2018, 1, 13, 19.0, 1.4, 0.3, 0.3, 15.3, 1.3, 5.3, 19.9, 38.9, 9.4
+Jett Howard , ORL, 20, 6-6, 215, Michigan, USA, 2023, 1, 11, 14.0, 1.6, 0.4, 0.2, -2.6, 2.0, 7.0, 21.3, 46.4, 10.3
+Jevon Carter , CHI, 28, 6-1, 200, West, Virginia, USA, 2018, 2, 32, 67.0, 4.9, 0.8, 1.2, 0.7, 0.8, 5.1, 16.5, 49.4, 11.9
+Jimmy Butler , MIA, 34, 6-7, 230, Marquette, USA, 2011, 1, 30, 52.0, 21.0, 5.4, 4.9, 5.8, 5.6, 10.6, 23.8, 62.5, 22.3
 Jock Landale , HOU, 28, 6-11, 255, St., Mary's, Australia, Undrafted, Undrafted, Undrafted, 48.0, 4.1, 3.0, 1.0, 10.0, 11.8, 11.1, 13.5, 55.4, 10.6
-Joe Harris , DET, 32, 6-6, 220, Virginia, ,, USA, 2014, 2, 33, 16.0, 2.4, 0.8, 0.6, -14.5, 1.7, 5.7, 10.4, 48.9, 7.9
+Joe Harris , DET, 32, 6-6, 220, Virginia, USA, 2014, 2, 33, 16.0, 2.4, 0.8, 0.6, -14.5, 1.7, 5.7, 10.4, 48.9, 7.9
 Joe Ingles , ORL, 36, 6-9, 220, None, Australia, Undrafted, Undrafted, Undrafted, 60.0, 4.4, 2.1, 3.0, 5.8, 1.9, 10.6, 11.2, 60.3, 21.7
 Joel Embiid , PHI, 30, 7-0, 280, Kansas, Cameroon, 2014, 1, 3, 34.0, 35.3, 11.3, 5.7, 10.1, 7.8, 24.1, 38.6, 64.5, 31.2
-John Collins , UTA, 26, 6-9, 226, Wake, Forest, ,, USA, 2017, 1, 19, 68.0, 15.1, 8.5, 1.1, -7.5, 7.9, 22.2, 19.9, 62.1, 6.0
-John Konchar , MEM, 28, 6-5, 210, Indiana-Purdue, Fort, Wayne, ,, USA, Undrafted, Undrafted, Undrafted, 55.0, 4.3, 4.7, 2.0, -5.9, 5.8, 16.4, 9.6, 53.7, 13.0
-Johnny Davis , WAS, 22, 6-4, 195, Wisconsin, ,, USA, 2022, 1, 10, 44.0, 2.6, 1.4, 0.5, -8.7, 3.2, 9.0, 11.8, 40.8, 6.3
-Johnny Juzang , UTA, 23, 6-5, 209, UCLA, ,, USA, Undrafted, Undrafted, Undrafted, 14.0, 5.2, 1.6, 0.8, -1.4, 2.4, 7.6, 14.5, 54.9, 7.1
+John Collins , UTA, 26, 6-9, 226, Wake, Forest, USA, 2017, 1, 19, 68.0, 15.1, 8.5, 1.1, -7.5, 7.9, 22.2, 19.9, 62.1, 6.0
+John Konchar , MEM, 28, 6-5, 210, Indiana-Purdue, Fort, Wayne, USA, Undrafted, Undrafted, Undrafted, 55.0, 4.3, 4.7, 2.0, -5.9, 5.8, 16.4, 9.6, 53.7, 13.0
+Johnny Davis , WAS, 22, 6-4, 195, Wisconsin, USA, 2022, 1, 10, 44.0, 2.6, 1.4, 0.5, -8.7, 3.2, 9.0, 11.8, 40.8, 6.3
+Johnny Juzang , UTA, 23, 6-5, 209, UCLA, USA, Undrafted, Undrafted, Undrafted, 14.0, 5.2, 1.6, 0.8, -1.4, 2.4, 7.6, 14.5, 54.9, 7.1
 Jonas Valanciunas , NOP, 31, 6-11, 265, None, Lithuania, 2011, 1, 5, 74.0, 12.4, 9.1, 2.1, 4.7, 10.3, 27.0, 20.3, 62.2, 12.3
-Jonathan Isaac , ORL, 26, 6-10, 230, Florida, State, ,, USA, 2017, 1, 6, 51.0, 6.9, 4.4, 0.5, 12.9, 8.5, 19.7, 16.5, 62.3, 4.5
+Jonathan Isaac , ORL, 26, 6-10, 230, Florida, State, USA, 2017, 1, 6, 51.0, 6.9, 4.4, 0.5, 12.9, 8.5, 19.7, 16.5, 62.3, 4.5
 Jonathan Kuminga , GSW, 21, 6-7, 225, None, ,, DRC, 2021, 1, 7, 70.0, 16.3, 4.8, 2.1, 3.1, 4.7, 12.5, 24.0, 59.7, 11.8
-Jontay Porter , TOR, 24, 6-10, 240, Missouri, ,, USA, Undrafted, Undrafted, Undrafted, 26.0, 4.4, 3.2, 2.3, -9.2, 7.1, 15.3, 15.5, 51.4, 22.6
-Jordan Clarkson , UTA, 31, 6-3, 194, Missouri, ,, USA, 2014, 2, 46, 55.0, 17.1, 3.4, 5.0, -5.7, 2.8, 8.3, 25.5, 52.1, 24.7
-Jordan Ford , SAC, 25, 6-1, 175, St., Mary's, College, ,, USA, Undrafted, Undrafted, Undrafted, 6.0, 2.0, 0.3, 0.3, 28.9, 0.0, 10.0, 18.4, 76.1, 11.8
-Jordan Goodwin , MEM, 25, 6-4, 200, St., Louis, ,, USA, Undrafted, Undrafted, Undrafted, 50.0, 5.6, 3.5, 2.4, -5.9, 6.6, 13.2, 17.8, 45.5, 22.3
-Jordan Hawkins , NOP, 21, 6-5, 190, Connecticut, ,, USA, 2023, 1, 14, 63.0, 8.2, 2.3, 1.1, -0.5, 2.3, 10.1, 19.0, 53.4, 8.7
-Jordan McLaughlin , MIN, 27, 6-0, 185, Southern, California, ,, USA, Undrafted, Undrafted, Undrafted, 48.0, 3.3, 1.3, 1.8, 7.4, 2.9, 9.7, 11.9, 63.5, 23.4
-Jordan Miller , LAC, 24, 6-5, 194, Miami, ,, USA, 2023, 2, 48, 8.0, 1.6, 0.6, 0.0, -24.4, 10.3, 5.7, 15.3, 65.8, 0.0
-Jordan Nwora , TOR, 25, 6-8, 225, Louisville, ,, USA, 2020, 2, 45, 45.0, 6.8, 2.5, 1.1, -11.6, 3.4, 15.6, 21.7, 55.7, 13.0
-Jordan Poole , WAS, 24, 6-4, 194, Michigan, ,, USA, 2019, 1, 28, 73.0, 17.0, 2.7, 4.1, -11.1, 1.3, 7.3, 25.5, 52.6, 19.7
-Jordan Walsh , BOS, 20, 6-6, 205, Arkansas, ,, USA, 2023, 2, 38, 6.0, 1.0, 2.2, 0.7, 48.8, 8.1, 21.7, 10.8, 37.5, 10.8
-Jose Alvarado , NOP, 25, 6-0, 179, Georgia, Tech, ,, USA, Undrafted, Undrafted, Undrafted, 51.0, 6.9, 2.3, 2.1, 12.1, 2.4, 9.7, 17.1, 53.2, 16.0
+Jontay Porter , TOR, 24, 6-10, 240, Missouri, USA, Undrafted, Undrafted, Undrafted, 26.0, 4.4, 3.2, 2.3, -9.2, 7.1, 15.3, 15.5, 51.4, 22.6
+Jordan Clarkson , UTA, 31, 6-3, 194, Missouri, USA, 2014, 2, 46, 55.0, 17.1, 3.4, 5.0, -5.7, 2.8, 8.3, 25.5, 52.1, 24.7
+Jordan Ford , SAC, 25, 6-1, 175, St., Mary's, College, USA, Undrafted, Undrafted, Undrafted, 6.0, 2.0, 0.3, 0.3, 28.9, 0.0, 10.0, 18.4, 76.1, 11.8
+Jordan Goodwin , MEM, 25, 6-4, 200, St., Louis, USA, Undrafted, Undrafted, Undrafted, 50.0, 5.6, 3.5, 2.4, -5.9, 6.6, 13.2, 17.8, 45.5, 22.3
+Jordan Hawkins , NOP, 21, 6-5, 190, Connecticut, USA, 2023, 1, 14, 63.0, 8.2, 2.3, 1.1, -0.5, 2.3, 10.1, 19.0, 53.4, 8.7
+Jordan McLaughlin , MIN, 27, 6-0, 185, Southern, California, USA, Undrafted, Undrafted, Undrafted, 48.0, 3.3, 1.3, 1.8, 7.4, 2.9, 9.7, 11.9, 63.5, 23.4
+Jordan Miller , LAC, 24, 6-5, 194, Miami, USA, 2023, 2, 48, 8.0, 1.6, 0.6, 0.0, -24.4, 10.3, 5.7, 15.3, 65.8, 0.0
+Jordan Nwora , TOR, 25, 6-8, 225, Louisville, USA, 2020, 2, 45, 45.0, 6.8, 2.5, 1.1, -11.6, 3.4, 15.6, 21.7, 55.7, 13.0
+Jordan Poole , WAS, 24, 6-4, 194, Michigan, USA, 2019, 1, 28, 73.0, 17.0, 2.7, 4.1, -11.1, 1.3, 7.3, 25.5, 52.6, 19.7
+Jordan Walsh , BOS, 20, 6-6, 205, Arkansas, USA, 2023, 2, 38, 6.0, 1.0, 2.2, 0.7, 48.8, 8.1, 21.7, 10.8, 37.5, 10.8
+Jose Alvarado , NOP, 25, 6-0, 179, Georgia, Tech, USA, Undrafted, Undrafted, Undrafted, 51.0, 6.9, 2.3, 2.1, 12.1, 2.4, 9.7, 17.1, 53.2, 16.0
 Josh Giddey , OKC, 21, 6-8, 216, None, Australia, 2021, 1, 6, 73.0, 12.2, 6.3, 4.6, 7.9, 5.9, 18.6, 22.3, 54.8, 24.5
 Josh Green , DAL, 23, 6-5, 200, Arizona, Australia, 2020, 1, 18, 54.0, 8.5, 3.2, 2.3, -0.7, 2.7, 9.4, 12.9, 60.4, 11.0
-Josh Hart , NYK, 29, 6-4, 215, Villanova, ,, USA, 2017, 1, 30, 73.0, 9.0, 8.3, 4.0, 6.3, 4.6, 20.3, 13.3, 50.8, 16.1
-Josh Minott , MIN, 21, 6-8, 205, Memphis, ,, USA, 2022, 2, 45, 26.0, 1.5, 0.5, 0.2, -3.7, 3.9, 13.7, 18.3, 57.3, 9.1
+Josh Hart , NYK, 29, 6-4, 215, Villanova, USA, 2017, 1, 30, 73.0, 9.0, 8.3, 4.0, 6.3, 4.6, 20.3, 13.3, 50.8, 16.1
+Josh Minott , MIN, 21, 6-8, 205, Memphis, USA, 2022, 2, 45, 26.0, 1.5, 0.5, 0.2, -3.7, 3.9, 13.7, 18.3, 57.3, 9.1
 Josh Okogie , PHX, 25, 6-4, 213, Georgia, Tech, Nigeria, 2018, 1, 20, 56.0, 4.9, 2.7, 1.1, 2.0, 7.9, 8.0, 12.4, 54.9, 9.1
-Josh Richardson , MIA, 30, 6-5, 200, Tennessee, ,, USA, 2015, 2, 40, 43.0, 9.9, 2.8, 2.4, -5.0, 1.7, 9.4, 15.9, 57.3, 14.4
+Josh Richardson , MIA, 30, 6-5, 200, Tennessee, USA, 2015, 2, 40, 43.0, 9.9, 2.8, 2.4, -5.0, 1.7, 9.4, 15.9, 57.3, 14.4
 Joshua Primo , LAC, 21, 6-4, 189, Alabama, Canada, 2021, 1, 12, 2.0, 1.0, 0.5, 0.0, -12.9, 11.1, 0.0, 25.9, 33.3, 0.0
-Jrue Holiday , BOS, 33, 6-4, 205, UCLA, ,, USA, 2009, 1, 17, 63.0, 12.8, 5.5, 5.0, 10.4, 3.8, 11.7, 16.1, 60.6, 19.9
-Juan Toscano-Anderson , SAC, 30, 6-6, 209, Marquette, ,, USA, Undrafted, Undrafted, Undrafted, 11.0, 0.6, 1.3, 0.4, -0.1, 6.8, 16.7, 10.6, 29.2, 10.8
-Jules Bernard , WAS, 24, 6-6, 210, UCLA, ,, USA, Undrafted, Undrafted, Undrafted, 15.0, 3.7, 1.1, 0.9, 1.5, 5.3, 8.0, 19.3, 51.4, 16.9
-Julian Champagnie , SAS, 22, 6-7, 217, St., John's, ,, USA, Undrafted, Undrafted, Undrafted, 67.0, 6.2, 2.6, 1.3, -4.3, 3.0, 11.2, 13.8, 56.1, 9.0
-Julian Phillips , CHI, 20, 6-8, 198, Tennessee, ,, USA, 2023, 2, 35, 40.0, 2.2, 0.9, 0.3, 0.4, 3.5, 7.7, 12.1, 52.1, 5.2
-Julian Strawther , DEN, 21, 6-6, 205, Gonzaga, ,, USA, 2023, 1, 29, 45.0, 4.9, 1.2, 1.0, -10.5, 0.9, 8.9, 19.2, 48.5, 12.0
-Julius Randle , NYK, 29, 6-8, 250, Kentucky, ,, USA, 2014, 1, 7, 46.0, 24.0, 9.2, 5.0, 6.0, 5.9, 19.8, 28.7, 56.9, 21.7
-Justin Champagnie , WAS, 22, 6-6, 206, Pittsburgh, ,, USA, Undrafted, Undrafted, Undrafted, 10.0, 6.0, 2.9, 1.2, -11.8, 6.1, 12.7, 17.4, 54.3, 11.4
-Justin Holiday , DEN, 34, 6-6, 180, Washington, ,, USA, Undrafted, Undrafted, Undrafted, 51.0, 3.9, 1.2, 1.1, 2.4, 1.1, 7.1, 10.2, 59.9, 9.3
-Justin Jackson , MIN, 29, 6-8, 220, North, Carolina, ,, USA, 2017, 1, 15, 2.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
-Justin Minaya , POR, 25, 6-5, 205, Providence, ,, USA, Undrafted, Undrafted, Undrafted, 28.0, 1.2, 1.1, 0.3, -4.7, 5.7, 8.9, 10.0, 38.2, 6.1
+Jrue Holiday , BOS, 33, 6-4, 205, UCLA, USA, 2009, 1, 17, 63.0, 12.8, 5.5, 5.0, 10.4, 3.8, 11.7, 16.1, 60.6, 19.9
+Juan Toscano-Anderson , SAC, 30, 6-6, 209, Marquette, USA, Undrafted, Undrafted, Undrafted, 11.0, 0.6, 1.3, 0.4, -0.1, 6.8, 16.7, 10.6, 29.2, 10.8
+Jules Bernard , WAS, 24, 6-6, 210, UCLA, USA, Undrafted, Undrafted, Undrafted, 15.0, 3.7, 1.1, 0.9, 1.5, 5.3, 8.0, 19.3, 51.4, 16.9
+Julian Champagnie , SAS, 22, 6-7, 217, St., John's, USA, Undrafted, Undrafted, Undrafted, 67.0, 6.2, 2.6, 1.3, -4.3, 3.0, 11.2, 13.8, 56.1, 9.0
+Julian Phillips , CHI, 20, 6-8, 198, Tennessee, USA, 2023, 2, 35, 40.0, 2.2, 0.9, 0.3, 0.4, 3.5, 7.7, 12.1, 52.1, 5.2
+Julian Strawther , DEN, 21, 6-6, 205, Gonzaga, USA, 2023, 1, 29, 45.0, 4.9, 1.2, 1.0, -10.5, 0.9, 8.9, 19.2, 48.5, 12.0
+Julius Randle , NYK, 29, 6-8, 250, Kentucky, USA, 2014, 1, 7, 46.0, 24.0, 9.2, 5.0, 6.0, 5.9, 19.8, 28.7, 56.9, 21.7
+Justin Champagnie , WAS, 22, 6-6, 206, Pittsburgh, USA, Undrafted, Undrafted, Undrafted, 10.0, 6.0, 2.9, 1.2, -11.8, 6.1, 12.7, 17.4, 54.3, 11.4
+Justin Holiday , DEN, 34, 6-6, 180, Washington, USA, Undrafted, Undrafted, Undrafted, 51.0, 3.9, 1.2, 1.1, 2.4, 1.1, 7.1, 10.2, 59.9, 9.3
+Justin Jackson , MIN, 29, 6-8, 220, North, Carolina, USA, 2017, 1, 15, 2.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+Justin Minaya , POR, 25, 6-5, 205, Providence, USA, Undrafted, Undrafted, Undrafted, 28.0, 1.2, 1.1, 0.3, -4.7, 5.7, 8.9, 10.0, 38.2, 6.1
 Jusuf Nurkic , PHX, 29, 7-0, 290, None, Bosnia, and, Herzegovina, 2014, 1, 16, 69.0, 11.2, 10.9, 3.7, 8.3, 11.4, 28.2, 19.1, 56.1, 17.8
-KJ Martin , PHI, 23, 6-6, 215, None, ,, USA, 2020, 2, 52, 56.0, 3.6, 2.1, 0.8, 0.5, 4.9, 12.8, 12.8, 55.9, 9.3
-Kaiser Gates , NOP, 27, 6-7, 225, Xavier, ,, USA, 2018, 1.0, 0.0, 1.0, 0.0, -7.0, 0.0, 9.1, 22.2, 0.0, 0.0
-Karl-Anthony Towns , MIN, 28, 7-0, 248, Kentucky, ,, USA, 2015, 1, 1, 60.0, 22.1, 8.4, 3.0, 8.0, 5.0, 20.5, 26.9, 62.8, 14.3
-Kawhi Leonard , LAC, 32, 6-7, 225, San, Diego, State, ,, USA, 2011, 1, 15, 68.0, 23.7, 6.1, 3.6, 8.2, 3.9, 13.8, 26.1, 62.6, 16.5
-Keegan Murray , SAC, 23, 6-8, 225, Iowa, ,, USA, 2022, 1, 4, 69.0, 15.0, 5.3, 1.7, 2.6, 3.8, 12.8, 17.6, 57.6, 6.7
-Keita Bates-Diop , BKN, 28, 6-8, 229, Ohio, State, ,, USA, 2018, 2, 48, 53.0, 3.7, 2.1, 0.7, -3.8, 4.9, 11.8, 12.8, 53.4, 8.4
-Keldon Johnson , SAS, 24, 6-5, 220, Kentucky, ,, USA, 2019, 1, 29, 68.0, 15.8, 5.5, 2.9, -7.6, 4.3, 13.5, 21.2, 56.7, 14.3
+KJ Martin , PHI, 23, 6-6, 215, None, USA, 2020, 2, 52, 56.0, 3.6, 2.1, 0.8, 0.5, 4.9, 12.8, 12.8, 55.9, 9.3
+Kaiser Gates , NOP, 27, 6-7, 225, Xavier, USA, 2018, 1.0, 0.0, 1.0, 0.0, -7.0, 0.0, 9.1, 22.2, 0.0, 0.0
+Karl-Anthony Towns , MIN, 28, 7-0, 248, Kentucky, USA, 2015, 1, 1, 60.0, 22.1, 8.4, 3.0, 8.0, 5.0, 20.5, 26.9, 62.8, 14.3
+Kawhi Leonard , LAC, 32, 6-7, 225, San, Diego, State, USA, 2011, 1, 15, 68.0, 23.7, 6.1, 3.6, 8.2, 3.9, 13.8, 26.1, 62.6, 16.5
+Keegan Murray , SAC, 23, 6-8, 225, Iowa, USA, 2022, 1, 4, 69.0, 15.0, 5.3, 1.7, 2.6, 3.8, 12.8, 17.6, 57.6, 6.7
+Keita Bates-Diop , BKN, 28, 6-8, 229, Ohio, State, USA, 2018, 2, 48, 53.0, 3.7, 2.1, 0.7, -3.8, 4.9, 11.8, 12.8, 53.4, 8.4
+Keldon Johnson , SAS, 24, 6-5, 220, Kentucky, USA, 2019, 1, 29, 68.0, 15.8, 5.5, 2.9, -7.6, 4.3, 13.5, 21.2, 56.7, 14.3
 Kelly Olynyk , TOR, 32, 6-11, 240, Gonzaga, Canada, 2013, 1, 13, 72.0, 9.4, 5.1, 4.5, -7.8, 6.2, 16.5, 17.0, 65.5, 28.5
-Kelly Oubre Jr. , PHI, 28, 6-7, 203, Kansas, ,, USA, 2015, 1, 15, 61.0, 15.0, 4.9, 1.4, -1.2, 4.5, 11.7, 21.9, 53.0, 7.0
-Kendall Brown , IND, 20, 6-7, 205, Baylor, ,, USA, 2022, 2, 48, 12.0, 1.4, 0.3, 0.3, -19.0, 6.1, 2.5, 13.0, 62.9, 15.4
-Kenneth Lofton Jr. , UTA, 21, 6-6, 275, Louisiana, Tech, ,, USA, Undrafted, Undrafted, Undrafted, 17.0, 2.4, 1.1, 0.8, -2.9, 1.6, 15.5, 21.0, 41.3, 20.0
-Kenrich Williams , OKC, 29, 6-6, 210, ,, TCU, ,, USA, Undrafted, Undrafted, Undrafted, 61.0, 4.4, 3.0, 1.3, 11.2, 6.7, 14.2, 12.6, 56.0, 11.3
-Kentavious Caldwell-Pope , DEN, 31, 6-5, 204, Georgia, ,, USA, 2013, 1, 8, 69.0, 10.0, 2.4, 2.4, 11.0, 1.4, 6.2, 12.5, 60.0, 9.1
-Keon Ellis , SAC, 24, 6-3, 175, Alabama, ,, USA, Undrafted, Undrafted, Undrafted, 49.0, 4.6, 1.9, 1.4, 8.3, 3.0, 9.3, 11.6, 61.3, 11.3
-Keon Johnson , BKN, 22, 6-5, 185, Tennessee, ,, USA, 2021, 1, 21, 4.0, 7.0, 1.3, 0.8, -20.9, 5.4, 5.1, 22.2, 59.8, 8.3
-Kessler Edwards , SAC, 23, 6-7, 203, Pepperdine, ,, USA, 2021, 2, 44, 48.0, 1.8, 0.8, 0.2, -6.3, 3.3, 12.8, 13.3, 54.9, 6.8
-Kevin Durant , PHX, 35, 6-11, 240, Texas, ,, USA, 2007, 1, 2, 67.0, 27.6, 6.7, 5.2, 4.5, 1.6, 15.8, 28.5, 63.4, 21.8
-Kevin Huerter , SAC, 25, 6-7, 198, Maryland, ,, USA, 2018, 1, 19, 64.0, 10.2, 3.5, 2.6, 2.5, 2.4, 12.4, 17.3, 56.4, 13.8
-Kevin Knox II , DET, 24, 6-7, 215, Kentucky, ,, USA, 2018, 1, 9, 31.0, 7.2, 2.4, 0.7, -7.8, 3.0, 10.8, 15.7, 57.0, 5.7
-Kevin Love , MIA, 35, 6-8, 251, UCLA, ,, USA, 2008, 1, 5, 47.0, 9.0, 6.2, 2.2, 5.7, 5.9, 29.1, 20.3, 60.6, 19.2
-Kevon Harris , ORL, 26, 6-5, 216, Stephen, F., Austin, ,, USA, Undrafted, Undrafted, Undrafted, 2.0, 2.0, 1.0, 0.5, 9.5, 0.0, 28.6, 28.6, 66.7, 20.0
-Kevon Looney , GSW, 28, 6-9, 222, UCLA, ,, USA, 2015, 1, 30, 67.0, 4.6, 5.8, 1.9, -1.0, 11.2, 22.4, 10.7, 62.9, 15.3
-Keyontae Johnson , OKC, 23, 6-4, 230, Kansas, State, ,, USA, 2023, 2, 50, 9.0, 1.2, 1.1, 0.4, -5.8, 6.5, 9.5, 12.8, 34.4, 8.5
-Keyonte George , UTA, 20, 6-4, 185, Baylor, ,, USA, 2023, 1, 16, 68.0, 12.8, 2.9, 4.5, -9.2, 0.8, 9.6, 22.1, 53.2, 25.0
-Khris Middleton , MIL, 32, 6-7, 222, Texas, A&M, ,, USA, 2012, 2, 39, 49.0, 14.9, 4.6, 5.3, 5.4, 2.5, 13.2, 22.7, 59.2, 26.4
+Kelly Oubre Jr. , PHI, 28, 6-7, 203, Kansas, USA, 2015, 1, 15, 61.0, 15.0, 4.9, 1.4, -1.2, 4.5, 11.7, 21.9, 53.0, 7.0
+Kendall Brown , IND, 20, 6-7, 205, Baylor, USA, 2022, 2, 48, 12.0, 1.4, 0.3, 0.3, -19.0, 6.1, 2.5, 13.0, 62.9, 15.4
+Kenneth Lofton Jr. , UTA, 21, 6-6, 275, Louisiana, Tech, USA, Undrafted, Undrafted, Undrafted, 17.0, 2.4, 1.1, 0.8, -2.9, 1.6, 15.5, 21.0, 41.3, 20.0
+Kenrich Williams , OKC, 29, 6-6, 210, ,, TCU, USA, Undrafted, Undrafted, Undrafted, 61.0, 4.4, 3.0, 1.3, 11.2, 6.7, 14.2, 12.6, 56.0, 11.3
+Kentavious Caldwell-Pope , DEN, 31, 6-5, 204, Georgia, USA, 2013, 1, 8, 69.0, 10.0, 2.4, 2.4, 11.0, 1.4, 6.2, 12.5, 60.0, 9.1
+Keon Ellis , SAC, 24, 6-3, 175, Alabama, USA, Undrafted, Undrafted, Undrafted, 49.0, 4.6, 1.9, 1.4, 8.3, 3.0, 9.3, 11.6, 61.3, 11.3
+Keon Johnson , BKN, 22, 6-5, 185, Tennessee, USA, 2021, 1, 21, 4.0, 7.0, 1.3, 0.8, -20.9, 5.4, 5.1, 22.2, 59.8, 8.3
+Kessler Edwards , SAC, 23, 6-7, 203, Pepperdine, USA, 2021, 2, 44, 48.0, 1.8, 0.8, 0.2, -6.3, 3.3, 12.8, 13.3, 54.9, 6.8
+Kevin Durant , PHX, 35, 6-11, 240, Texas, USA, 2007, 1, 2, 67.0, 27.6, 6.7, 5.2, 4.5, 1.6, 15.8, 28.5, 63.4, 21.8
+Kevin Huerter , SAC, 25, 6-7, 198, Maryland, USA, 2018, 1, 19, 64.0, 10.2, 3.5, 2.6, 2.5, 2.4, 12.4, 17.3, 56.4, 13.8
+Kevin Knox II , DET, 24, 6-7, 215, Kentucky, USA, 2018, 1, 9, 31.0, 7.2, 2.4, 0.7, -7.8, 3.0, 10.8, 15.7, 57.0, 5.7
+Kevin Love , MIA, 35, 6-8, 251, UCLA, USA, 2008, 1, 5, 47.0, 9.0, 6.2, 2.2, 5.7, 5.9, 29.1, 20.3, 60.6, 19.2
+Kevon Harris , ORL, 26, 6-5, 216, Stephen, F., Austin, USA, Undrafted, Undrafted, Undrafted, 2.0, 2.0, 1.0, 0.5, 9.5, 0.0, 28.6, 28.6, 66.7, 20.0
+Kevon Looney , GSW, 28, 6-9, 222, UCLA, USA, 2015, 1, 30, 67.0, 4.6, 5.8, 1.9, -1.0, 11.2, 22.4, 10.7, 62.9, 15.3
+Keyontae Johnson , OKC, 23, 6-4, 230, Kansas, State, USA, 2023, 2, 50, 9.0, 1.2, 1.1, 0.4, -5.8, 6.5, 9.5, 12.8, 34.4, 8.5
+Keyonte George , UTA, 20, 6-4, 185, Baylor, USA, 2023, 1, 16, 68.0, 12.8, 2.9, 4.5, -9.2, 0.8, 9.6, 22.1, 53.2, 25.0
+Khris Middleton , MIL, 32, 6-7, 222, Texas, A&M, USA, 2012, 2, 39, 49.0, 14.9, 4.6, 5.3, 5.4, 2.5, 13.2, 22.7, 59.2, 26.4
 Killian Hayes , DET, 22, 6-5, 195, None, France, 2020, 1, 7, 42.0, 6.9, 2.8, 4.9, -11.1, 1.1, 10.7, 14.7, 47.4, 26.8
-Kira Lewis Jr. , UTA, 22, 6-1, 170, Alabama, ,, USA, 2020, 1, 13, 25.0, 2.8, 0.9, 1.2, -8.2, 3.5, 5.9, 18.4, 43.4, 24.2
-Klay Thompson , GSW, 34, 6-6, 220, Washington, State, ,, USA, 2011, 1, 11, 70.0, 17.3, 3.3, 2.2, -1.5, 1.5, 9.3, 23.0, 56.7, 10.8
-Kobe Brown , LAC, 24, 6-7, 250, Missouri, ,, USA, 2023, 1, 30, 38.0, 1.7, 1.2, 0.4, -9.9, 3.2, 12.5, 10.1, 49.3, 7.5
-Kobe Bufkin , ATL, 20, 6-5, 195, Michigan, ,, USA, 2023, 1, 15, 9.0, 3.7, 1.6, 1.7, 3.1, 2.2, 11.9, 20.3, 42.6, 25.0
-Kobi Simmons , TOR, 26, 6-5, 180, Arizona, ,, USA, Undrafted, Undrafted, Undrafted, 3.0, 5.0, 1.3, 3.0, -27.6, 1.6, 5.8, 14.5, 41.7, 26.5
-Kris Dunn , UTA, 30, 6-3, 205, Providence, ,, USA, 2016, 1, 5, 64.0, 5.4, 2.9, 3.9, 0.6, 3.9, 11.0, 13.3, 54.4, 25.3
-Kris Murray , POR, 23, 6-8, 210, Iowa, ,, USA, 2023, 1, 23, 54.0, 5.4, 3.1, 1.3, -5.9, 5.0, 11.0, 13.5, 48.3, 9.3
+Kira Lewis Jr. , UTA, 22, 6-1, 170, Alabama, USA, 2020, 1, 13, 25.0, 2.8, 0.9, 1.2, -8.2, 3.5, 5.9, 18.4, 43.4, 24.2
+Klay Thompson , GSW, 34, 6-6, 220, Washington, State, USA, 2011, 1, 11, 70.0, 17.3, 3.3, 2.2, -1.5, 1.5, 9.3, 23.0, 56.7, 10.8
+Kobe Brown , LAC, 24, 6-7, 250, Missouri, USA, 2023, 1, 30, 38.0, 1.7, 1.2, 0.4, -9.9, 3.2, 12.5, 10.1, 49.3, 7.5
+Kobe Bufkin , ATL, 20, 6-5, 195, Michigan, USA, 2023, 1, 15, 9.0, 3.7, 1.6, 1.7, 3.1, 2.2, 11.9, 20.3, 42.6, 25.0
+Kobi Simmons , TOR, 26, 6-5, 180, Arizona, USA, Undrafted, Undrafted, Undrafted, 3.0, 5.0, 1.3, 3.0, -27.6, 1.6, 5.8, 14.5, 41.7, 26.5
+Kris Dunn , UTA, 30, 6-3, 205, Providence, USA, 2016, 1, 5, 64.0, 5.4, 2.9, 3.9, 0.6, 3.9, 11.0, 13.3, 54.4, 25.3
+Kris Murray , POR, 23, 6-8, 210, Iowa, USA, 2023, 1, 23, 54.0, 5.4, 3.1, 1.3, -5.9, 5.0, 11.0, 13.5, 48.3, 9.3
 Kristaps Porzingis , BOS, 28, 7-2, 240, None, Latvia, 2015, 1, 4, 52.0, 20.2, 6.9, 1.9, 11.6, 5.8, 15.6, 24.9, 64.0, 9.3
-Kyle Anderson , MIN, 30, 6-9, 230, UCLA, ,, USA, 2014, 1, 30, 71.0, 6.6, 3.6, 4.3, 5.4, 3.6, 11.8, 13.8, 52.4, 26.3
-Kyle Kuzma , WAS, 28, 6-9, 221, Utah, ,, USA, 2017, 1, 27, 69.0, 22.3, 6.6, 4.2, -11.1, 2.7, 16.7, 29.7, 54.8, 20.3
-Kyle Lowry , PHI, 38, 6-0, 196, Villanova, ,, USA, 2006, 1, 24, 55.0, 8.4, 3.3, 4.2, -1.8, 2.1, 9.8, 13.1, 58.8, 21.4
+Kyle Anderson , MIN, 30, 6-9, 230, UCLA, USA, 2014, 1, 30, 71.0, 6.6, 3.6, 4.3, 5.4, 3.6, 11.8, 13.8, 52.4, 26.3
+Kyle Kuzma , WAS, 28, 6-9, 221, Utah, USA, 2017, 1, 27, 69.0, 22.3, 6.6, 4.2, -11.1, 2.7, 16.7, 29.7, 54.8, 20.3
+Kyle Lowry , PHI, 38, 6-0, 196, Villanova, USA, 2006, 1, 24, 55.0, 8.4, 3.3, 4.2, -1.8, 2.1, 9.8, 13.1, 58.8, 21.4
 Kyrie Irving , DAL, 32, 6-2, 195, Duke, Australia, 2011, 1, 1, 52.0, 25.3, 5.0, 5.3, 5.9, 2.1, 11.6, 27.5, 60.2, 23.3
-LaMelo Ball , CHA, 22, 6-7, 180, None, ,, USA, 2020, 1, 3, 22.0, 23.9, 5.1, 8.0, -8.4, 3.8, 12.2, 31.5, 56.1, 39.5
-Lamar Stevens , MEM, 26, 6-7, 230, Penn, State, ,, USA, Undrafted, Undrafted, Undrafted, 34.0, 6.6, 3.0, 0.6, -2.3, 5.7, 14.7, 21.8, 53.1, 8.7
-Landry Shamet , WAS, 27, 6-4, 190, Wichita, State, ,, USA, 2018, 1, 26, 46.0, 7.1, 1.3, 1.2, -9.9, 2.1, 6.5, 18.1, 55.6, 10.4
-Larry Nance Jr. , NOP, 31, 6-8, 245, Wyoming, ,, USA, 2015, 1, 27, 55.0, 5.6, 5.1, 1.7, 3.9, 7.6, 18.2, 10.8, 66.5, 11.7
+LaMelo Ball , CHA, 22, 6-7, 180, None, USA, 2020, 1, 3, 22.0, 23.9, 5.1, 8.0, -8.4, 3.8, 12.2, 31.5, 56.1, 39.5
+Lamar Stevens , MEM, 26, 6-7, 230, Penn, State, USA, Undrafted, Undrafted, Undrafted, 34.0, 6.6, 3.0, 0.6, -2.3, 5.7, 14.7, 21.8, 53.1, 8.7
+Landry Shamet , WAS, 27, 6-4, 190, Wichita, State, USA, 2018, 1, 26, 46.0, 7.1, 1.3, 1.2, -9.9, 2.1, 6.5, 18.1, 55.6, 10.4
+Larry Nance Jr. , NOP, 31, 6-8, 245, Wyoming, USA, 2015, 1, 27, 55.0, 5.6, 5.1, 1.7, 3.9, 7.6, 18.2, 10.8, 66.5, 11.7
 Lauri Markkanen , UTA, 26, 7-0, 240, Arizona, Finland, 2017, 1, 7, 55.0, 23.2, 8.2, 2.0, 0.6, 6.5, 17.6, 24.1, 63.1, 9.0
-LeBron James , LAL, 39, 6-9, 250, None, ,, USA, 2003, 1, 1, 65.0, 25.4, 7.3, 8.1, 3.5, 2.5, 17.3, 28.5, 62.6, 35.0
-Leaky Black , CHA, 24, 6-6, 209, North, Carolina, ,, USA, Undrafted, Undrafted, Undrafted, 22.0, 2.3, 1.7, 0.8, -8.2, 3.5, 13.8, 10.1, 55.4, 11.3
+LeBron James , LAL, 39, 6-9, 250, None, USA, 2003, 1, 1, 65.0, 25.4, 7.3, 8.1, 3.5, 2.5, 17.3, 28.5, 62.6, 35.0
+Leaky Black , CHA, 24, 6-6, 209, North, Carolina, USA, Undrafted, Undrafted, Undrafted, 22.0, 2.3, 1.7, 0.8, -8.2, 3.5, 13.8, 10.1, 55.4, 11.3
 Leonard Miller , MIN, 20, 6-10, 210, None, Canada, 2023, 2, 33, 11.0, 1.4, 1.1, 0.5, -18.8, 6.1, 29.4, 14.8, 68.2, 26.3
-Lester Quinones , GSW, 23, 6-4, 208, Memphis, ,, USA, Undrafted, Undrafted, Undrafted, 33.0, 4.3, 2.1, 1.0, 0.8, 4.8, 13.2, 16.2, 52.3, 12.1
+Lester Quinones , GSW, 23, 6-4, 208, Memphis, USA, Undrafted, Undrafted, Undrafted, 33.0, 4.3, 2.1, 1.0, 0.8, 4.8, 13.2, 16.2, 52.3, 12.1
 Lindell Wigginton , MIL, 26, 6-1, 189, Iowa, State, Canada, 2019, 3.0, 2.0, 0.0, 0.0, -66.5, 0.0, 0.0, 41.2, 51.0, 0.0
-Lindy Waters III , OKC, 26, 6-6, 210, Oklahoma, State, ,, USA, Undrafted, Undrafted, Undrafted, 31.0, 2.6, 1.0, 0.5, -5.8, 1.9, 12.4, 16.0, 59.0, 12.6
-Lonnie Walker IV , BKN, 25, 6-4, 204, Miami, ,, USA, 2018, 1, 18, 53.0, 9.7, 2.0, 1.2, 1.7, 1.1, 10.5, 23.7, 55.7, 10.9
+Lindy Waters III , OKC, 26, 6-6, 210, Oklahoma, State, USA, Undrafted, Undrafted, Undrafted, 31.0, 2.6, 1.0, 0.5, -5.8, 1.9, 12.4, 16.0, 59.0, 12.6
+Lonnie Walker IV , BKN, 25, 6-4, 204, Miami, USA, 2018, 1, 18, 53.0, 9.7, 2.0, 1.2, 1.7, 1.1, 10.5, 23.7, 55.7, 10.9
 Luguentz Dort , OKC, 24, 6-4, 220, Arizona, State, Canada, Undrafted, Undrafted, Undrafted, 72.0, 10.6, 3.6, 1.4, 7.9, 3.6, 8.8, 14.8, 59.1, 5.9
 Luka Doncic , DAL, 25, 6-7, 230, None, Slovenia, 2018, 1, 3, 65.0, 34.0, 9.1, 9.8, 4.6, 2.2, 21.6, 35.5, 61.7, 42.9
-Luka Garza , MIN, 25, 6-10, 243, Iowa, ,, USA, 2021, 2, 52, 20.0, 3.6, 1.2, 0.2, -13.8, 10.9, 11.8, 26.9, 55.5, 5.1
+Luka Garza , MIN, 25, 6-10, 243, Iowa, USA, 2021, 2, 52, 20.0, 3.6, 1.2, 0.2, -13.8, 10.9, 11.8, 26.9, 55.5, 5.1
 Luka Samanic , UTA, 24, 6-10, 227, None, Croatia, 2019, 1, 19, 36.0, 2.9, 1.9, 0.3, -1.4, 4.6, 19.7, 19.3, 47.8, 5.1
-Luke Kennard , MEM, 27, 6-5, 206, Duke, ,, USA, 2017, 1, 12, 37.0, 11.0, 2.9, 3.4, -8.8, 1.2, 10.6, 16.6, 64.2, 20.7
-Luke Kornet , BOS, 28, 7-1, 250, Vanderbilt, ,, USA, Undrafted, Undrafted, Undrafted, 55.0, 5.2, 4.1, 1.0, 9.4, 11.8, 13.8, 10.8, 72.2, 8.7
-Malachi Flynn , DET, 25, 6-1, 185, San, Diego, State, ,, USA, 2020, 1, 29, 61.0, 4.5, 1.6, 1.7, -9.6, 2.5, 10.9, 17.7, 53.2, 21.6
-Malaki Branham , SAS, 20, 6-4, 180, Ohio, State, ,, USA, 2022, 1, 20, 70.0, 8.8, 1.9, 2.1, -11.7, 1.8, 7.5, 19.2, 52.0, 15.1
-Malcolm Brogdon , POR, 31, 6-4, 229, Virginia, ,, USA, 2016, 2, 36, 39.0, 15.7, 3.8, 5.5, -3.7, 2.4, 10.8, 22.6, 56.0, 30.1
+Luke Kennard , MEM, 27, 6-5, 206, Duke, USA, 2017, 1, 12, 37.0, 11.0, 2.9, 3.4, -8.8, 1.2, 10.6, 16.6, 64.2, 20.7
+Luke Kornet , BOS, 28, 7-1, 250, Vanderbilt, USA, Undrafted, Undrafted, Undrafted, 55.0, 5.2, 4.1, 1.0, 9.4, 11.8, 13.8, 10.8, 72.2, 8.7
+Malachi Flynn , DET, 25, 6-1, 185, San, Diego, State, USA, 2020, 1, 29, 61.0, 4.5, 1.6, 1.7, -9.6, 2.5, 10.9, 17.7, 53.2, 21.6
+Malaki Branham , SAS, 20, 6-4, 180, Ohio, State, USA, 2022, 1, 20, 70.0, 8.8, 1.9, 2.1, -11.7, 1.8, 7.5, 19.2, 52.0, 15.1
+Malcolm Brogdon , POR, 31, 6-4, 229, Virginia, USA, 2016, 2, 36, 39.0, 15.7, 3.8, 5.5, -3.7, 2.4, 10.8, 22.6, 56.0, 30.1
 Malcolm Cazalon , DET, 22, 6-6, 185, None, France, Undrafted, Undrafted, Undrafted, 1.0, 0.0, 0.0, 0.0, 83.3, 0.0, 0.0, 0.0, 0.0, 0.0
-Malik Beasley , MIL, 27, 6-4, 187, Florida, State, ,, USA, 2016, 1, 19, 71.0, 11.7, 3.8, 1.4, 7.7, 1.9, 9.8, 14.2, 61.9, 5.8
-Malik Monk , SAC, 26, 6-3, 200, Kentucky, ,, USA, 2017, 1, 11, 72.0, 15.4, 2.9, 5.1, 0.1, 1.4, 10.1, 24.7, 56.4, 29.0
+Malik Beasley , MIL, 27, 6-4, 187, Florida, State, USA, 2016, 1, 19, 71.0, 11.7, 3.8, 1.4, 7.7, 1.9, 9.8, 14.2, 61.9, 5.8
+Malik Monk , SAC, 26, 6-3, 200, Kentucky, USA, 2017, 1, 11, 72.0, 15.4, 2.9, 5.1, 0.1, 1.4, 10.1, 24.7, 56.4, 29.0
 Mamadi Diakite , NYK, 27, 6-9, 228, Virginia, Guinea, Undrafted, Undrafted, Undrafted, 5.0, 2.4, 0.8, 0.4, 6.0, 4.0, 11.5, 17.9, 69.4, 16.7
 Maozinha Pereira , MEM, 23, 6-8, 177, None, Brazil, Undrafted, Undrafted, Undrafted, 5.0, 3.6, 3.4, 0.2, -4.2, 10.7, 15.8, 14.2, 49.5, 3.2
-MarJon Beauchamp , MIL, 23, 6-7, 199, None, ,, USA, 2022, 1, 24, 46.0, 4.3, 2.1, 0.7, -0.9, 3.8, 12.0, 13.8, 58.2, 6.6
-Marcus Morris Sr. , CLE, 34, 6-8, 218, Kansas, ,, USA, 2011, 1, 14, 44.0, 6.7, 2.9, 0.8, -3.3, 2.6, 14.6, 16.3, 56.0, 6.6
-Marcus Sasser , DET, 23, 6-2, 195, Houston, ,, USA, 2023, 1, 25, 64.0, 7.6, 1.7, 3.2, -8.0, 0.7, 9.1, 18.9, 54.6, 26.7
-Marcus Smart , MEM, 30, 6-3, 220, Oklahoma, State, ,, USA, 2014, 1, 6, 20.0, 14.5, 2.7, 4.3, -0.8, 0.9, 7.3, 22.5, 55.2, 21.1
-Mark Williams , CHA, 22, 7-0, 240, Duke, ,, USA, 2022, 1, 15, 19.0, 12.7, 9.7, 1.2, -1.2, 14.3, 20.9, 16.2, 67.5, 5.9
-Markelle Fultz , ORL, 25, 6-4, 209, Washington, ,, USA, 2017, 1, 1, 35.0, 7.7, 3.2, 3.0, 2.3, 6.0, 9.3, 17.9, 48.2, 20.1
-Markieff Morris , DAL, 34, 6-9, 245, Kansas, ,, USA, 2011, 1, 13, 22.0, 2.5, 1.4, 0.5, -14.9, 2.2, 14.9, 15.5, 50.2, 10.0
-Markquis Nowell , TOR, 24, 5-7, 160, Kansas, State, ,, USA, Undrafted, Undrafted, Undrafted, 1.0, 2.0, 2.0, 2.0, 66.1, 50.0, 0.0, 22.2, 53.2, 100
-Marques Bolden , CHA, 25, 6-10, 249, Duke, ,, USA, 2019, 4.0, 0.0, 0.8, 0.0, 15.5, 0.0, 14.3, 5.3, 0.0, 0.0
-Marvin Bagley III , WAS, 25, 6-10, 235, Duke, ,, USA, 2018, 1, 2, 49.0, 11.8, 6.3, 1.1, -6.3, 12.0, 17.5, 20.3, 63.1, 7.9
-Mason Jones , SAC, 25, 6-4, 200, Arkansas, ,, USA, Undrafted, Undrafted, Undrafted, 3.0, 2.3, 1.7, 1.7, 11.5, 3.7, 20.0, 15.4, 50.9, 33.3
-Mason Plumlee , LAC, 34, 6-10, 254, Duke, ,, USA, 2013, 1, 22, 39.0, 5.4, 5.0, 1.1, 1.8, 9.9, 24.7, 14.5, 65.5, 10.1
-Matisse Thybulle , POR, 27, 6-5, 201, Washington, ,, USA, 2019, 1, 20, 65.0, 5.4, 2.1, 1.4, -7.4, 1.9, 7.4, 10.5, 53.7, 8.3
-Matt Hurt , MEM, 23, 6-9, 233, Duke, ,, USA, Undrafted, Undrafted, Undrafted, 8.0, 4.0, 2.0, 0.5, -6.0, 7.0, 6.0, 13.4, 45.3, 6.2
-Matt Ryan , NOP, 26, 6-6, 215, Tennessee-Chattanooga, ,, USA, Undrafted, Undrafted, Undrafted, 24.0, 6.3, 1.6, 0.7, 2.6, 1.5, 8.0, 14.8, 64.3, 6.3
-Max Christie , LAL, 21, 6-5, 190, Michigan, State, ,, USA, 2022, 2, 35, 61.0, 4.4, 2.2, 0.9, -1.6, 1.5, 11.9, 13.0, 54.8, 8.0
-Max Strus , CLE, 28, 6-5, 215, DePaul, ,, USA, Undrafted, Undrafted, Undrafted, 63.0, 12.3, 4.6, 3.7, 5.6, 2.8, 11.1, 16.8, 55.2, 15.6
+MarJon Beauchamp , MIL, 23, 6-7, 199, None, USA, 2022, 1, 24, 46.0, 4.3, 2.1, 0.7, -0.9, 3.8, 12.0, 13.8, 58.2, 6.6
+Marcus Morris Sr. , CLE, 34, 6-8, 218, Kansas, USA, 2011, 1, 14, 44.0, 6.7, 2.9, 0.8, -3.3, 2.6, 14.6, 16.3, 56.0, 6.6
+Marcus Sasser , DET, 23, 6-2, 195, Houston, USA, 2023, 1, 25, 64.0, 7.6, 1.7, 3.2, -8.0, 0.7, 9.1, 18.9, 54.6, 26.7
+Marcus Smart , MEM, 30, 6-3, 220, Oklahoma, State, USA, 2014, 1, 6, 20.0, 14.5, 2.7, 4.3, -0.8, 0.9, 7.3, 22.5, 55.2, 21.1
+Mark Williams , CHA, 22, 7-0, 240, Duke, USA, 2022, 1, 15, 19.0, 12.7, 9.7, 1.2, -1.2, 14.3, 20.9, 16.2, 67.5, 5.9
+Markelle Fultz , ORL, 25, 6-4, 209, Washington, USA, 2017, 1, 1, 35.0, 7.7, 3.2, 3.0, 2.3, 6.0, 9.3, 17.9, 48.2, 20.1
+Markieff Morris , DAL, 34, 6-9, 245, Kansas, USA, 2011, 1, 13, 22.0, 2.5, 1.4, 0.5, -14.9, 2.2, 14.9, 15.5, 50.2, 10.0
+Markquis Nowell , TOR, 24, 5-7, 160, Kansas, State, USA, Undrafted, Undrafted, Undrafted, 1.0, 2.0, 2.0, 2.0, 66.1, 50.0, 0.0, 22.2, 53.2, 100
+Marques Bolden , CHA, 25, 6-10, 249, Duke, USA, 2019, 4.0, 0.0, 0.8, 0.0, 15.5, 0.0, 14.3, 5.3, 0.0, 0.0
+Marvin Bagley III , WAS, 25, 6-10, 235, Duke, USA, 2018, 1, 2, 49.0, 11.8, 6.3, 1.1, -6.3, 12.0, 17.5, 20.3, 63.1, 7.9
+Mason Jones , SAC, 25, 6-4, 200, Arkansas, USA, Undrafted, Undrafted, Undrafted, 3.0, 2.3, 1.7, 1.7, 11.5, 3.7, 20.0, 15.4, 50.9, 33.3
+Mason Plumlee , LAC, 34, 6-10, 254, Duke, USA, 2013, 1, 22, 39.0, 5.4, 5.0, 1.1, 1.8, 9.9, 24.7, 14.5, 65.5, 10.1
+Matisse Thybulle , POR, 27, 6-5, 201, Washington, USA, 2019, 1, 20, 65.0, 5.4, 2.1, 1.4, -7.4, 1.9, 7.4, 10.5, 53.7, 8.3
+Matt Hurt , MEM, 23, 6-9, 233, Duke, USA, Undrafted, Undrafted, Undrafted, 8.0, 4.0, 2.0, 0.5, -6.0, 7.0, 6.0, 13.4, 45.3, 6.2
+Matt Ryan , NOP, 26, 6-6, 215, Tennessee-Chattanooga, USA, Undrafted, Undrafted, Undrafted, 24.0, 6.3, 1.6, 0.7, 2.6, 1.5, 8.0, 14.8, 64.3, 6.3
+Max Christie , LAL, 21, 6-5, 190, Michigan, State, USA, 2022, 2, 35, 61.0, 4.4, 2.2, 0.9, -1.6, 1.5, 11.9, 13.0, 54.8, 8.0
+Max Strus , CLE, 28, 6-5, 215, DePaul, USA, Undrafted, Undrafted, Undrafted, 63.0, 12.3, 4.6, 3.7, 5.6, 2.8, 11.1, 16.8, 55.2, 15.6
 Maxi Kleber , DAL, 32, 6-10, 240, None, Germany, Undrafted, Undrafted, Undrafted, 37.0, 4.2, 3.2, 1.5, 3.6, 3.1, 12.5, 9.5, 54.8, 9.5
-Maxwell Lewis , LAL, 21, 6-7, 195, Pepperdine, ,, USA, 2023, 2, 40, 28.0, 0.3, 0.1, 0.2, -31.9, 1.1, 2.2, 10.7, 23.3, 10.4
-Micah Potter , UTA, 25, 6-9, 248, Wisconsin, ,, USA, Undrafted, Undrafted, Undrafted, 12.0, 2.8, 2.3, 0.2, -6.2, 3.7, 15.6, 8.4, 76.2, 2.4
-Michael Porter Jr. , DEN, 25, 6-10, 218, Missouri, ,, USA, 2018, 1, 14, 74.0, 16.9, 7.0, 1.5, 7.9, 4.3, 17.8, 20.0, 61.1, 6.4
-Mikal Bridges , BKN, 27, 6-6, 209, Villanova, ,, USA, 2018, 1, 10, 75.0, 20.3, 4.7, 3.7, -3.0, 2.3, 10.9, 24.2, 56.1, 16.2
-Mike Conley , MIN, 36, 6-0, 175, Ohio, State, ,, USA, 2007, 1, 4, 69.0, 11.3, 2.8, 6.0, 6.7, 1.7, 8.0, 15.4, 62.2, 29.4
-Mike Muscala , OKC, 32, 6-10, 240, Bucknell, ,, USA, 2013, 2, 44, 46.0, 3.2, 2.4, 0.8, -7.4, 5.9, 14.0, 13.5, 47.6, 8.7
-Miles Bridges , CHA, 26, 6-7, 225, Michigan, State, ,, USA, 2018, 1, 12, 63.0, 21.3, 7.4, 3.3, -12.3, 2.7, 17.7, 24.3, 55.6, 14.3
-Miles McBride , NYK, 23, 6-1, 195, West, Virginia, ,, USA, 2021, 2, 36, 61.0, 7.9, 1.3, 1.6, 0.6, 2.1, 5.0, 16.4, 59.3, 13.3
-Mitchell Robinson , NYK, 26, 7-0, 240, Western, Kentucky, ,, USA, 2018, 2, 36, 23.0, 6.3, 10.0, 0.7, 3.2, 17.1, 18.1, 10.0, 56.0, 3.1
-Mo Bamba , PHI, 25, 7-0, 231, Texas, ,, USA, 2018, 1, 6, 53.0, 4.6, 4.2, 0.8, -3.1, 9.6, 21.5, 15.1, 58.3, 8.5
-Monte Morris , MIN, 28, 6-2, 183, Iowa, State, ,, USA, 2017, 2, 51, 25.0, 5.0, 1.6, 2.2, 6.0, 1.5, 9.3, 15.7, 49.0, 20.6
+Maxwell Lewis , LAL, 21, 6-7, 195, Pepperdine, USA, 2023, 2, 40, 28.0, 0.3, 0.1, 0.2, -31.9, 1.1, 2.2, 10.7, 23.3, 10.4
+Micah Potter , UTA, 25, 6-9, 248, Wisconsin, USA, Undrafted, Undrafted, Undrafted, 12.0, 2.8, 2.3, 0.2, -6.2, 3.7, 15.6, 8.4, 76.2, 2.4
+Michael Porter Jr. , DEN, 25, 6-10, 218, Missouri, USA, 2018, 1, 14, 74.0, 16.9, 7.0, 1.5, 7.9, 4.3, 17.8, 20.0, 61.1, 6.4
+Mikal Bridges , BKN, 27, 6-6, 209, Villanova, USA, 2018, 1, 10, 75.0, 20.3, 4.7, 3.7, -3.0, 2.3, 10.9, 24.2, 56.1, 16.2
+Mike Conley , MIN, 36, 6-0, 175, Ohio, State, USA, 2007, 1, 4, 69.0, 11.3, 2.8, 6.0, 6.7, 1.7, 8.0, 15.4, 62.2, 29.4
+Mike Muscala , OKC, 32, 6-10, 240, Bucknell, USA, 2013, 2, 44, 46.0, 3.2, 2.4, 0.8, -7.4, 5.9, 14.0, 13.5, 47.6, 8.7
+Miles Bridges , CHA, 26, 6-7, 225, Michigan, State, USA, 2018, 1, 12, 63.0, 21.3, 7.4, 3.3, -12.3, 2.7, 17.7, 24.3, 55.6, 14.3
+Miles McBride , NYK, 23, 6-1, 195, West, Virginia, USA, 2021, 2, 36, 61.0, 7.9, 1.3, 1.6, 0.6, 2.1, 5.0, 16.4, 59.3, 13.3
+Mitchell Robinson , NYK, 26, 7-0, 240, Western, Kentucky, USA, 2018, 2, 36, 23.0, 6.3, 10.0, 0.7, 3.2, 17.1, 18.1, 10.0, 56.0, 3.1
+Mo Bamba , PHI, 25, 7-0, 231, Texas, USA, 2018, 1, 6, 53.0, 4.6, 4.2, 0.8, -3.1, 9.6, 21.5, 15.1, 58.3, 8.5
+Monte Morris , MIN, 28, 6-2, 183, Iowa, State, USA, 2017, 2, 51, 25.0, 5.0, 1.6, 2.2, 6.0, 1.5, 9.3, 15.7, 49.0, 20.6
 Moritz Wagner , ORL, 26, 6-11, 245, Michigan, Germany, 2018, 1, 25, 72.0, 10.8, 4.4, 1.3, 3.1, 8.8, 16.9, 21.8, 67.3, 11.3
-Moses Brown , POR, 24, 7-2, 258, UCLA, ,, USA, Undrafted, Undrafted, Undrafted, 19.0, 2.8, 3.6, 0.3, -15.1, 15.0, 24.5, 16.6, 43.5, 5.7
-Moses Moody , GSW, 21, 6-5, 211, Arkansas, ,, USA, 2021, 1, 14, 58.0, 8.1, 3.0, 0.8, 2.5, 5.4, 11.0, 17.8, 57.9, 6.7
-Mouhamadou Gueye , TOR, 25, 6-9, 210, Pittsburgh, ,, USA, Undrafted, Undrafted, Undrafted, 8.0, 1.8, 1.4, 0.3, -38.8, 11.4, 3.9, 19.3, 30.9, 6.7
+Moses Brown , POR, 24, 7-2, 258, UCLA, USA, Undrafted, Undrafted, Undrafted, 19.0, 2.8, 3.6, 0.3, -15.1, 15.0, 24.5, 16.6, 43.5, 5.7
+Moses Moody , GSW, 21, 6-5, 211, Arkansas, USA, 2021, 1, 14, 58.0, 8.1, 3.0, 0.8, 2.5, 5.4, 11.0, 17.8, 57.9, 6.7
+Mouhamadou Gueye , TOR, 25, 6-9, 210, Pittsburgh, USA, Undrafted, Undrafted, Undrafted, 8.0, 1.8, 1.4, 0.3, -38.8, 11.4, 3.9, 19.3, 30.9, 6.7
 Mouhamed Gueye , ATL, 21, 6-10, 210, Washington, State, Senegal, 2023, 2, 39, 2.0, 0.0, 0.0, 0.0, -117.3, 0.0, 0.0, 8.3, 0.0, 0.0
 Moussa Diabate , LAC, 22, 6-9, 210, Michigan, France, 2022, 2, 43, 11.0, 2.6, 2.2, 0.4, -3.4, 22.7, 12.9, 17.1, 57.6, 8.9
-Myles Turner , IND, 28, 6-11, 250, Texas, ,, USA, 2015, 1, 11, 71.0, 16.9, 6.9, 1.3, 4.5, 5.6, 19.3, 23.3, 61.8, 6.4
-Naji Marshall , NOP, 26, 6-6, 220, Xavier, ,, USA, Undrafted, Undrafted, Undrafted, 62.0, 7.3, 3.7, 2.0, 9.3, 4.3, 14.3, 16.0, 57.4, 13.8
-Nassir Little , PHX, 24, 6-6, 220, North, Carolina, ,, USA, 2019, 1, 25, 40.0, 3.7, 1.8, 0.5, -8.4, 3.1, 12.1, 12.7, 58.5, 7.0
-Nate Hinton , HOU, 24, 6-5, 210, Houston, ,, USA, Undrafted, Undrafted, Undrafted, 11.0, 2.8, 1.1, 0.5, 12.1, 5.3, 13.2, 16.1, 69.8, 13.0
-Nate Williams , HOU, 25, 6-5, 205, Buffalo, ,, USA, Undrafted, Undrafted, Undrafted, 18.0, 2.4, 0.9, 0.4, 7.7, 8.8, 5.4, 16.3, 54.5, 9.0
+Myles Turner , IND, 28, 6-11, 250, Texas, USA, 2015, 1, 11, 71.0, 16.9, 6.9, 1.3, 4.5, 5.6, 19.3, 23.3, 61.8, 6.4
+Naji Marshall , NOP, 26, 6-6, 220, Xavier, USA, Undrafted, Undrafted, Undrafted, 62.0, 7.3, 3.7, 2.0, 9.3, 4.3, 14.3, 16.0, 57.4, 13.8
+Nassir Little , PHX, 24, 6-6, 220, North, Carolina, USA, 2019, 1, 25, 40.0, 3.7, 1.8, 0.5, -8.4, 3.1, 12.1, 12.7, 58.5, 7.0
+Nate Hinton , HOU, 24, 6-5, 210, Houston, USA, Undrafted, Undrafted, Undrafted, 11.0, 2.8, 1.1, 0.5, 12.1, 5.3, 13.2, 16.1, 69.8, 13.0
+Nate Williams , HOU, 25, 6-5, 205, Buffalo, USA, Undrafted, Undrafted, Undrafted, 18.0, 2.4, 0.9, 0.4, 7.7, 8.8, 5.4, 16.3, 54.5, 9.0
 Nathan Mensah , CHA, 25, 6-9, 230, San, Diego, State, Ghana, Undrafted, Undrafted, Undrafted, 25.0, 1.3, 2.6, 0.4, -19.6, 8.7, 12.7, 6.8, 49.6, 4.3
-Naz Reid , MIN, 24, 6-9, 264, Louisiana, State, ,, USA, Undrafted, Undrafted, Undrafted, 73.0, 13.1, 5.1, 1.3, 7.0, 3.9, 16.5, 21.8, 59.6, 8.4
+Naz Reid , MIN, 24, 6-9, 264, Louisiana, State, USA, Undrafted, Undrafted, Undrafted, 73.0, 13.1, 5.1, 1.3, 7.0, 3.9, 16.5, 21.8, 59.6, 8.4
 Neemias Queta , BOS, 24, 7-0, 248, Utah, State, Portugal, 2021, 2, 39, 26.0, 4.6, 4.1, 0.5, 20.1, 15.3, 19.6, 14.5, 63.6, 6.1
-Nic Claxton , BKN, 24, 6-11, 215, Georgia, ,, USA, 2019, 2, 31, 65.0, 12.1, 9.9, 2.1, -6.2, 8.8, 23.9, 15.6, 63.2, 10.6
+Nic Claxton , BKN, 24, 6-11, 215, Georgia, USA, 2019, 2, 31, 65.0, 12.1, 9.9, 2.1, -6.2, 8.8, 23.9, 15.6, 63.2, 10.6
 Nick Richards , CHA, 26, 7-0, 245, Kentucky, Jamaica, 2020, 2, 42, 64.0, 9.8, 8.2, 0.8, -12.1, 9.8, 22.1, 13.1, 71.3, 4.5
-Nick Smith Jr. , CHA, 19, 6-2, 185, Arkansas, ,, USA, 2023, 1, 27, 46.0, 5.6, 1.3, 1.1, -12.8, 2.5, 7.1, 19.5, 51.1, 13.3
+Nick Smith Jr. , CHA, 19, 6-2, 185, Arkansas, USA, 2023, 1, 27, 46.0, 5.6, 1.3, 1.1, -12.8, 2.5, 7.1, 19.5, 51.1, 13.3
 Nickeil Alexander-Walker , MIN, 25, 6-5, 205, Virginia, Tech, Canada, 2019, 1, 17, 74.0, 7.6, 2.0, 2.5, 6.9, 2.0, 6.5, 13.9, 56.7, 14.4
 Nicolas Batum , PHI, 35, 6-8, 230, None, France, 2008, 1, 25, 53.0, 5.4, 4.2, 2.1, 4.6, 5.0, 11.6, 8.5, 62.5, 10.4
 Nikola Jokic , DEN, 29, 6-11, 284, None, Serbia, 2014, 2, 41, 72.0, 26.1, 12.3, 9.0, 11.4, 8.7, 27.1, 28.8, 64.7, 39.6
 Nikola Jovic , MIA, 20, 6-10, 205, None, Serbia, 2022, 1, 27, 38.0, 6.7, 4.1, 1.9, 10.3, 3.3, 18.6, 16.4, 56.6, 14.0
 Nikola Vucevic , CHI, 33, 6-10, 260, Southern, California, Montenegro, 2011, 1, 16, 70.0, 18.0, 10.6, 3.4, -3.1, 8.0, 23.0, 23.5, 53.7, 15.6
-Noah Clowney , BKN, 19, 6-9, 210, Alabama, ,, USA, 2023, 1, 21, 16.0, 3.0, 2.3, 0.6, 0.0, 6.3, 16.8, 13.1, 53.0, 7.5
-Norman Powell , LAC, 30, 6-4, 215, UCLA, ,, USA, 2015, 2, 46, 70.0, 14.0, 2.6, 1.1, 4.2, 0.8, 8.7, 19.4, 63.3, 5.9
+Noah Clowney , BKN, 19, 6-9, 210, Alabama, USA, 2023, 1, 21, 16.0, 3.0, 2.3, 0.6, 0.0, 6.3, 16.8, 13.1, 53.0, 7.5
+Norman Powell , LAC, 30, 6-4, 215, UCLA, USA, 2015, 2, 46, 70.0, 14.0, 2.6, 1.1, 4.2, 0.8, 8.7, 19.4, 63.3, 5.9
 OG Anunoby , NYK, 26, 6-7, 240, Indiana, United, Kingdom, 2017, 1, 23, 44.0, 14.9, 4.3, 2.3, 10.5, 2.8, 9.5, 17.3, 60.0, 8.8
-Obi Toppin , IND, 26, 6-9, 220, Dayton, ,, USA, 2020, 1, 8, 75.0, 10.0, 3.8, 1.5, 2.1, 4.8, 13.3, 15.5, 67.2, 8.5
-Ochai Agbaji , TOR, 23, 6-5, 215, Kansas, ,, USA, 2022, 1, 14, 72.0, 5.8, 2.7, 1.0, -8.0, 4.4, 8.4, 13.3, 50.3, 6.8
+Obi Toppin , IND, 26, 6-9, 220, Dayton, USA, 2020, 1, 8, 75.0, 10.0, 3.8, 1.5, 2.1, 4.8, 13.3, 15.5, 67.2, 8.5
+Ochai Agbaji , TOR, 23, 6-5, 215, Kansas, USA, 2022, 1, 14, 72.0, 5.8, 2.7, 1.0, -8.0, 4.4, 8.4, 13.3, 50.3, 6.8
 Olivier Sarr , OKC, 25, 6-10, 240, Kentucky, France, Undrafted, Undrafted, Undrafted, 14.0, 2.4, 2.5, 0.1, 5.1, 11.5, 23.6, 12.9, 66.4, 3.0
 Olivier-Maxence Prosper , DAL, 21, 6-7, 230, Marquette, Canada, 2023, 1, 24, 35.0, 2.4, 1.8, 0.6, -10.3, 6.3, 15.7, 14.3, 46.1, 10.5
 Omer Yurtseven , UTA, 25, 6-11, 275, Georgetown, Turkey, Undrafted, Undrafted, Undrafted, 41.0, 3.6, 3.5, 0.5, -12.2, 11.9, 24.9, 16.6, 57.4, 7.9
 Onuralp Bitim , CHI, 25, 6-6, 215, None, Turkey, Undrafted, Undrafted, Undrafted, 18.0, 3.9, 1.7, 0.7, -8.1, 2.5, 10.5, 13.8, 51.7, 8.3
-Onyeka Okongwu , ATL, 23, 6-10, 240, Southern, California, ,, USA, 2020, 1, 6, 55.0, 10.2, 6.8, 1.3, -0.9, 9.9, 16.9, 13.4, 67.4, 7.1
-Orlando Robinson , MIA, 23, 6-10, 235, Fresno, State, ,, USA, Undrafted, Undrafted, Undrafted, 33.0, 3.0, 2.5, 1.0, 4.9, 10.1, 19.2, 14.5, 59.6, 16.3
+Onyeka Okongwu , ATL, 23, 6-10, 240, Southern, California, USA, 2020, 1, 6, 55.0, 10.2, 6.8, 1.3, -0.9, 9.9, 16.9, 13.4, 67.4, 7.1
+Orlando Robinson , MIA, 23, 6-10, 235, Fresno, State, USA, Undrafted, Undrafted, Undrafted, 33.0, 3.0, 2.5, 1.0, 4.9, 10.1, 19.2, 14.5, 59.6, 16.3
 Oscar Tshiebwe , IND, 24, 6-8, 255, Kentucky, ,, DRC, Undrafted, Undrafted, Undrafted, 8.0, 3.3, 2.0, 0.3, 15.9, 16.7, 22.9, 20.5, 55.3, 6.5
 Oshae Brissett , BOS, 25, 6-7, 210, Syracuse, Canada, Undrafted, Undrafted, Undrafted, 48.0, 3.7, 2.9, 0.8, 12.6, 8.4, 14.5, 12.8, 55.2, 8.6
-Otto Porter Jr. , TOR, 30, 6-8, 230, Georgetown, ,, USA, 2013, 1, 3, 15.0, 2.6, 1.9, 0.5, 4.7, 3.2, 13.0, 8.3, 56.8, 5.8
+Otto Porter Jr. , TOR, 30, 6-8, 230, Georgetown, USA, 2013, 1, 3, 15.0, 2.6, 1.9, 0.5, 4.7, 3.2, 13.0, 8.3, 56.8, 5.8
 Ousmane Dieng , OKC, 20, 6-9, 185, None, France, 2022, 1, 11, 31.0, 3.9, 1.6, 1.1, 0.8, 2.9, 11.1, 16.0, 54.0, 13.7
-P.J. Tucker , LAC, 38, 6-5, 245, Texas, ,, USA, 2006, 2, 35, 25.0, 1.6, 2.8, 0.5, -2.8, 5.9, 12.2, 5.3, 48.4, 4.1
-P.J. Washington , DAL, 25, 6-7, 230, Kentucky, ,, USA, 2019, 1, 12, 66.0, 12.6, 5.5, 1.9, -4.1, 3.8, 14.5, 18.4, 53.2, 8.7
-Paolo Banchero , ORL, 21, 6-10, 250, Duke, ,, USA, 2022, 1, 1, 72.0, 22.4, 6.8, 5.3, 0.3, 3.0, 17.5, 29.0, 55.1, 25.2
+P.J. Tucker , LAC, 38, 6-5, 245, Texas, USA, 2006, 2, 35, 25.0, 1.6, 2.8, 0.5, -2.8, 5.9, 12.2, 5.3, 48.4, 4.1
+P.J. Washington , DAL, 25, 6-7, 230, Kentucky, USA, 2019, 1, 12, 66.0, 12.6, 5.5, 1.9, -4.1, 3.8, 14.5, 18.4, 53.2, 8.7
+Paolo Banchero , ORL, 21, 6-10, 250, Duke, USA, 2022, 1, 1, 72.0, 22.4, 6.8, 5.3, 0.3, 3.0, 17.5, 29.0, 55.1, 25.2
 Pascal Siakam , IND, 29, 6-8, 245, New, Mexico, State, Cameroon, 2016, 1, 27, 73.0, 21.8, 7.1, 4.5, 1.9, 5.0, 15.9, 24.9, 60.1, 19.8
-Pat Connaughton , MIL, 31, 6-5, 209, Notre, Dame, ,, USA, 2015, 2, 41, 68.0, 5.6, 3.1, 2.0, -0.2, 2.9, 11.3, 10.3, 60.2, 11.9
-Pat Spencer , GSW, 27, 6-3, 205, Northwestern, ,, USA, Undrafted, Undrafted, Undrafted, 3.0, 0.7, 0.0, 0.7, -7.6, 0.0, 0.0, 7.1, 100, 66.7
-Patrick Baldwin Jr. , WAS, 21, 6-9, 220, Wisconsin-Milwaukee, ,, USA, 2022, 1, 28, 32.0, 3.0, 2.6, 0.6, -4.3, 3.4, 19.8, 15.4, 42.8, 8.2
-Patrick Beverley , MIL, 35, 6-2, 180, Arkansas, ,, USA, 2009, 2, 42, 68.0, 6.0, 3.1, 2.8, -1.8, 3.1, 11.8, 14.3, 52.9, 20.4
-Patrick Williams , CHI, 22, 6-7, 215, Florida, State, ,, USA, 2020, 1, 4, 43.0, 10.0, 3.9, 1.5, -1.2, 3.9, 10.5, 16.3, 55.3, 7.7
+Pat Connaughton , MIL, 31, 6-5, 209, Notre, Dame, USA, 2015, 2, 41, 68.0, 5.6, 3.1, 2.0, -0.2, 2.9, 11.3, 10.3, 60.2, 11.9
+Pat Spencer , GSW, 27, 6-3, 205, Northwestern, USA, Undrafted, Undrafted, Undrafted, 3.0, 0.7, 0.0, 0.7, -7.6, 0.0, 0.0, 7.1, 100, 66.7
+Patrick Baldwin Jr. , WAS, 21, 6-9, 220, Wisconsin-Milwaukee, USA, 2022, 1, 28, 32.0, 3.0, 2.6, 0.6, -4.3, 3.4, 19.8, 15.4, 42.8, 8.2
+Patrick Beverley , MIL, 35, 6-2, 180, Arkansas, USA, 2009, 2, 42, 68.0, 6.0, 3.1, 2.8, -1.8, 3.1, 11.8, 14.3, 52.9, 20.4
+Patrick Williams , CHI, 22, 6-7, 215, Florida, State, USA, 2020, 1, 4, 43.0, 10.0, 3.9, 1.5, -1.2, 3.9, 10.5, 16.3, 55.3, 7.7
 Patty Mills , MIA, 35, 6-2, 180, St., Mary's, Australia, 2009, 2, 55, 30.0, 4.0, 1.1, 1.1, 3.5, 2.1, 6.6, 15.1, 46.9, 10.9
-Paul George , LAC, 33, 6-8, 220, Fresno, State, ,, USA, 2010, 1, 10, 68.0, 22.6, 5.3, 3.6, 9.1, 1.6, 13.8, 26.2, 61.1, 15.6
-Paul Reed , PHI, 24, 6-9, 210, DePaul, ,, USA, 2020, 2, 58, 75.0, 7.2, 5.9, 1.3, 2.5, 11.8, 19.1, 15.5, 57.6, 9.1
-Payton Pritchard , BOS, 26, 6-1, 195, Oregon, ,, USA, 2020, 1, 26, 74.0, 8.6, 3.2, 3.0, 12.4, 3.9, 10.5, 16.0, 58.4, 19.2
-Pete Nance , CLE, 24, 6-10, 225, North, Carolina, ,, USA, Undrafted, Undrafted, Undrafted, 4.0, 0.0, 0.5, 0.0, 21.1, 0.0, 28.6, 10.5, 0.0, 0.0
-Peyton Watson , DEN, 21, 6-7, 200, UCLA, ,, USA, 2022, 1, 30, 73.0, 6.6, 3.0, 1.0, -1.1, 3.7, 11.7, 16.3, 53.9, 7.7
+Paul George , LAC, 33, 6-8, 220, Fresno, State, USA, 2010, 1, 10, 68.0, 22.6, 5.3, 3.6, 9.1, 1.6, 13.8, 26.2, 61.1, 15.6
+Paul Reed , PHI, 24, 6-9, 210, DePaul, USA, 2020, 2, 58, 75.0, 7.2, 5.9, 1.3, 2.5, 11.8, 19.1, 15.5, 57.6, 9.1
+Payton Pritchard , BOS, 26, 6-1, 195, Oregon, USA, 2020, 1, 26, 74.0, 8.6, 3.2, 3.0, 12.4, 3.9, 10.5, 16.0, 58.4, 19.2
+Pete Nance , CLE, 24, 6-10, 225, North, Carolina, USA, Undrafted, Undrafted, Undrafted, 4.0, 0.0, 0.5, 0.0, 21.1, 0.0, 28.6, 10.5, 0.0, 0.0
+Peyton Watson , DEN, 21, 6-7, 200, UCLA, USA, 2022, 1, 30, 73.0, 6.6, 3.0, 1.0, -1.1, 3.7, 11.7, 16.3, 53.9, 7.7
 Precious Achiuwa , NYK, 24, 6-8, 243, Memphis, Nigeria, 2020, 1, 20, 67.0, 8.2, 6.9, 1.4, -0.2, 11.3, 18.2, 16.1, 55.4, 9.1
-Quentin Grimes , DET, 23, 6-5, 210, Houston, ,, USA, 2021, 1, 25, 51.0, 7.0, 2.0, 1.3, -0.9, 1.3, 8.0, 15.5, 51.6, 9.4
-Quenton Jackson , IND, 25, 6-5, 173, Texas, A&M, ,, USA, Undrafted, Undrafted, Undrafted, 1.0, 0.0, 1.0, 0.0, -120.0, 0.0, 50.0, 0.0, 0.0, 0.0
-R.J. Hampton , MIA, 23, 6-4, 175, None, ,, USA, 2020, 1, 24, 8.0, 1.3, 0.8, 1.0, 10.6, 2.6, 4.5, 9.8, 33.6, 12.7
+Quentin Grimes , DET, 23, 6-5, 210, Houston, USA, 2021, 1, 25, 51.0, 7.0, 2.0, 1.3, -0.9, 1.3, 8.0, 15.5, 51.6, 9.4
+Quenton Jackson , IND, 25, 6-5, 173, Texas, A&M, USA, Undrafted, Undrafted, Undrafted, 1.0, 0.0, 1.0, 0.0, -120.0, 0.0, 50.0, 0.0, 0.0, 0.0
+R.J. Hampton , MIA, 23, 6-4, 175, None, USA, 2020, 1, 24, 8.0, 1.3, 0.8, 1.0, 10.6, 2.6, 4.5, 9.8, 33.6, 12.7
 RJ Barrett , TOR, 23, 6-6, 214, Duke, Canada, 2019, 1, 3, 53.0, 19.5, 5.3, 3.2, -2.7, 2.6, 13.7, 25.2, 57.5, 15.3
 Rayan Rupert , POR, 19, 6-6, 185, None, France, 2023, 2, 43, 31.0, 3.4, 1.9, 1.3, -8.8, 4.0, 13.1, 13.7, 50.3, 13.9
-Reggie Bullock Jr. , HOU, 33, 6-6, 205, North, Carolina, ,, USA, 2013, 1, 25, 36.0, 2.4, 1.8, 0.4, -2.1, 1.6, 16.2, 9.9, 57.1, 4.9
-Reggie Jackson , DEN, 33, 6-2, 208, Boston, College, ,, USA, 2011, 1, 24, 75.0, 10.2, 1.9, 3.8, 1.6, 1.7, 6.4, 20.7, 52.8, 24.4
-Richaun Holmes , WAS, 30, 6-9, 235, Bowling, Green, ,, USA, 2015, 2, 37, 40.0, 5.0, 4.6, 0.6, -7.7, 11.5, 19.8, 14.1, 59.3, 6.2
-Ricky Council IV , PHI, 22, 6-6, 207, Arkansas, ,, USA, Undrafted, Undrafted, Undrafted, 27.0, 5.7, 1.5, 0.4, -0.5, 5.1, 12.2, 22.5, 59.8, 7.1
-Robert Covington , PHI, 33, 6-7, 209, Tennessee, State, ,, USA, Undrafted, Undrafted, Undrafted, 29.0, 4.4, 3.3, 0.8, 12.1, 6.4, 12.7, 10.4, 58.0, 6.4
-Robert Williams III , POR, 26, 6-9, 249, Texas, A&M, ,, USA, 2018, 1, 27, 6.0, 6.8, 6.3, 0.8, -13.3, 8.0, 22.7, 12.2, 68.4, 6.5
-Robin Lopez , MIL, 36, 7-1, 281, Stanford, ,, USA, 2008, 1, 15, 16.0, 1.1, 0.3, 0.3, -20.1, 4.5, 3.0, 13.9, 45.3, 8.7
-Ron Harper Jr. , TOR, 23, 6-4, 233, Rutgers, ,, USA, Undrafted, Undrafted, Undrafted, 1.0, 0.0, 0.0, 1.0, -88.9, 0.0, 0.0, 0.0, 0.0, 33.3
-Royce O'Neale , PHX, 30, 6-6, 226, Baylor, ,, USA, Undrafted, Undrafted, Undrafted, 71.0, 7.8, 4.8, 2.8, 1.8, 3.0, 15.3, 13.5, 55.0, 15.3
+Reggie Bullock Jr. , HOU, 33, 6-6, 205, North, Carolina, USA, 2013, 1, 25, 36.0, 2.4, 1.8, 0.4, -2.1, 1.6, 16.2, 9.9, 57.1, 4.9
+Reggie Jackson , DEN, 33, 6-2, 208, Boston, College, USA, 2011, 1, 24, 75.0, 10.2, 1.9, 3.8, 1.6, 1.7, 6.4, 20.7, 52.8, 24.4
+Richaun Holmes , WAS, 30, 6-9, 235, Bowling, Green, USA, 2015, 2, 37, 40.0, 5.0, 4.6, 0.6, -7.7, 11.5, 19.8, 14.1, 59.3, 6.2
+Ricky Council IV , PHI, 22, 6-6, 207, Arkansas, USA, Undrafted, Undrafted, Undrafted, 27.0, 5.7, 1.5, 0.4, -0.5, 5.1, 12.2, 22.5, 59.8, 7.1
+Robert Covington , PHI, 33, 6-7, 209, Tennessee, State, USA, Undrafted, Undrafted, Undrafted, 29.0, 4.4, 3.3, 0.8, 12.1, 6.4, 12.7, 10.4, 58.0, 6.4
+Robert Williams III , POR, 26, 6-9, 249, Texas, A&M, USA, 2018, 1, 27, 6.0, 6.8, 6.3, 0.8, -13.3, 8.0, 22.7, 12.2, 68.4, 6.5
+Robin Lopez , MIL, 36, 7-1, 281, Stanford, USA, 2008, 1, 15, 16.0, 1.1, 0.3, 0.3, -20.1, 4.5, 3.0, 13.9, 45.3, 8.7
+Ron Harper Jr. , TOR, 23, 6-4, 233, Rutgers, USA, Undrafted, Undrafted, Undrafted, 1.0, 0.0, 0.0, 1.0, -88.9, 0.0, 0.0, 0.0, 0.0, 33.3
+Royce O'Neale , PHX, 30, 6-6, 226, Baylor, USA, Undrafted, Undrafted, Undrafted, 71.0, 7.8, 4.8, 2.8, 1.8, 3.0, 15.3, 13.5, 55.0, 15.3
 Rudy Gobert , MIN, 31, 7-1, 258, None, France, 2013, 1, 27, 68.0, 13.8, 12.9, 1.3, 9.0, 11.7, 25.5, 15.2, 67.1, 5.4
 Rui Hachimura , LAL, 26, 6-8, 230, Gonzaga, Japan, 2019, 1, 9, 61.0, 13.2, 4.1, 1.1, 2.7, 3.2, 11.6, 18.1, 62.6, 5.8
-Russell Westbrook , LAC, 35, 6-4, 200, UCLA, ,, USA, 2008, 1, 4, 62.0, 10.9, 5.0, 4.4, 2.9, 6.4, 15.2, 23.7, 51.0, 27.8
-Ryan Arcidiacono , NYK, 30, 6-3, 195, Villanova, ,, USA, Undrafted, Undrafted, Undrafted, 20.0, 0.0, 0.4, 0.2, 2.1, 0.0, 13.8, 7.4, 0.0, 13.3
-Ryan Rollins , MIL, 21, 6-3, 180, Toledo, ,, USA, 2022, 2, 44, 10.0, 4.1, 1.1, 1.1, 38.8, 3.2, 11.8, 23.2, 63.1, 20.0
-Saben Lee , PHX, 24, 6-2, 183, Vanderbilt, ,, USA, 2020, 2, 38, 21.0, 3.2, 1.5, 1.4, 4.8, 5.3, 11.0, 18.9, 47.7, 25.9
-Saddiq Bey , ATL, 24, 6-7, 215, Villanova, ,, USA, 2020, 1, 19, 63.0, 13.7, 6.5, 1.5, -0.5, 7.5, 11.9, 16.3, 54.9, 5.8
-Sam Hauser , BOS, 26, 6-7, 217, Virginia, ,, USA, Undrafted, Undrafted, Undrafted, 71.0, 8.6, 3.4, 0.9, 13.0, 2.5, 12.4, 13.9, 65.1, 5.9
-Sam Merrill , CLE, 27, 6-4, 205, Utah, State, ,, USA, 2020, 2, 60, 57.0, 8.2, 2.0, 1.8, 0.9, 2.0, 9.0, 17.1, 60.5, 14.7
+Russell Westbrook , LAC, 35, 6-4, 200, UCLA, USA, 2008, 1, 4, 62.0, 10.9, 5.0, 4.4, 2.9, 6.4, 15.2, 23.7, 51.0, 27.8
+Ryan Arcidiacono , NYK, 30, 6-3, 195, Villanova, USA, Undrafted, Undrafted, Undrafted, 20.0, 0.0, 0.4, 0.2, 2.1, 0.0, 13.8, 7.4, 0.0, 13.3
+Ryan Rollins , MIL, 21, 6-3, 180, Toledo, USA, 2022, 2, 44, 10.0, 4.1, 1.1, 1.1, 38.8, 3.2, 11.8, 23.2, 63.1, 20.0
+Saben Lee , PHX, 24, 6-2, 183, Vanderbilt, USA, 2020, 2, 38, 21.0, 3.2, 1.5, 1.4, 4.8, 5.3, 11.0, 18.9, 47.7, 25.9
+Saddiq Bey , ATL, 24, 6-7, 215, Villanova, USA, 2020, 1, 19, 63.0, 13.7, 6.5, 1.5, -0.5, 7.5, 11.9, 16.3, 54.9, 5.8
+Sam Hauser , BOS, 26, 6-7, 217, Virginia, USA, Undrafted, Undrafted, Undrafted, 71.0, 8.6, 3.4, 0.9, 13.0, 2.5, 12.4, 13.9, 65.1, 5.9
+Sam Merrill , CLE, 27, 6-4, 205, Utah, State, USA, 2020, 2, 60, 57.0, 8.2, 2.0, 1.8, 0.9, 2.0, 9.0, 17.1, 60.5, 14.7
 Sandro Mamukelashvili , SAS, 24, 6-9, 240, Seton, Hall, Georgia, 2021, 2, 54, 39.0, 2.8, 2.0, 0.9, 5.4, 10.1, 18.4, 16.1, 56.0, 18.0
 Santi Aldama , MEM, 23, 7-0, 215, Loyola-Maryland, Spain, 2021, 1, 30, 60.0, 10.9, 5.8, 2.3, -8.5, 4.2, 17.3, 17.8, 54.0, 13.4
 Sasha Vezenkov , SAC, 28, 6-8, 225, None, Bulgaria, 2017, 2, 57, 36.0, 5.6, 2.4, 0.4, 1.0, 6.5, 12.8, 17.1, 57.9, 4.9
-Scoot Henderson , POR, 20, 6-3, 202, None, ,, USA, 2023, 1, 3, 55.0, 13.3, 3.1, 4.9, -12.9, 2.8, 8.5, 25.8, 48.3, 27.6
-Scottie Barnes , TOR, 22, 6-7, 237, Florida, State, ,, USA, 2021, 1, 4, 60.0, 19.9, 8.2, 6.1, -3.2, 6.4, 16.7, 24.0, 56.6, 25.3
-Scotty Pippen Jr. , MEM, 23, 6-1, 170, Vanderbilt, ,, USA, Undrafted, Undrafted, Undrafted, 13.0, 11.5, 3.2, 4.3, -10.3, 3.3, 10.1, 21.2, 61.9, 31.3
-Seth Curry , CHA, 33, 6-1, 185, Duke, ,, USA, Undrafted, Undrafted, Undrafted, 44.0, 5.1, 1.5, 1.0, 3.1, 2.8, 7.8, 15.9, 51.9, 10.0
-Seth Lundy , ATL, 23, 6-4, 220, Penn, State, ,, USA, 2023, 2, 46, 9.0, 1.6, 0.8, 0.0, -11.7, 2.2, 11.8, 16.8, 37.3, 0.0
+Scoot Henderson , POR, 20, 6-3, 202, None, USA, 2023, 1, 3, 55.0, 13.3, 3.1, 4.9, -12.9, 2.8, 8.5, 25.8, 48.3, 27.6
+Scottie Barnes , TOR, 22, 6-7, 237, Florida, State, USA, 2021, 1, 4, 60.0, 19.9, 8.2, 6.1, -3.2, 6.4, 16.7, 24.0, 56.6, 25.3
+Scotty Pippen Jr. , MEM, 23, 6-1, 170, Vanderbilt, USA, Undrafted, Undrafted, Undrafted, 13.0, 11.5, 3.2, 4.3, -10.3, 3.3, 10.1, 21.2, 61.9, 31.3
+Seth Curry , CHA, 33, 6-1, 185, Duke, USA, Undrafted, Undrafted, Undrafted, 44.0, 5.1, 1.5, 1.0, 3.1, 2.8, 7.8, 15.9, 51.9, 10.0
+Seth Lundy , ATL, 23, 6-4, 220, Penn, State, USA, 2023, 2, 46, 9.0, 1.6, 0.8, 0.0, -11.7, 2.2, 11.8, 16.8, 37.3, 0.0
 Shaedon Sharpe , POR, 20, 6-5, 205, Kentucky, Canada, 2022, 1, 7, 32.0, 15.9, 5.0, 2.9, -10.3, 3.6, 11.6, 22.0, 52.4, 13.8
 Shai Gilgeous-Alexander , OKC, 25, 6-6, 195, Kentucky, Canada, 2018, 1, 11, 71.0, 30.3, 5.5, 6.3, 10.4, 2.6, 12.8, 31.6, 63.8, 29.0
-Shake Milton , NYK, 27, 6-5, 205, Southern, Methodist, ,, USA, 2018, 2, 54, 47.0, 4.6, 1.6, 1.3, -4.9, 2.3, 10.2, 17.3, 49.9, 14.9
-Shaquille Harrison , MEM, 30, 6-4, 195, Tulsa, ,, USA, Undrafted, Undrafted, Undrafted, 3.0, 0.7, 0.7, 0.0, -75.3, 0.0, 40.0, 15.4, 50.0, 0.0
+Shake Milton , NYK, 27, 6-5, 205, Southern, Methodist, USA, 2018, 2, 54, 47.0, 4.6, 1.6, 1.3, -4.9, 2.3, 10.2, 17.3, 49.9, 14.9
+Shaquille Harrison , MEM, 30, 6-4, 195, Tulsa, USA, Undrafted, Undrafted, Undrafted, 3.0, 0.7, 0.7, 0.0, -75.3, 0.0, 40.0, 15.4, 50.0, 0.0
 Sidy Cissoko , SAS, 19, 6-6, 200, None, France, 2023, 2, 44, 6.0, 1.0, 1.0, 0.0, 20.3, 0.0, 17.1, 10.5, 38.7, 0.0
 Simone Fontecchio , DET, 28, 6-7, 209, None, Italy, Undrafted, Undrafted, Undrafted, 66.0, 10.5, 3.7, 1.5, -1.5, 3.7, 10.7, 15.9, 60.0, 8.4
-Skylar Mays , LAL, 26, 6-3, 205, Louisiana, State, ,, USA, 2020, 2, 50, 35.0, 4.4, 1.2, 2.4, -11.1, 2.1, 8.4, 18.0, 46.8, 29.3
-Spencer Dinwiddie , LAL, 30, 6-5, 215, Colorado, ,, USA, 2014, 2, 38, 69.0, 10.7, 2.7, 5.0, 1.0, 1.4, 7.6, 16.5, 53.2, 22.7
-Stanley Umude , DET, 24, 6-6, 210, Arkansas, ,, USA, Undrafted, Undrafted, Undrafted, 24.0, 5.3, 2.1, 0.5, -9.7, 2.7, 13.0, 15.0, 64.7, 5.3
-Stephen Curry , GSW, 36, 6-2, 185, Davidson, ,, USA, 2009, 1, 7, 68.0, 26.6, 4.3, 5.0, 2.3, 1.6, 11.1, 30.3, 61.5, 23.4
+Skylar Mays , LAL, 26, 6-3, 205, Louisiana, State, USA, 2020, 2, 50, 35.0, 4.4, 1.2, 2.4, -11.1, 2.1, 8.4, 18.0, 46.8, 29.3
+Spencer Dinwiddie , LAL, 30, 6-5, 215, Colorado, USA, 2014, 2, 38, 69.0, 10.7, 2.7, 5.0, 1.0, 1.4, 7.6, 16.5, 53.2, 22.7
+Stanley Umude , DET, 24, 6-6, 210, Arkansas, USA, Undrafted, Undrafted, Undrafted, 24.0, 5.3, 2.1, 0.5, -9.7, 2.7, 13.0, 15.0, 64.7, 5.3
+Stephen Curry , GSW, 36, 6-2, 185, Davidson, USA, 2009, 1, 7, 68.0, 26.6, 4.3, 5.0, 2.3, 1.6, 11.1, 30.3, 61.5, 23.4
 Svi Mykhailiuk , BOS, 26, 6-7, 205, Kansas, Ukraine, 2018, 2, 47, 33.0, 3.2, 1.1, 0.7, 13.5, 2.7, 9.0, 15.5, 52.0, 9.7
-T.J. McConnell , IND, 32, 6-1, 190, Arizona, ,, USA, 2015, 0, 64.0, 9.7, 2.7, 5.3, 1.8, 2.9, 12.6, 22.4, 57.9, 39.7
-T.J. Warren , MIN, 30, 6-8, 220, North, Carolina, State, ,, USA, 2014, 1, 14, 8.0, 3.6, 2.1, 0.9, 9.1, 4.1, 11.3, 14.6, 41.6, 8.4
-Taj Gibson , DET, 38, 6-9, 232, Southern, California, ,, USA, 2009, 1, 26, 17.0, 1.1, 1.8, 0.5, -5.8, 5.6, 11.4, 7.7, 36.7, 6.6
-Talen Horton-Tucker , UTA, 23, 6-4, 234, Iowa, State, ,, USA, 2019, 2, 46, 46.0, 9.5, 2.3, 3.6, -5.1, 2.2, 9.7, 23.0, 49.6, 27.7
-Tari Eason , HOU, 22, 6-8, 215, Louisiana, State, ,, USA, 2022, 1, 17, 22.0, 9.8, 7.0, 1.2, 9.4, 8.8, 20.3, 18.8, 52.8, 8.7
-Taurean Prince , LAL, 30, 6-6, 218, Baylor, ,, USA, 2016, 1, 12, 71.0, 9.0, 2.9, 1.5, -3.4, 0.8, 9.2, 13.3, 57.7, 7.2
-Taylor Hendricks , UTA, 20, 6-9, 215, Central, Florida, ,, USA, 2023, 1, 9, 33.0, 6.9, 4.7, 0.6, -8.6, 5.5, 16.3, 13.5, 55.6, 4.2
-Taze Moore , POR, 25, 6-5, 195, Houston, ,, USA, Undrafted, Undrafted, Undrafted, 3.0, 2.0, 0.0, 0.3, 9.9, 0.0, 0.0, 18.8, 60.0, 11.1
-Terance Mann , LAC, 27, 6-5, 215, Florida, State, ,, USA, 2019, 2, 48, 67.0, 8.4, 3.3, 1.6, 1.7, 4.9, 8.5, 13.2, 59.3, 8.7
-Terquavion Smith , PHI, 21, 6-4, 160, North, Carolina, State, ,, USA, Undrafted, Undrafted, Undrafted, 12.0, 3.8, 0.2, 0.8, 0.3, 0.0, 3.0, 23.8, 55.7, 18.9
-Terry Rozier , MIA, 30, 6-1, 190, Louisville, ,, USA, 2015, 1, 16, 57.0, 19.9, 4.2, 5.8, -7.1, 1.7, 11.1, 25.3, 55.0, 27.3
-Terry Taylor , CHI, 24, 6-4, 230, Austin, Peay, ,, USA, Undrafted, Undrafted, Undrafted, 30.0, 1.4, 1.2, 0.3, 2.9, 8.5, 10.3, 10.8, 54.8, 7.2
-Thaddeus Young , PHX, 35, 6-8, 225, Georgia, Tech, ,, USA, 2007, 1, 12, 29.0, 4.6, 3.3, 1.9, -1.0, 10.4, 13.5, 12.7, 60.5, 18.2
+T.J. McConnell , IND, 32, 6-1, 190, Arizona, USA, 2015, 0, 64.0, 9.7, 2.7, 5.3, 1.8, 2.9, 12.6, 22.4, 57.9, 39.7
+T.J. Warren , MIN, 30, 6-8, 220, North, Carolina, State, USA, 2014, 1, 14, 8.0, 3.6, 2.1, 0.9, 9.1, 4.1, 11.3, 14.6, 41.6, 8.4
+Taj Gibson , DET, 38, 6-9, 232, Southern, California, USA, 2009, 1, 26, 17.0, 1.1, 1.8, 0.5, -5.8, 5.6, 11.4, 7.7, 36.7, 6.6
+Talen Horton-Tucker , UTA, 23, 6-4, 234, Iowa, State, USA, 2019, 2, 46, 46.0, 9.5, 2.3, 3.6, -5.1, 2.2, 9.7, 23.0, 49.6, 27.7
+Tari Eason , HOU, 22, 6-8, 215, Louisiana, State, USA, 2022, 1, 17, 22.0, 9.8, 7.0, 1.2, 9.4, 8.8, 20.3, 18.8, 52.8, 8.7
+Taurean Prince , LAL, 30, 6-6, 218, Baylor, USA, 2016, 1, 12, 71.0, 9.0, 2.9, 1.5, -3.4, 0.8, 9.2, 13.3, 57.7, 7.2
+Taylor Hendricks , UTA, 20, 6-9, 215, Central, Florida, USA, 2023, 1, 9, 33.0, 6.9, 4.7, 0.6, -8.6, 5.5, 16.3, 13.5, 55.6, 4.2
+Taze Moore , POR, 25, 6-5, 195, Houston, USA, Undrafted, Undrafted, Undrafted, 3.0, 2.0, 0.0, 0.3, 9.9, 0.0, 0.0, 18.8, 60.0, 11.1
+Terance Mann , LAC, 27, 6-5, 215, Florida, State, USA, 2019, 2, 48, 67.0, 8.4, 3.3, 1.6, 1.7, 4.9, 8.5, 13.2, 59.3, 8.7
+Terquavion Smith , PHI, 21, 6-4, 160, North, Carolina, State, USA, Undrafted, Undrafted, Undrafted, 12.0, 3.8, 0.2, 0.8, 0.3, 0.0, 3.0, 23.8, 55.7, 18.9
+Terry Rozier , MIA, 30, 6-1, 190, Louisville, USA, 2015, 1, 16, 57.0, 19.9, 4.2, 5.8, -7.1, 1.7, 11.1, 25.3, 55.0, 27.3
+Terry Taylor , CHI, 24, 6-4, 230, Austin, Peay, USA, Undrafted, Undrafted, Undrafted, 30.0, 1.4, 1.2, 0.3, 2.9, 8.5, 10.3, 10.8, 54.8, 7.2
+Thaddeus Young , PHX, 35, 6-8, 225, Georgia, Tech, USA, 2007, 1, 12, 29.0, 4.6, 3.3, 1.9, -1.0, 10.4, 13.5, 12.7, 60.5, 18.2
 Thanasis Antetokounmpo , MIL, 31, 6-7, 219, None, Greece, 2014, 2, 51, 29.0, 0.9, 0.4, 0.5, -10.0, 5.0, 4.3, 12.3, 48.4, 14.7
 Theo Maledon , PHX, 22, 6-4, 175, None, France, 2020, 2, 34, 17.0, 3.5, 1.4, 1.6, -13.8, 1.6, 9.3, 17.3, 38.5, 17.4
-Thomas Bryant , MIA, 26, 6-10, 248, Indiana, ,, USA, 2017, 2, 42, 37.0, 5.4, 3.5, 0.6, 1.1, 9.1, 23.0, 18.5, 62.7, 8.0
-Tim Hardaway Jr. , DAL, 32, 6-5, 205, Michigan, ,, USA, 2013, 1, 24, 71.0, 15.1, 3.3, 1.7, 0.6, 1.0, 10.6, 22.2, 54.8, 9.0
-Tobias Harris , PHI, 31, 6-8, 226, Tennessee, ,, USA, 2011, 1, 19, 66.0, 17.2, 6.4, 3.1, 3.8, 3.1, 15.6, 20.4, 57.5, 13.4
-Torrey Craig , CHI, 33, 6-5, 221, South, Carolina, Upstate, ,, USA, Undrafted, Undrafted, Undrafted, 46.0, 6.1, 4.1, 1.1, -7.7, 6.3, 14.4, 12.5, 57.5, 7.6
+Thomas Bryant , MIA, 26, 6-10, 248, Indiana, USA, 2017, 2, 42, 37.0, 5.4, 3.5, 0.6, 1.1, 9.1, 23.0, 18.5, 62.7, 8.0
+Tim Hardaway Jr. , DAL, 32, 6-5, 205, Michigan, USA, 2013, 1, 24, 71.0, 15.1, 3.3, 1.7, 0.6, 1.0, 10.6, 22.2, 54.8, 9.0
+Tobias Harris , PHI, 31, 6-8, 226, Tennessee, USA, 2011, 1, 19, 66.0, 17.2, 6.4, 3.1, 3.8, 3.1, 15.6, 20.4, 57.5, 13.4
+Torrey Craig , CHI, 33, 6-5, 221, South, Carolina, Upstate, USA, Undrafted, Undrafted, Undrafted, 46.0, 6.1, 4.1, 1.1, -7.7, 6.3, 14.4, 12.5, 57.5, 7.6
 Tosan Evbuomwan , DET, 23, 6-7, 217, Princeton, United, Kingdom, Undrafted, Undrafted, Undrafted, 14.0, 5.3, 3.4, 0.7, -17.6, 4.8, 12.3, 11.4, 57.1, 5.5
 Toumani Camara , POR, 23, 6-7, 226, Dayton, Belgium, 2023, 2, 52, 70.0, 7.5, 4.9, 1.2, -4.6, 7.3, 11.9, 13.4, 54.7, 7.2
-Trae Young , ATL, 25, 6-1, 164, Oklahoma, ,, USA, 2018, 1, 5, 51.0, 26.4, 2.7, 10.8, -2.6, 1.1, 6.3, 29.2, 58.1, 43.3
-Trayce Jackson-Davis , GSW, 24, 6-9, 245, Indiana, ,, USA, 2023, 2, 57, 60.0, 7.6, 4.8, 1.2, 1.5, 11.6, 17.0, 15.7, 69.3, 10.3
-Tre Jones , SAS, 24, 6-1, 185, Duke, ,, USA, 2020, 2, 41, 70.0, 9.8, 3.5, 6.1, -1.8, 2.6, 9.8, 14.6, 60.5, 30.0
-Tre Mann , CHA, 23, 6-3, 178, Florida, ,, USA, 2021, 1, 18, 33.0, 8.6, 3.6, 3.7, -6.8, 2.4, 14.1, 18.3, 55.6, 24.8
-Trendon Watford , BKN, 23, 6-8, 237, Louisiana, State, ,, USA, Undrafted, Undrafted, Undrafted, 56.0, 6.2, 2.8, 1.2, 0.8, 6.7, 16.1, 19.8, 62.6, 14.7
-Trent Forrest , ATL, 25, 6-4, 210, Florida, State, ,, USA, Undrafted, Undrafted, Undrafted, 36.0, 2.1, 1.3, 2.4, -9.4, 2.5, 10.1, 12.3, 41.8, 29.9
-Trevelin Queen , ORL, 27, 6-5, 190, New, Mexico, State, ,, USA, Undrafted, Undrafted, Undrafted, 13.0, 3.1, 1.5, 1.4, -0.1, 2.1, 9.6, 13.8, 46.2, 16.7
-Trey Jemison , MEM, 24, 6-10, 260, Alabama-Birmingham, ,, USA, Undrafted, Undrafted, Undrafted, 18.0, 6.2, 4.2, 0.9, -3.1, 10.6, 11.7, 13.6, 61.9, 7.0
+Trae Young , ATL, 25, 6-1, 164, Oklahoma, USA, 2018, 1, 5, 51.0, 26.4, 2.7, 10.8, -2.6, 1.1, 6.3, 29.2, 58.1, 43.3
+Trayce Jackson-Davis , GSW, 24, 6-9, 245, Indiana, USA, 2023, 2, 57, 60.0, 7.6, 4.8, 1.2, 1.5, 11.6, 17.0, 15.7, 69.3, 10.3
+Tre Jones , SAS, 24, 6-1, 185, Duke, USA, 2020, 2, 41, 70.0, 9.8, 3.5, 6.1, -1.8, 2.6, 9.8, 14.6, 60.5, 30.0
+Tre Mann , CHA, 23, 6-3, 178, Florida, USA, 2021, 1, 18, 33.0, 8.6, 3.6, 3.7, -6.8, 2.4, 14.1, 18.3, 55.6, 24.8
+Trendon Watford , BKN, 23, 6-8, 237, Louisiana, State, USA, Undrafted, Undrafted, Undrafted, 56.0, 6.2, 2.8, 1.2, 0.8, 6.7, 16.1, 19.8, 62.6, 14.7
+Trent Forrest , ATL, 25, 6-4, 210, Florida, State, USA, Undrafted, Undrafted, Undrafted, 36.0, 2.1, 1.3, 2.4, -9.4, 2.5, 10.1, 12.3, 41.8, 29.9
+Trevelin Queen , ORL, 27, 6-5, 190, New, Mexico, State, USA, Undrafted, Undrafted, Undrafted, 13.0, 3.1, 1.5, 1.4, -0.1, 2.1, 9.6, 13.8, 46.2, 16.7
+Trey Jemison , MEM, 24, 6-10, 260, Alabama-Birmingham, USA, Undrafted, Undrafted, Undrafted, 18.0, 6.2, 4.2, 0.9, -3.1, 10.6, 11.7, 13.6, 61.9, 7.0
 Trey Lyles , SAC, 28, 6-9, 234, Kentucky, Canada, 2015, 1, 12, 50.0, 7.2, 4.4, 1.2, 6.0, 5.1, 16.8, 13.9, 60.3, 7.5
-Trey Murphy III , NOP, 23, 6-8, 206, Virginia, ,, USA, 2021, 1, 17, 49.0, 14.0, 4.7, 2.1, 8.1, 2.4, 13.7, 18.5, 59.5, 10.3
+Trey Murphy III , NOP, 23, 6-8, 206, Virginia, USA, 2021, 1, 17, 49.0, 14.0, 4.7, 2.1, 8.1, 2.4, 13.7, 18.5, 59.5, 10.3
 Tristan Thompson , CLE, 33, 6-9, 254, Texas-Austin, Canada, 2011, 1, 4, 45.0, 3.4, 3.8, 1.1, 2.4, 13.2, 17.8, 12.9, 58.7, 13.5
 Tristan Vukcevic , WAS, 21, 6-10, 220, None, Italy, 2023, 2, 42, 5.0, 1.8, 1.8, 0.4, 2.9, 0.0, 25.7, 16.2, 45.0, 10.0
-Troy Brown Jr. , DET, 24, 6-7, 215, Oregon, ,, USA, 2018, 1, 15, 51.0, 4.1, 2.2, 1.0, -6.4, 3.0, 14.2, 14.8, 54.0, 11.2
-Ty Jerome , CLE, 26, 6-5, 195, Virginia, ,, USA, 2019, 1, 24, 2.0, 2.0, 0.5, 1.5, -37.1, 6.7, 0.0, 14.7, 50.0, 27.3
-TyTy Washington Jr. , MIL, 22, 6-3, 195, Kentucky, ,, USA, 2022, 1, 29, 5.0, 0.6, 0.2, 0.2, -9.8, 0.0, 5.6, 18.0, 21.4, 10.0
-Tyler Herro , MIA, 24, 6-5, 195, Kentucky, ,, USA, 2019, 1, 13, 36.0, 20.8, 5.3, 4.4, -0.7, 1.5, 14.1, 26.9, 54.9, 21.4
-Tyrese Haliburton , IND, 24, 6-5, 185, Iowa, State, ,, USA, 2020, 1, 12, 62.0, 20.3, 4.0, 11.0, 5.4, 1.7, 10.1, 24.1, 60.2, 45.4
-Tyrese Maxey , PHI, 23, 6-2, 200, Kentucky, ,, USA, 2020, 1, 21, 65.0, 25.6, 3.7, 6.2, 4.1, 1.3, 8.4, 27.1, 56.9, 25.7
-Tyus Jones , WAS, 27, 6-1, 196, Duke, ,, USA, 2015, 1, 24, 66.0, 12.0, 2.7, 7.3, -11.9, 1.0, 8.1, 16.1, 57.8, 33.1
+Troy Brown Jr. , DET, 24, 6-7, 215, Oregon, USA, 2018, 1, 15, 51.0, 4.1, 2.2, 1.0, -6.4, 3.0, 14.2, 14.8, 54.0, 11.2
+Ty Jerome , CLE, 26, 6-5, 195, Virginia, USA, 2019, 1, 24, 2.0, 2.0, 0.5, 1.5, -37.1, 6.7, 0.0, 14.7, 50.0, 27.3
+TyTy Washington Jr. , MIL, 22, 6-3, 195, Kentucky, USA, 2022, 1, 29, 5.0, 0.6, 0.2, 0.2, -9.8, 0.0, 5.6, 18.0, 21.4, 10.0
+Tyler Herro , MIA, 24, 6-5, 195, Kentucky, USA, 2019, 1, 13, 36.0, 20.8, 5.3, 4.4, -0.7, 1.5, 14.1, 26.9, 54.9, 21.4
+Tyrese Haliburton , IND, 24, 6-5, 185, Iowa, State, USA, 2020, 1, 12, 62.0, 20.3, 4.0, 11.0, 5.4, 1.7, 10.1, 24.1, 60.2, 45.4
+Tyrese Maxey , PHI, 23, 6-2, 200, Kentucky, USA, 2020, 1, 21, 65.0, 25.6, 3.7, 6.2, 4.1, 1.3, 8.4, 27.1, 56.9, 25.7
+Tyus Jones , WAS, 27, 6-1, 196, Duke, USA, 2015, 1, 24, 66.0, 12.0, 2.7, 7.3, -11.9, 1.0, 8.1, 16.1, 57.8, 33.1
 Udoka Azubuike , PHX, 24, 6-11, 270, Kansas, Nigeria, 2020, 1, 27, 14.0, 2.5, 2.3, 0.2, -17.2, 10.2, 18.3, 11.9, 65.2, 3.9
 Usman Garuba , GSW, 22, 6-8, 229, None, Spain, 2021, 1, 23, 3.0, 0.0, 0.3, 0.3, -44.4, 8.3, 0.0, 4.2, 0.0, 33.3
 Vasilije Micic , CHA, 30, 6-3, 188, None, Serbia, 2014, 2, 52, 53.0, 6.8, 1.4, 4.1, -1.0, 1.5, 6.0, 18.8, 52.9, 30.3
 Victor Wembanyama , SAS, 20, 7-4, 210, None, France, 2023, 1, 1, 66.0, 21.2, 10.5, 3.6, -3.4, 7.5, 27.3, 31.1, 56.8, 20.5
-Vince Williams Jr. , MEM, 23, 6-4, 205, Virginia, Commonwealth, ,, USA, 2022, 2, 47, 52.0, 10.0, 5.6, 3.4, -3.0, 3.9, 16.3, 15.5, 59.7, 17.7
+Vince Williams Jr. , MEM, 23, 6-4, 205, Virginia, Commonwealth, USA, 2022, 2, 47, 52.0, 10.0, 5.6, 3.4, -3.0, 3.9, 16.3, 15.5, 59.7, 17.7
 Vit Krejci , ATL, 23, 6-8, 195, None, Czech, Republic, 2020, 2, 37, 14.0, 5.9, 2.0, 2.2, 2.8, 1.6, 6.8, 9.0, 61.9, 10.3
-Walker Kessler , UTA, 22, 7-0, 245, Auburn, ,, USA, 2022, 1, 22, 63.0, 8.1, 7.6, 0.9, -4.3, 11.0, 19.9, 12.6, 66.0, 5.7
-Wendell Carter Jr. , ORL, 24, 6-10, 270, Duke, ,, USA, 2018, 1, 7, 47.0, 11.1, 7.0, 1.7, 1.5, 8.2, 20.6, 17.2, 62.2, 9.8
-Wendell Moore Jr. , MIN, 22, 6-5, 215, Duke, ,, USA, 2022, 1, 26, 19.0, 0.5, 0.4, 0.1, -21.6, 0.0, 12.7, 9.9, 45.5, 5.1
+Walker Kessler , UTA, 22, 7-0, 245, Auburn, USA, 2022, 1, 22, 63.0, 8.1, 7.6, 0.9, -4.3, 11.0, 19.9, 12.6, 66.0, 5.7
+Wendell Carter Jr. , ORL, 24, 6-10, 270, Duke, USA, 2018, 1, 7, 47.0, 11.1, 7.0, 1.7, 1.5, 8.2, 20.6, 17.2, 62.2, 9.8
+Wendell Moore Jr. , MIN, 22, 6-5, 215, Duke, USA, 2022, 1, 26, 19.0, 0.5, 0.4, 0.1, -21.6, 0.0, 12.7, 9.9, 45.5, 5.1
 Wenyen Gabriel , MEM, 27, 6-9, 205, Kentucky, South, Sudan, Undrafted, Undrafted, Undrafted, 5.0, 3.4, 5.0, 0.6, -7.4, 7.2, 22.0, 16.6, 35.1, 7.1
-Wesley Matthews , ATL, 37, 6-5, 220, Marquette, ,, USA, Undrafted, Undrafted, Undrafted, 33.0, 3.2, 1.6, 0.7, -5.5, 2.0, 10.7, 11.7, 51.6, 7.7
-Xavier Moon , LAC, 29, 6-0, 165, Morehead, State, ,, USA, Undrafted, Undrafted, Undrafted, 9.0, 1.2, 0.6, 0.8, -44.2, 5.0, 8.1, 21.8, 37.0, 35.0
-Xavier Tillman , BOS, 25, 6-7, 245, Michigan, State, ,, USA, 2020, 2, 35, 47.0, 5.3, 4.2, 1.5, -2.6, 7.0, 14.9, 14.5, 45.5, 11.4
+Wesley Matthews , ATL, 37, 6-5, 220, Marquette, USA, Undrafted, Undrafted, Undrafted, 33.0, 3.2, 1.6, 0.7, -5.5, 2.0, 10.7, 11.7, 51.6, 7.7
+Xavier Moon , LAC, 29, 6-0, 165, Morehead, State, USA, Undrafted, Undrafted, Undrafted, 9.0, 1.2, 0.6, 0.8, -44.2, 5.0, 8.1, 21.8, 37.0, 35.0
+Xavier Tillman , BOS, 25, 6-7, 245, Michigan, State, USA, 2020, 2, 35, 47.0, 5.3, 4.2, 1.5, -2.6, 7.0, 14.9, 14.5, 45.5, 11.4
 Yuta Watanabe , MEM, 29, 6-9, 215, George, Washington, Japan, Undrafted, Undrafted, Undrafted, 34.0, 3.4, 1.6, 0.4, -7.3, 2.3, 8.8, 12.9, 47.4, 4.5
-Zach Collins , SAS, 26, 6-11, 250, Gonzaga, ,, USA, 2017, 1, 10, 62.0, 11.0, 5.2, 2.9, -11.9, 7.2, 15.5, 22.0, 56.0, 19.3
-Zach LaVine , CHI, 29, 6-5, 200, UCLA, ,, USA, 2014, 1, 13, 25.0, 19.5, 5.2, 3.9, -5.4, 0.9, 13.4, 23.8, 57.8, 17.2
-Zavier Simpson , MEM, 27, 6-0, 190, Michigan, ,, USA, Undrafted, Undrafted, Undrafted, 1.0, 0.0, 1.0, 4.0, 63.2, 7.7, 0.0, 8.0, 0.0, 36.4
-Zeke Nnaji , DEN, 23, 6-9, 240, Arizona, ,, USA, 2020, 1, 22, 53.0, 3.2, 2.1, 0.6, -12.8, 10.3, 9.5, 15.4, 52.2, 8.4
-Ziaire Williams , MEM, 22, 6-9, 185, Stanford, ,, USA, 2021, 1, 10, 51.0, 8.2, 3.5, 1.5, -9.9, 3.1, 13.8, 19.2, 51.1, 11.8
-Zion Williamson , NOP, 23, 6-6, 284, Duke, ,, USA, 2019, 1, 1, 63.0, 22.8, 5.9, 5.0, 3.0, 5.7, 12.7, 28.1, 62.2, 25.7
+Zach Collins , SAS, 26, 6-11, 250, Gonzaga, USA, 2017, 1, 10, 62.0, 11.0, 5.2, 2.9, -11.9, 7.2, 15.5, 22.0, 56.0, 19.3
+Zach LaVine , CHI, 29, 6-5, 200, UCLA, USA, 2014, 1, 13, 25.0, 19.5, 5.2, 3.9, -5.4, 0.9, 13.4, 23.8, 57.8, 17.2
+Zavier Simpson , MEM, 27, 6-0, 190, Michigan, USA, Undrafted, Undrafted, Undrafted, 1.0, 0.0, 1.0, 4.0, 63.2, 7.7, 0.0, 8.0, 0.0, 36.4
+Zeke Nnaji , DEN, 23, 6-9, 240, Arizona, USA, 2020, 1, 22, 53.0, 3.2, 2.1, 0.6, -12.8, 10.3, 9.5, 15.4, 52.2, 8.4
+Ziaire Williams , MEM, 22, 6-9, 185, Stanford, USA, 2021, 1, 10, 51.0, 8.2, 3.5, 1.5, -9.9, 3.1, 13.8, 19.2, 51.1, 11.8
+Zion Williamson , NOP, 23, 6-6, 284, Duke, USA, 2019, 1, 1, 63.0, 22.8, 5.9, 5.0, 3.0, 5.7, 12.7, 28.1, 62.2, 25.7
