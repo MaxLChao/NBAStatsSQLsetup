@@ -217,7 +217,7 @@ traditional = Table('traditional', metadata,
                    )
 
 # finally usage
-usage = Table('player_usage', metadata,
+player_usage = Table('player_usage', metadata,
               Column('ID', Integer, primary_key=True),
               Column('PLAYER', String(100)),
               Column('TEAM', String(50)),
@@ -491,7 +491,7 @@ for x in files:
             '%PTS': 'PTS_PCT',
         }, inplace=True)
         # write out
-        df.to_sql('usage', con = engine, if_exists='replace', index=False)
+        df.to_sql('player_usage', con = engine, if_exists='replace', index=False)
 #fi
 
 
