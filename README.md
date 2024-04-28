@@ -12,6 +12,9 @@ Basic premise is this:
 - Have script that can turn on/off Server
 - Have script to query server and generate basic analyses
 
+
+
+
 # Running
 
 Use scrapeNBA.py to run the NBA scrape. 
@@ -21,5 +24,29 @@ Use datacleanup.py to clean up data.
 Files will be stored with directory name in cleaned
 
 Final formatting before ingesting into a Database will occur in another script.
-Load into pandas -> convert to Mysql database -> upload ont cloud is run via uploadupdates.py
+Load into pandas -> convert to Mysql database -> this is done via createsqldb.py
+
+Step 1
+```
+python scrapeNBA.py /path/to/directory_to_place_raws
+```
+Output: Saves a directory of the date of the scrape in the output directory. Raw text files are stored.
+
+Step2:
+```
+python datacleanup.py /path/to/directory_to_place_raws
+```
+Output: Saves a directory of the date of the scrape in the `cleaned` directory with the cleaned tables
+
+Step3:
+```
+python createsqldb.py /path/of/cleaned/tables
+```
+Output: saves out to `sqldb` directory of the MySQL dump file created via the raw tables.
+
+Step4: upload the sql dump files onto google bucket of choice and host.
+
+# Connection Address:
+bmi520nbastatssql:us-central1:nbastatsscrape
+
 
