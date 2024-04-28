@@ -48,5 +48,18 @@ Step4: upload the sql dump files onto google bucket of choice and host.
 
 # Connection Address:
 bmi520nbastatssql:us-central1:nbastatsscrape
+IP:
+34.27.167.16
+email:
+p641611893501-xouqgc@gcp-sa-cloud-sql.iam.gserviceaccount.com
+
+# ipynb file is the analysis done via the SQL server.
+Will be offline because it costs money to have online unless specified.
+
+
+# run into gcloud instance
+
+```gcloud compute ssh --zone "us-west4-b" "instance-20240428-165238" --project "bmi520nbastatssql"```
+
 
 
