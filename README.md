@@ -46,20 +46,17 @@ Output: saves out to `sqldb` directory of the MySQL dump file created via the ra
 
 Step4: upload the sql dump files onto google bucket of choice and host.
 
-# Connection Address:
-bmi520nbastatssql:us-central1:nbastatsscrape
-IP:
-34.27.167.16
-email:
-p641611893501-xouqgc@gcp-sa-cloud-sql.iam.gserviceaccount.com
+Step5: Set up and activate the SQL server on cloud server.
 
-# ipynb file is the analysis done via the SQL server.
-Will be offline because it costs money to have online unless specified.
+Step6: Connect and run analysis. Ipynb has the steps that was run on google colab connected with my server account.
 
+Step7: Analyze.
 
-# run into gcloud instance
+# Ipynb file is the analysis done via the SQL server.
 
-```gcloud compute ssh --zone "us-west4-b" "instance-20240428-165238" --project "bmi520nbastatssql"```
+**SQL Server will be offline because it costs money to have online unless specified.**
+
+Will delete sometime this summer after trial ends.
 
 
 
