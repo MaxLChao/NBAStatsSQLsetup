@@ -25,7 +25,7 @@ Basic premise is this:
 - Analysis notebook querying the database to generate basic analyses of the variables
 
 
-
+**[LINK](https://docs.google.com/presentation/d/1DG-TYPFhoC1vmNl1Gjq_FjPI7m5ZafgBSs3ESF2SDFA/edit?usp=sharing) to slides for this project**
 
 ## Usage
 
